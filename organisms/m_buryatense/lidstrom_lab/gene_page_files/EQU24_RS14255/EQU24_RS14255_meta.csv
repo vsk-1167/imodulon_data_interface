@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS14255
+name,cysE
+operon,1040
+gene_product,serine O-acetyltransferase
+cog,E
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14255"">BioCyc</a>"

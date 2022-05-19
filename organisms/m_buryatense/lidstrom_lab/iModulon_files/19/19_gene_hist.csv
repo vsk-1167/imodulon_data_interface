@@ -1,0 +1,13 @@
+,-0.06526032775017167,-0.05339481361377682,-0.04152929947738197,-0.029663785340987125,-0.017798271204592278,-0.005932757068197431,0.005932757068197417,0.017798271204592264,0.02966378534098711,0.04152929947738196,0.053394813613776806,0.06526032775017164,0.0771258418865665,0.08899135602296136,0.1008568701593562,0.11272238429575103,0.12458789843214589,0.13645341256854077,0.14831892670493557,0.16018444084133043
+thresh,-0.03559654240918455,0.03559654240918455,1,,,,,,,,,,,,,,,,,
+unreg,1,4,1,49,551,2009,971,363,119,68,39,16,11,4,5,1,1,0,0,0
+unreg_genes,['tkt'],['nifH' 'nan' 'nan' 'nan'],['nirB'],[],[],[],[],[],[],"['nan' 'nan' 'nan' 'nan' 'nan' 'bioA' 'nan' 'nan' 'ltrA' 'nan' 'ccmD'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'tatA' 'nan' 'nan' 'rsxD'
+ 'thyA' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'rsxG' 'nan' 'nan' 'amrA'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'aspS' 'nth'
+ 'urtE' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'htpX' 'nan' 'nan' 'nan' 'nan' 'rlmE' 'nan' 'nan' 'nan' 'amrB' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'coxB' 'rpoE' 'nan'
+ 'nan' 'nan' 'nan' 'nan']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'umuD' 'nan' 'hflC' 'nadA'
+ 'nan' 'ctaD' 'nan' 'nan' 'nan']",['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'hflK' 'nan' 'nqrM' 'nan'],[nan nan nan nan],[nan nan nan nan nan],[nan],[nan],[],[],[]

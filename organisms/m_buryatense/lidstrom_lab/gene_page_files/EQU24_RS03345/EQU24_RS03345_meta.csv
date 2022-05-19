@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS03345
+name,pilB
+operon,2387
+gene_product,type IV-A pilus assembly ATPase PilB
+cog,N
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03345"">BioCyc</a>"

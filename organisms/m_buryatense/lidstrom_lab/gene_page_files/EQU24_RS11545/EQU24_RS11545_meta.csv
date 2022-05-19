@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11545
+name,dnaK
+operon,1376
+gene_product,molecular chaperone DnaK
+cog,O
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11545"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS05105
+name,gspE
+operon,2186
+gene_product,type II secretion system protein GspE
+cog,N
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05105"">BioCyc</a>"

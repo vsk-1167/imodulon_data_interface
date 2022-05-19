@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS14450
+name,ccmB
+operon,1019
+gene_product,heme exporter protein CcmB
+cog,U
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14450"">BioCyc</a>"

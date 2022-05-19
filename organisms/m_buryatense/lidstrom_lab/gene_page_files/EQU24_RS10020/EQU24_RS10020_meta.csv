@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS10020
+name,chrA
+operon,1559
+gene_product,chromate efflux transporter
+cog,P
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10020"">BioCyc</a>"

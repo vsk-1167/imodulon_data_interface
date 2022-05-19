@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12135
+name,cas1
+operon,1307
+gene_product,CRISPR-associated endonuclease Cas1
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12135"">BioCyc</a>"

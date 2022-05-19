@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS03975
+name,secY
+operon,2329
+gene_product,preprotein translocase subunit SecY
+cog,U
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03975"">BioCyc</a>"

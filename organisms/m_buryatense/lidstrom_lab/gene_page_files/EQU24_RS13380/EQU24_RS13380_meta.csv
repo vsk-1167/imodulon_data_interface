@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS13380
+name,bioA
+operon,1152
+gene_product,adenosylmethionine--8-amino-7-oxononanoate transaminase
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13380"">BioCyc</a>"

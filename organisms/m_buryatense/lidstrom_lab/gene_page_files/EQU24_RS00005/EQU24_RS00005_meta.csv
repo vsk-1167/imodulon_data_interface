@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00005
+name,dnaA
+operon,2831
+gene_product,chromosomal replication initiator protein DnaA
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00005"">BioCyc</a>"

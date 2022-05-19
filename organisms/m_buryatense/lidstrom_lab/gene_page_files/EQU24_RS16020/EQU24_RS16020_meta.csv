@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS16020
+name,cpaB
+operon,801
+gene_product,Flp pilus assembly protein CpaB
+cog,U
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16020"">BioCyc</a>"

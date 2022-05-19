@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS05985
+name,rfbB
+operon,2077
+gene_product,"dTDP-glucose 4,6-dehydratase"
+cog,M
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05985"">BioCyc</a>"

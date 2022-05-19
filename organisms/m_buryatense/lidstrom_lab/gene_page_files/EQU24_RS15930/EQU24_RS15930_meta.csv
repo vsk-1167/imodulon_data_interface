@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS15930
+name,flhB
+operon,809
+gene_product,flagellar type III secretion system protein FlhB
+cog,N
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15930"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12580
+name,rlmD
+operon,1251
+gene_product,23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12580"">BioCyc</a>"

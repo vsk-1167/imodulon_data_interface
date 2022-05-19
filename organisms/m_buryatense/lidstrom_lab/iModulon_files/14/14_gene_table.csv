@@ -1,0 +1,51 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS09010,0.1554419983866717,,formate/nitrite transporter family protein,P,1690,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09010
+EQU24_RS12625,0.143883473979378,,ABC transporter permease,P,1245,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12625
+EQU24_RS12620,0.1368611377291377,,ABC transporter substrate-binding protein,P,1246,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12620
+EQU24_RS02555,0.1338458657062288,,hypothetical protein,N,2479,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02555
+EQU24_RS07180,0.1328736191736856,glnK,P-II family nitrogen regulator,K,1921,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07180
+EQU24_RS12630,0.1311013804983084,,ATP-binding cassette domain-containing protein,P,1245,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12630
+EQU24_RS07175,0.1277250169231316,,ammonium transporter,P,1921,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07175
+EQU24_RS12635,0.1213044049881399,,hypothetical protein,S,1244,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12635
+EQU24_RS03640,0.121274276361387,,hypothetical protein,E,2350,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03640
+EQU24_RS08975,0.1205296151052171,,MFS transporter,P,1694,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08975
+EQU24_RS09005,0.1185805510355062,,bifunctional protein-serine/threonine kinase/phosphatase,K,1691,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09005
+EQU24_RS12640,0.1143964146951338,,NAD(P)/FAD-dependent oxidoreductase,C,1243,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12640
+EQU24_RS08410,0.1051451883066639,,response regulator,T,1769,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08410
+EQU24_RS07190,0.10460816523948,,nitrogen regulation protein NR(II),T,1919,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07190
+EQU24_RS08970,0.1042933983052603,,ANTAR domain-containing protein,K,1694,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08970
+EQU24_RS09000,0.1007545068577381,cynS,cyanase,P,1691,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09000
+EQU24_RS19170,0.098271423211354,,porin,I,404,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19170
+EQU24_RS03425,0.0973721568546801,,transglutaminase family protein,E,2381,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03425
+EQU24_RS07195,0.0959447716773826,ntrC,nitrogen regulation protein NR(I),T,1919,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07195
+EQU24_RS16230,0.0895222076984422,,alpha-E domain-containing protein,S,771,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16230
+EQU24_RS04700,0.0889592223305016,,glycogen/starch/alpha-glucan family phosphorylase,G,2239,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04700
+EQU24_RS16225,0.0884282874595452,,circularly permuted type 2 ATP-grasp protein,S,771,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16225
+EQU24_RS14915,0.0878796613493011,urtD,urea ABC transporter ATP-binding protein UrtD,S,948,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14915
+EQU24_RS08415,0.0873780935607733,,hypothetical protein,-,1768,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08415
+EQU24_RS14910,0.0872354358893909,,ABC transporter ATP-binding protein,E,948,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14910
+EQU24_RS12645,0.0869315404289233,,nitrate reductase,C,1243,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12645
+EQU24_RS14885,0.0825658960855718,,urease subunit beta,E,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14885
+EQU24_RS14895,0.0816578970570311,,urease accessory protein UreD,O,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14895
+EQU24_RS17270,0.0799712470188536,nifL,nitrogen fixation negative regulator NifL,K,643,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17270
+EQU24_RS03420,0.0768052713986112,,circularly permuted type 2 ATP-grasp protein,S,2382,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03420
+EQU24_RS07165,0.0760767139233548,,ammonium transporter,P,1923,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07165
+EQU24_RS14900,0.0728221432399933,,HupE/UreJ family protein,O,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14900
+EQU24_RS14890,0.0717627705346728,ureA,urease subunit gamma,E,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14890
+EQU24_RS07240,0.0700898866424583,,DUF2934 domain-containing protein,I,1914,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07240
+EQU24_RS08985,0.0693565261509822,nirB,nitrite reductase large subunit,C,1692,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08985
+EQU24_RS12805,0.069235914687316,,IS4 family transposase,L,1225,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805
+EQU24_RS05720,0.0673664907096553,,SulP family inorganic anion transporter,U,2113,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05720
+EQU24_RS07170,0.0657520027617461,,P-II family nitrogen regulator,K,1922,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07170
+EQU24_RS08990,0.0653824278758107,nirD,nitrite reductase small subunit NirD,P,1692,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08990
+EQU24_RS03415,0.0626063863586703,,transglutaminase family protein,E,2382,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03415
+EQU24_RS08995,0.0622341971811034,,PhzF family phenazine biosynthesis protein,S,1692,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08995
+EQU24_RS17155,0.0600888102651808,,NifX-associated nitrogen fixation protein,S,658,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17155
+EQU24_RS03580,0.0599968376739387,,SulP family inorganic anion transporter,P,2359,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03580
+EQU24_RS08980,0.0591803928222618,,hypothetical protein,-,1693,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08980
+EQU24_RS16200,0.0591629485746443,,EAL domain-containing protein,T,774,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16200
+EQU24_RS07870,0.0574842543682188,,alpha-amylase,G,1840,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07870
+EQU24_RS14875,0.0574012826038187,ureE,urease accessory protein UreE,O,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14875
+EQU24_RS17160,0.0565226569469398,,nitrogen fixation protein NifX,S,657,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17160
+EQU24_RS00940,-0.0598039765112984,,hypothetical protein,-,2704,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00940
+EQU24_RS10735,-0.0748379285622807,,DUF4242 domain-containing protein,S,1481,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10735

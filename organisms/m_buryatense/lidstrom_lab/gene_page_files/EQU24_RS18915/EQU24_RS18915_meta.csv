@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS18915
+name,recG
+operon,440
+gene_product,ATP-dependent DNA helicase RecG
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18915"">BioCyc</a>"

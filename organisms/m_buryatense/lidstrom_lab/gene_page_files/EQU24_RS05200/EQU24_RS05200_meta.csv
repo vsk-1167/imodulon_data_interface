@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS05200
+name,thiL
+operon,2179
+gene_product,thiamine-phosphate kinase
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05200"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS03710
+name,gatC
+operon,2342
+gene_product,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03710"">BioCyc</a>"

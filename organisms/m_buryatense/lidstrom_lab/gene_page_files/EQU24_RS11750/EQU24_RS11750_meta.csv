@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11750
+name,tsaE
+operon,1347
+gene_product,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11750"">BioCyc</a>"

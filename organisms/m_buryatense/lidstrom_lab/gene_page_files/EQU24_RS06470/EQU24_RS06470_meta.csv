@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS06470
+name,queG
+operon,2011
+gene_product,tRNA epoxyqueuosine(34) reductase QueG
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06470"">BioCyc</a>"

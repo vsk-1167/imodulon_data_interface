@@ -1,0 +1,6 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS18855,0.3154327167967315,,,-,446,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18855
+EQU24_RS18840,0.2540453310166017,,,-,447,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18840
+EQU24_RS00640,0.2456827219801311,,,-,2742,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00640
+EQU24_RS00625,0.1914812379182809,,,-,2744,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00625
+EQU24_RS02055,-0.333334004448081,,TonB-dependent receptor,P,2549,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02055

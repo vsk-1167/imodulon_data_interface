@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12780
+name,pstS
+operon,1228
+gene_product,phosphate ABC transporter substrate-binding protein PstS family protein
+cog,P
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12780"">BioCyc</a>"

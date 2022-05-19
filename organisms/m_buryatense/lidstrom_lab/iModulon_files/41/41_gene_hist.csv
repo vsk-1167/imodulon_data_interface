@@ -1,0 +1,25 @@
+,-0.07610346742004695,-0.06715011831180613,-0.05819676920356531,-0.049243420095324494,-0.040290070987083676,-0.03133672187884286,-0.02238337277060204,-0.01343002366236122,-0.004476674554120402,0.004476674554120416,0.013430023662361235,0.022383372770602053,0.03133672187884287,0.04029007098708369,0.04924342009532451,0.05819676920356534,0.06715011831180615,0.07610346742004695,0.08505681652828778,0.09401016563652861
+thresh,-0.02686004732472245,0.02686004732472245,1,,,,,,,,,,,,,,,,,
+unreg,1,0,3,3,10,79,258,779,1174,939,503,269,103,45,23,17,7,0,0,0
+unreg_genes,[nan],[],[nan nan nan],[nan nan nan],[nan nan nan nan nan nan nan nan nan nan],"['nan' 'nan' 'pstA' 'nan' 'nan' 'nan' 'ctaD' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'rsxA' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan']",[],[],[],[],[],[],"['gyrB' 'nan' 'nan' 'nan' 'nan' 'nan' 'metH' 'nan' 'rbfA' 'parE' 'nan'
+ 'nan' 'metF' 'nan' 'secD' 'nan' 'nan' 'nan' 'nan' 'nan' 'purD' 'nan'
+ 'nan' 'nan' 'fabG' 'ectB' 'cas2' 'nan' 'nan' 'nan' 'nan' 'nan' 'fabD'
+ 'ilvN' 'nan' 'nan' 'nan' 'atpE' 'nan' 'tuf' 'nifK' 'nan' 'nan' 'glnK'
+ 'nan' 'nan' 'cgtA' 'nan' 'gatC' 'nan' 'ftsZ' 'plsX' 'nan' 'leuC' 'nan'
+ 'typA' 'nan' 'nan' 'nirD' 'nan' 'nan' 'infB' 'rpsM' 'leuB' 'nan' 'nan'
+ 'ispF' 'nan' 'secF' 'nan' 'ftsE' 'nifH' 'nan' 'ispD' 'pyk' 'rpmI' 'nan'
+ 'nan' 'yidC' 'nan' 'pheT' 'clpP' 'nan' 'nan' 'clpX' 'pheS' 'nan' 'ilvC'
+ 'nan' 'nan' 'lysS' 'atpD' 'rpsL' 'nan' 'nusA' 'nan' 'ureA' 'nan' 'nan'
+ 'nan' 'sucD' 'gatB' 'nan']","['secE' 'nan' 'pnp' 'nan' 'rpsF' 'gatA' 'nan' 'guaA' 'nan' 'nan' 'nan'
+ 'nan' 'rplI' 'nan' 'nan' 'nan' 'leuD' 'nan' 'nan' 'nan' 'nan' 'rpsK'
+ 'nan' 'nan' 'nan' 'nan' 'nusG' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'fbaA'
+ 'nan' 'secY' 'nan' 'nan' 'nan' 'nan' 'atpG' 'rpmJ' 'rplN' 'nan' 'ftsB']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'rplB' 'rplL' 'nan' 'nan'
+ 'rpsD' 'nan' 'nan' 'rpsG' 'rpsS' 'rplC' 'nan' 'rpsR' 'nan' 'rplF' 'fusA'
+ 'rpsC']","['rpoA' 'rpoB' 'tkt' 'rpsN' 'nan' 'rpoC' 'rplO' 'nan' 'nan' 'rpmC' 'rpsJ'
+ 'rplA' 'rplP' 'tuf' 'nan' 'rplK' 'nan']",['rpsQ' 'rpmD' 'rplD' 'rplE' 'nan' 'rplX' 'rpsH'],[],[],[]

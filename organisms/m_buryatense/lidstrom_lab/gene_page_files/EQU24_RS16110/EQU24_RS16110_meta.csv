@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS16110
+name,tsaB
+operon,789
+gene_product,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB
+cog,O
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16110"">BioCyc</a>"

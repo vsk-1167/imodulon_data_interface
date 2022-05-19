@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS06750
+name,rffA
+operon,1975
+gene_product,"dTDP-4-amino-4,6-dideoxygalactose transaminase"
+cog,E
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06750"">BioCyc</a>"

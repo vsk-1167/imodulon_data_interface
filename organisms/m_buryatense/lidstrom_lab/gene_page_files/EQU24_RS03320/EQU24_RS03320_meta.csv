@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS03320
+name,lptG
+operon,2390
+gene_product,LPS export ABC transporter permease LptG
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03320"">BioCyc</a>"

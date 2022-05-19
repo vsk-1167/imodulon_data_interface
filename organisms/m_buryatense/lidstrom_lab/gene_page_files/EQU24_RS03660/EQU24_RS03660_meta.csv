@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS03660
+name,lipB
+operon,2347
+gene_product,lipoyl(octanoyl) transferase LipB
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03660"">BioCyc</a>"

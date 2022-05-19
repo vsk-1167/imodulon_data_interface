@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11665
+name,odhB
+operon,1360
+gene_product,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11665"">BioCyc</a>"

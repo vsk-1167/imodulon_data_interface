@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11080
+name,hypA
+operon,1443
+gene_product,hydrogenase maturation nickel metallochaperone HypA
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11080"">BioCyc</a>"

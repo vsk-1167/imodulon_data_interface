@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00540
+name,metF
+operon,2758
+gene_product,methylenetetrahydrofolate reductase [NAD(P)H]
+cog,E
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00540"">BioCyc</a>"

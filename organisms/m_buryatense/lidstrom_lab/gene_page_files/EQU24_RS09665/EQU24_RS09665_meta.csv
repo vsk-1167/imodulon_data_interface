@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09665
+name,fabB
+operon,1602
+gene_product,beta-ketoacyl-ACP synthase I
+cog,I
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09665"">BioCyc</a>"

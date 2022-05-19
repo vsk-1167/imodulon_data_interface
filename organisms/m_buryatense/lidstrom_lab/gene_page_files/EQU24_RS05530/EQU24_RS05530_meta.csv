@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS05530
+name,glnD
+operon,2135
+gene_product,[protein-PII] uridylyltransferase
+cog,O
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05530"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS21980
+name,metG
+operon,22
+gene_product,methionine--tRNA ligase
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21980"">BioCyc</a>"

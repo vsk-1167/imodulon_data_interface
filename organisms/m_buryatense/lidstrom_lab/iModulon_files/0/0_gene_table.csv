@@ -1,0 +1,112 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS01150,0.208770711585585,,hypothetical protein,-,2671,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01150
+EQU24_RS19125,0.1253645317439485,rplU,50S ribosomal protein L21,J,411,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19125
+EQU24_RS02170,0.1239300778984623,,LapA family protein,S,2530,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02170
+EQU24_RS20900,0.1203905304731704,,hypothetical protein,-,167,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20900
+EQU24_RS13910,0.1172485905620655,,hypothetical protein,-,1086,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13910
+EQU24_RS03760,0.1092056722371441,lolB,outer membrane lipoprotein LolB,M,2338,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03760
+EQU24_RS03555,0.0885717898598381,,hypothetical protein,-,2363,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03555
+EQU24_RS19115,0.0879010378726438,cgtA,Obg family GTPase CgtA,S,412,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19115
+EQU24_RS15185,0.0871213161357691,hflK,FtsH protease activity modulator HflK,O,913,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15185
+EQU24_RS11930,0.0823073438466069,,DUF4351 domain-containing protein,S,1327,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11930
+EQU24_RS01110,0.0820338874842925,,hypothetical protein,N,2676,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01110
+EQU24_RS19750,0.0800381616883479,rsmH,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,J,330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19750
+EQU24_RS19755,0.0793166462781368,mraZ,division/cell wall cluster transcriptional repressor MraZ,K,330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19755
+EQU24_RS19120,0.0783273565638325,,50S ribosomal protein L27,J,411,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19120
+EQU24_RS17660,0.0773558448988989,fliS,flagellar export chaperone FliS,N,596,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17660
+EQU24_RS05625,0.0766106020898022,,sel1 repeat family protein,S,2124,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05625
+EQU24_RS19635,0.0736268809187439,,hypothetical protein,-,340,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19635
+EQU24_RS19745,0.0733522838451842,ftsL,cell division protein FtsL,D,330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19745
+EQU24_RS19290,0.0716707190542953,,hypothetical protein,-,386,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19290
+EQU24_RS15990,0.0714249896821567,,hypothetical protein,-,803,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15990
+EQU24_RS22125,0.0712968990947554,,DUF4102 domain-containing protein,L,3,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS22125
+EQU24_RS02730,0.0700001479936352,,tyrosine--tRNA ligase,J,2455,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02730
+EQU24_RS04305,0.0693853274032844,,DUF4351 domain-containing protein,S,2289,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04305
+EQU24_RS03880,0.0684298459297928,rplD,50S ribosomal protein L4,J,2330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03880
+EQU24_RS00495,0.0676999180656278,plsY,glycerol-3-phosphate 1-O-acyltransferase PlsY,I,2764,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00495
+EQU24_RS04530,0.0659214686091924,,hypothetical protein,-,2264,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04530
+EQU24_RS00660,0.0649174667874751,,MCE family protein,Q,2741,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00660
+EQU24_RS19110,0.0643104978713122,,glutamate 5-kinase,F,412,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19110
+EQU24_RS07915,0.0640769254484568,,hypothetical protein,-,1834,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07915
+EQU24_RS19135,0.0607392462738629,,sigma-54-dependent Fis family transcriptional regulator,K,409,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19135
+EQU24_RS16035,0.0600194787556475,,Flp family type IVb pilin,U,799,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16035
+EQU24_RS00600,0.058179927640114,,DedA family protein,S,2749,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00600
+EQU24_RS09295,0.0572596678770505,,glycine zipper family protein,-,1656,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09295
+EQU24_RS13340,0.0570970622705743,,radical SAM protein,C,1156,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13340
+EQU24_RS18190,0.0569689427154841,,hypothetical protein,-,534,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18190
+EQU24_RS15965,0.0558325506480965,,hypothetical protein,N,808,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15965
+EQU24_RS01420,0.0553221942564298,,alpha/beta hydrolase,S,2636,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01420
+EQU24_RS17725,0.0552820369090912,,class I SAM-dependent methyltransferase,-,588,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17725
+EQU24_RS16160,0.055167009925212,,AI-2E family transporter,S,782,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16160
+EQU24_RS10585,0.0551176949788534,,response regulator,T,1493,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10585
+EQU24_RS06400,0.0541428912583941,,sugar transporter,M,2021,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06400
+EQU24_RS01075,0.0541085074239889,,cell envelope integrity protein TolA,-,2680,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01075
+EQU24_RS21815,0.0540577165456417,,hypothetical protein,-,43,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21815
+EQU24_RS00165,0.0536462559615554,,hypothetical protein,-,2810,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00165
+EQU24_RS20610,0.0535959449929024,,ISAs1 family transposase,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
+EQU24_RS02505,0.0535420373604412,,multidrug efflux SMR transporter,U,2484,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02505
+EQU24_RS09660,0.0529610915607411,fabA,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA,I,1602,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09660
+EQU24_RS07995,0.0522682241973742,,IS3 family transposase,L,1825,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07995
+EQU24_RS19690,0.0516172506475645,,FtsQ-type POTRA domain-containing protein,D,331,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19690
+EQU24_RS13015,0.051403448825436,,hypothetical protein,-,1201,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13015
+EQU24_RS22130,0.0503311894108423,,,-,2,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS22130
+EQU24_RS12525,0.0485744756706857,,,-,1258,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12525
+EQU24_RS02195,0.048278145546595,,TraR/DksA family transcriptional regulator,K,2527,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02195
+EQU24_RS00915,0.0480389476169265,,YbjQ family protein,S,2707,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00915
+EQU24_RS09895,0.048005515893137,,heavy-metal-associated domain-containing protein,C,1575,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09895
+EQU24_RS18680,0.0477128598283452,,molecular chaperone SurA,O,470,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18680
+EQU24_RS17655,0.0476064574427389,,hypothetical protein,-,596,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17655
+EQU24_RS18355,0.0475308979623211,,hypothetical protein,-,512,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18355
+EQU24_RS00390,0.0475095205201602,,glycosyltransferase family 4 protein,M,2777,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00390
+EQU24_RS09905,0.0470970081369078,,hypothetical protein,-,1574,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09905
+EQU24_RS17235,0.046838578270792,,RnfH family protein,S,647,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17235
+EQU24_RS03010,0.0467115995886642,,Rpn family recombination-promoting nuclease/putative transposase,S,2421,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03010
+EQU24_RS00790,0.0465669837753898,,class I SAM-dependent methyltransferase,S,2722,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00790
+EQU24_RS04490,0.0464455865024118,pilQ,type IV pilus secretin family protein,U,2270,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04490
+EQU24_RS10030,0.0461796125269662,,ATP-binding protein,T,1558,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10030
+EQU24_RS13665,0.0461030896886774,,hypothetical protein,-,1118,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13665
+EQU24_RS01885,0.0451667748566466,,DUF4351 domain-containing protein,S,2570,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01885
+EQU24_RS04290,0.044919286873279,,DNA-binding transcriptional regulator,K,2292,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04290
+EQU24_RS20705,0.0446439312582362,,hypothetical protein,-,199,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20705
+EQU24_RS03875,0.0445017552603229,rplC,50S ribosomal protein L3,J,2330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03875
+EQU24_RS04950,0.0437985938267113,,hypothetical protein,-,2209,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04950
+EQU24_RS03175,0.043752177973569,lptC,LPS export ABC transporter periplasmic protein LptC,S,2407,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03175
+EQU24_RS17680,0.0434687821165584,,hypothetical protein,N,592,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17680
+EQU24_RS08935,0.0431246066420773,,DUF433 domain-containing protein,S,1699,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08935
+EQU24_RS12435,0.0427923220183277,,YgiT-type zinc finger protein,-,1269,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12435
+EQU24_RS09225,0.0426982598303972,,GHKL domain-containing protein,T,1664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09225
+EQU24_RS03860,0.0417179725997897,fusA,elongation factor G,J,2330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03860
+EQU24_RS12945,0.0417175822294408,,hypothetical protein,-,1212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12945
+EQU24_RS04865,0.0414652582746941,sppA,signal peptide peptidase SppA,O,2218,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04865
+EQU24_RS13240,0.0411681970730427,,rhomboid family intramembrane serine protease,S,1168,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13240
+EQU24_RS00455,0.0410636800965458,tatA,twin-arginine translocase TatA/TatE family subunit,U,2769,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00455
+EQU24_RS11925,0.0410138715880631,,hypothetical protein,-,1328,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11925
+EQU24_RS00605,0.0409381245317482,,hypothetical protein,-,2748,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00605
+EQU24_RS00620,0.0408921052595383,msbA,lipid A export permease/ATP-binding protein MsbA,V,2745,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00620
+EQU24_RS02535,0.0403510954593189,,hypothetical protein,P,2481,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02535
+EQU24_RS06060,0.040318154819898,,DUF192 domain-containing protein,S,2069,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06060
+EQU24_RS00450,0.0401349836702695,,phosphoribosyl-ATP diphosphatase,E,2770,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00450
+EQU24_RS13270,0.0401034855197866,,DedA family protein,S,1164,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13270
+EQU24_RS06215,0.0400962685932173,,DUF1722 domain-containing protein,S,2048,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06215
+EQU24_RS02510,0.0397710666870412,,hypothetical protein,P,2484,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02510
+EQU24_RS18400,0.039249078497608,,transposase,L,504,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18400
+EQU24_RS00110,0.0391799626515445,,OsmC family protein,O,2817,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00110
+EQU24_RS04960,0.039132807856841,,cupin domain-containing protein,S,2207,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04960
+EQU24_RS05540,0.0391106465917746,rpsB,30S ribosomal protein S2,J,2134,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05540
+EQU24_RS16260,0.0390998135468023,,DedA family protein,S,765,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16260
+EQU24_RS15035,0.0384845364173575,,carboxylesterase,S,930,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15035
+EQU24_RS04125,0.0381540740599787,,Rpn family recombination-promoting nuclease/putative transposase,S,2312,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04125
+EQU24_RS09250,0.0379110833510471,recR,recombination protein RecR,L,1661,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09250
+EQU24_RS17220,-0.0381652675101852,,nitrogenase-associated protein,P,650,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17220
+EQU24_RS06210,-0.0390548813050871,,hypothetical protein,L,2049,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06210
+EQU24_RS21260,-0.0394887193657836,,hypothetical protein,-,120,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21260
+EQU24_RS14775,-0.0406587511010751,,hypothetical protein,S,964,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14775
+EQU24_RS16370,-0.0411210241725904,,helix-turn-helix domain-containing protein,-,755,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16370
+EQU24_RS10695,-0.0435987087122902,,hypothetical protein,-,1486,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10695
+EQU24_RS17470,-0.0457841982847233,,NYN domain-containing protein,S,620,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17470
+EQU24_RS06205,-0.0462120144548605,,hypothetical protein,-,2050,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06205
+EQU24_RS05645,-0.0507417389291898,,,-,2123,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05645
+EQU24_RS09050,-0.0508501783459019,,IS66 family transposase,L,1685,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09050
+EQU24_RS18430,-0.0550043982396402,,IS4 family transposase,L,501,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18430
+EQU24_RS08030,-0.0593907169826033,,IS4 family transposase,L,1821,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08030
+EQU24_RS12140,-0.075005929782166,cas2,CRISPR-associated endonuclease Cas2,L,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12140

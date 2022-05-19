@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS14340
+name,feoB
+operon,1027
+gene_product,Fe(2+) transporter permease subunit FeoB
+cog,P
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14340"">BioCyc</a>"

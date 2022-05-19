@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS10435
+name,dusA
+operon,1512
+gene_product,tRNA dihydrouridine(20/20a) synthase DusA
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10435"">BioCyc</a>"

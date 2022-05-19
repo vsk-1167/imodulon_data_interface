@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS14845
+name,clpS
+operon,954
+gene_product,ATP-dependent Clp protease adapter ClpS
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14845"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS20310
+name,casA
+operon,253
+gene_product,type I-E CRISPR-associated protein Cse1/CasA
+cog,-
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20310"">BioCyc</a>"

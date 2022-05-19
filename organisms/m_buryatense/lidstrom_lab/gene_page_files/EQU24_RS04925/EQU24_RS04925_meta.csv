@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS04925
+name,fliG
+operon,2211
+gene_product,flagellar motor switch protein FliG
+cog,N
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04925"">BioCyc</a>"

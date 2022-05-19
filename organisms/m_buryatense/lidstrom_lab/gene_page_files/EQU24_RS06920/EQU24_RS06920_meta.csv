@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS06920
+name,rfbC
+operon,1950
+gene_product,"dTDP-4-dehydrorhamnose 3,5-epimerase"
+cog,G
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06920"">BioCyc</a>"

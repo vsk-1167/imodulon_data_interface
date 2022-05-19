@@ -1,0 +1,12 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS01765,0.2111927145353474,,DUF504 domain-containing protein,A,2590,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01765
+EQU24_RS05320,0.2056329142472145,cobS,adenosylcobinamide-GDP ribazoletransferase,H,2166,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05320
+EQU24_RS08455,0.2031396462020192,urtB,urea ABC transporter permease subunit UrtB,E,1762,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08455
+EQU24_RS11970,0.1857838311407988,,hypothetical protein,Q,1322,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11970
+EQU24_RS00185,0.1771155853481787,,hypothetical protein,L,2806,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00185
+EQU24_RS01150,0.1641473153034672,,hypothetical protein,-,2671,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01150
+EQU24_RS14755,0.1611325454280517,,hemerythrin domain-containing protein,S,966,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14755
+EQU24_RS08830,0.1113974777319983,,transposase,L,1713,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08830
+EQU24_RS20980,0.1044152119560844,,ISAs1 family transposase,L,155,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20980
+EQU24_RS06205,0.1031947016451509,,hypothetical protein,-,2050,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06205
+EQU24_RS15150,0.0927927527555549,,hypothetical protein,-,916,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15150

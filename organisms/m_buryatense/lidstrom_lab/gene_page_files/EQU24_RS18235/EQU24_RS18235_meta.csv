@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS18235
+name,cmoA
+operon,526
+gene_product,carboxy-S-adenosyl-L-methionine synthase CmoA
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18235"">BioCyc</a>"

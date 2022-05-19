@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS05370
+name,bluB
+operon,2160
+gene_product,"5,6-dimethylbenzimidazole synthase"
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05370"">BioCyc</a>"

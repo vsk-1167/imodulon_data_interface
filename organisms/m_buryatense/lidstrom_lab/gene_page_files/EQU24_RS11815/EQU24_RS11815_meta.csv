@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11815
+name,aroC
+operon,1341
+gene_product,chorismate synthase
+cog,E
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11815"">BioCyc</a>"

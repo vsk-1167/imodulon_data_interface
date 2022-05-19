@@ -1,0 +1,10 @@
+,-0.06614490034208184,-0.047246357387201315,-0.02834781443232079,-0.009449271477440263,0.009449271477440263,0.02834781443232079,0.047246357387201315,0.06614490034208184,0.08504344329696237,0.1039419862518429,0.12284052920672342,0.14173907216160395,0.16063761511648447,0.179536158071365,0.19843470102624552,0.21733324398112605,0.23623178693600658,0.25513032989088713,0.2740288728457676,0.2929274158006482
+thresh,-0.03779708590976105,0.03779708590976105,1,,,,,,,,,,,,,,,,,
+unreg,2,11,131,2372,1341,258,63,19,10,1,4,0,0,0,0,1,0,0,0,0
+unreg_genes,['cas2' 'nan'],[nan nan nan nan nan nan nan nan nan nan nan],[],[],[],[],"['recR' 'nan' 'nan' 'nan' 'rpsB' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'msbA' 'nan' 'nan' 'tatA' 'nan' 'sppA' 'nan' 'fusA' 'nan'
+ 'nan' 'nan' 'nan' 'lptC' 'nan' 'rplC' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'pilQ' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'fabA' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'plsY' 'rplD'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'ftsL' 'nan']",['nan' 'fliS' 'nan' 'mraZ' 'rsmH' 'nan' 'nan' 'hflK' 'cgtA' 'nan'],['lolB'],['nan' 'nan' 'nan' 'rplU'],[],[],[],[],[nan],[],[],[],[]

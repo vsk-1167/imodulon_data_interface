@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12315
+name,smc
+operon,1282
+gene_product,chromosome segregation protein SMC
+cog,D
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12315"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11245
+name,tssB
+operon,1420
+gene_product,type VI secretion system contractile sheath small subunit
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11245"">BioCyc</a>"

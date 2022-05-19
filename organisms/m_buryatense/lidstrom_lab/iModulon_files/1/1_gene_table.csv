@@ -1,0 +1,24 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS09835,0.2569973619268385,,,-,1582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09835
+EQU24_RS20615,0.1551068727668515,,DUF4338 domain-containing protein,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20615
+EQU24_RS18555,0.1133865070512323,,,-,489,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18555
+EQU24_RS00625,0.1078569671316972,,,-,2744,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00625
+EQU24_RS05645,0.10090363161463,,,-,2123,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05645
+EQU24_RS19665,0.0925425282050701,,hypothetical protein,-,334,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19665
+EQU24_RS10945,0.0859385269926236,,membrane protein,T,1458,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10945
+EQU24_RS15095,0.0828314186409709,,,-,924,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15095
+EQU24_RS20040,0.0814143410641414,,TIGR03790 family protein,S,287,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20040
+EQU24_RS03550,0.077104115061341,ltrA,group II intron reverse transcriptase/maturase,L,1224,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03550
+EQU24_RS13885,0.0750463884909561,,(2Fe-2S)-binding protein,P,1090,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13885
+EQU24_RS08845,0.0735836931467019,,type II toxin-antitoxin system HicB family antitoxin,S,1710,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08845
+EQU24_RS12825,0.0733578052431327,,type II toxin-antitoxin system HicB family antitoxin,S,1222,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12825
+EQU24_RS19925,0.0699865788901856,,hypothetical protein,-,302,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19925
+EQU24_RS15570,0.0683401586644494,,hypothetical protein,-,857,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15570
+EQU24_RS05725,0.0643015413959325,,hypothetical protein,-,2112,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05725
+EQU24_RS20700,0.0617228750666518,,hypothetical protein,-,200,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20700
+EQU24_RS09050,-0.0630401726099959,,IS66 family transposase,L,1685,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09050
+EQU24_RS17080,-0.0661678403899793,nifT,putative nitrogen fixation protein NifT,Q,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17080
+EQU24_RS09300,-0.0695926213082725,ltrA,group II intron reverse transcriptase/maturase,L,1224,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09300
+EQU24_RS09560,-0.1001197384937472,,hypothetical protein,-,1618,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09560
+EQU24_RS00645,-0.1134640863496879,,,-,448,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00645
+EQU24_RS12090,-0.2066544342396211,,hypothetical protein,-,1313,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12090

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09755
+name,nadA
+operon,1588
+gene_product,quinolinate synthase NadA
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09755"">BioCyc</a>"

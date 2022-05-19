@@ -1,0 +1,11 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS03455,0.3029553904917226,,hypothetical protein,-,2375,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03455
+EQU24_RS16380,0.2815204370476988,,hypothetical protein,-,753,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16380
+EQU24_RS10685,0.2705547952954163,,hypothetical protein,-,1488,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10685
+EQU24_RS03435,0.2532357422754237,,hypothetical protein,-,2379,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03435
+EQU24_RS21260,0.2302906556637076,,hypothetical protein,-,120,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21260
+EQU24_RS11990,0.2037154806076692,,IS1595 family transposase,L,1320,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11990
+EQU24_RS01555,0.194751165846387,,hypothetical protein,-,2616,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01555
+EQU24_RS08710,0.1778122591057689,,hypothetical protein,-,1728,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08710
+EQU24_RS01175,0.1687435043654079,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,K,2668,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01175
+EQU24_RS14930,0.1303170149011446,,hypothetical protein,-,947,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930

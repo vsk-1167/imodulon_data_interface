@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS19070
+name,ampD
+operon,418
+gene_product,"1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD"
+cog,V
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19070"">BioCyc</a>"

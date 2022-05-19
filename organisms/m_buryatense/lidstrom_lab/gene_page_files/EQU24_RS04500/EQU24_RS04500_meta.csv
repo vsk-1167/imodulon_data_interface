@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS04500
+name,aroK
+operon,2268
+gene_product,shikimate kinase AroK
+cog,F
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04500"">BioCyc</a>"

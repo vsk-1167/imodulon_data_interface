@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00435
+name,hisA
+operon,2770
+gene_product,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino]imidazole-4- carboxamide isomerase
+cog,E
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00435"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS17165
+name,nifN
+operon,656
+gene_product,nitrogenase iron-molybdenum cofactor biosynthesis protein NifN
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17165"">BioCyc</a>"

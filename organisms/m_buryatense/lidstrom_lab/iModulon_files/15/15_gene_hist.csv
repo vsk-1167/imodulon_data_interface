@@ -1,0 +1,9 @@
+,-0.12427682199055663,-0.10515731091508639,-0.08603779983961614,-0.06691828876414589,-0.047798777688675645,-0.028679266613205398,-0.009559755537735151,0.009559755537735096,0.028679266613205343,0.04779877768867559,0.06691828876414584,0.08603779983961608,0.10515731091508633,0.12427682199055658,0.14339633306602684,0.16251584414149706,0.18163535521696733,0.2007548662924376,0.21987437736790783,0.23899388844337804
+thresh,-0.0382390221509405,0.0382390221509405,1,,,,,,,,,,,,,,,,,
+unreg,2,3,9,11,51,252,1582,2063,217,17,5,0,0,0,0,0,1,0,0,0
+unreg_genes,[nan nan],[nan nan nan],[nan nan nan nan nan nan nan nan nan],[nan nan nan nan nan nan nan nan nan nan nan],"['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'coxB' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'pabC' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'hisI' 'yacG' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan']",[],[],[],[],"['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nifL' 'nan'
+ 'nan' 'nan' 'nifT' 'nan' 'nan']",['nan' 'nan' 'lexA' 'nan' 'umuD'],[],[],[],[],[],[nan],[],[],[]

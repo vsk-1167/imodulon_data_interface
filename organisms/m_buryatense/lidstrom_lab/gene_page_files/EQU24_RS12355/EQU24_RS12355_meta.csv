@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12355
+name,mutM
+operon,1277
+gene_product,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12355"">BioCyc</a>"

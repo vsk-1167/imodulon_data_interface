@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS02335
+name,smrA
+operon,2513
+gene_product,DNA endonuclease SmrA
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02335"">BioCyc</a>"

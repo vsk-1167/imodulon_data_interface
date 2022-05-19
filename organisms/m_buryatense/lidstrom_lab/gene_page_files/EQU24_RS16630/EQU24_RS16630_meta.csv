@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS16630
+name,ruvA
+operon,720
+gene_product,Holliday junction branch migration protein RuvA
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16630"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09480
+name,carA
+operon,1630
+gene_product,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit
+cog,F
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09480"">BioCyc</a>"

@@ -80,7 +80,27 @@
  function get_col_to_color() {
     return col_to_color;
  }
- 
+
+ // BEGIN ERIN ADDITION
+ var erins_color_dict = {
+    '5G__uMax':'#d9d9d9', //gray
+    '5G__NoCu':'#bdd7e7', //blues
+    '5G__lowCu':'#6baed6', //blues
+    '5G__medCu':'#3182bd', //blues
+    '5G__highCu':'#08519c', //blues
+    '5G__lowCH4':'#b3de69', //green
+    '5G__WithLanthanum':'#e6550d', //orange
+    '5G__NoLanthanum':'#fdbe85', //orange
+    '5G__MeOH':'#fb8072', //red
+    '5G__highO2_slow_growth':'#6a3d9a',
+    '5G__NO3_lowO2_slow_growth':'#bc80bd', //purple
+    '5G__lowO2_fast_growth':'#fccde5', //pink
+    '5G__LanzaTech':'#33a02c', //green
+    '5G__aa3_KO':'#e6f598', //light green
+    '5G__crotonic_acid':'#fee08b', //yellow
+}
+// END ERIN ADDITION
+
  // Write Highcharts plot to container
  function generateActivityBar(metaCSV, dataCSV, container) {
     // get the data
@@ -108,11 +128,36 @@
     var vert_lines = []; var curr_proj = null;
     var plot_bands = [];
     var point_locs = [];
+    var bar_colors = []; // Erin addition
+
+
+    // START ERIN TINKER
+    const priority = {
+         "5G__uMax": 1,
+         "5G__MeOH": 2,
+         "5G__NoCu": 3,
+         "5G__lowCu": 4,
+         "5G__medCu": 5,
+         "5G__highCu": 6,
+         "5G__lowCH4": 7,
+         "5G__WithLanthanum": 8,
+         "5G__NoLanthanum": 9,
+         "5G__highO2_slow_growth": 10,
+         "5G__NO3_lowO2_slow_growth": 11,
+         "5G__lowO2_fast_growth": 12,
+      };
+
+    data = data.sort((a,b) => priority[a[1]] - priority[b[1]]);
+
+    // END ERIN TINKER
+
     for (i = 1; i < data.length-1; i++) {
         
         // add in the basics
-        cond_names.push(data[i][1]);
+        //cond_names.push(data[i][1]);
+        cond_names.push(data[i][1].slice(4));
         bar_heights.push(data[i][2]);
+        bar_colors.push(erins_color_dict[data[i][1]]) // Erin Addition
         
         // look at projects to determine vertical lines & plot bands
         var meta_idx = data[i][5] + 1;
@@ -122,7 +167,8 @@
             
             // first project
             if (curr_proj == null) {
-                plot_bands.push({label:{text:project, verticalAlign: 'bottom', y: 5, x:5, rotation: 300, textAlign: 'right', style:{color: 'gray'}}, from:-0.5, color:'white'})
+                //plot_bands.push({label:{text:project, verticalAlign: 'bottom', y: 5, x:5, rotation: 300, textAlign: 'right', style:{color: 'gray'}}, from:-0.5, color:'white'})
+                plot_bands.push({label:{ verticalAlign: 'bottom', y: 5, x:5, rotation: 300, textAlign: 'right', style:{color: 'gray'}}, from:-0.5, color:'white'})
             } else { //all other projects
                 vert_lines.push({value: i-1.5, width: 1, zIndex: 5, color: 'gray'});
                 plot_bands[plot_bands.length-1]['to'] = i-0.5;
@@ -140,8 +186,10 @@
     
     // set up plot
     chartOptions = {
+        colors:bar_colors, // Erin addition
         chart: {
-            spacingBottom: 50,
+            //spacingBottom: 50,
+            spacingBottom: -50,
             zoomType: 'x',
             events: {
                 load: function() {
@@ -163,7 +211,8 @@
             plotLines: vert_lines,
             plotBands: plot_bands,
             labels: {
-                enabled: false
+                //enabled: false
+                enabled: true
             },
             scrollbar: {
                 enabled: true,
@@ -222,7 +271,8 @@
                 name: 'A_avg',
                 type: 'column',
                 data: bar_heights,
-                color: '#2085e3',
+                color: '#2085e3', // this gets overridden??
+                colorByPoint: true, // Erin addition
                 events: {
                     click: function(e) {
                         // do nothing if the metadata doesn't contain links

@@ -1,0 +1,27 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS10535,0.1991497029652505,,STAS domain-containing protein,T,1500,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10535
+EQU24_RS10665,0.1934709278676933,,chemotaxis protein,N,1490,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10665
+EQU24_RS10530,0.1931755022016084,,chemotaxis protein CheA,N,1500,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10530
+EQU24_RS10660,0.177823780480095,,chemotaxis protein CheW,N,1490,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10660
+EQU24_RS10540,0.1760728661830708,,response regulator,T,1500,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10540
+EQU24_RS10545,0.1734084834646043,,hypothetical protein,N,1500,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10545
+EQU24_RS10655,0.1602565872817886,cheB,chemotaxis-specific protein-glutamate methyltransferase CheB,N,1491,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10655
+EQU24_RS10520,0.1573705790781391,,chemotaxis protein CheW,N,1501,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10520
+EQU24_RS10550,0.1391878550772565,,PAS domain S-box protein,-,1499,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10550
+EQU24_RS10525,0.1390854318471055,,methyl-accepting chemotaxis protein,T,1501,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10525
+EQU24_RS10650,0.1356212355611587,,HEAT repeat domain-containing protein,C,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10650
+EQU24_RS10515,0.1340491166220182,,hypothetical protein,-,1502,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10515
+EQU24_RS10645,0.1334197752402997,,protein-glutamate O-methyltransferase CheR,H,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10645
+EQU24_RS10630,0.127641576610784,,hypothetical protein,-,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10630
+EQU24_RS10640,0.1218508548781045,,response regulator,K,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10640
+EQU24_RS10580,0.121634331893443,,protein-glutamate O-methyltransferase CheR,H,1494,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10580
+EQU24_RS10635,0.1109087828850789,,chemotaxis protein CheA,T,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10635
+EQU24_RS10625,0.1072087497313966,,response regulator,T,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10625
+EQU24_RS10620,0.1056634865273349,,hypothetical protein,N,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10620
+EQU24_RS10605,0.1017951574505221,,anti-sigma regulatory factor,T,1493,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10605
+EQU24_RS10575,0.0965981013923711,,chemotaxis response regulator protein-glutamate methylesterase,N,1495,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10575
+EQU24_RS10615,0.0949953460215141,,STAS domain-containing protein,T,1493,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10615
+EQU24_RS10610,0.0943571578864131,,STAS domain-containing protein,T,1493,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10610
+EQU24_RS10565,0.0922898252469578,,response regulator,T,1496,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10565
+EQU24_RS16040,-0.0933400975101641,,ISNCY family transposase,L,798,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16040
+EQU24_RS12805,-0.1435335055005178,,IS4 family transposase,L,1225,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805

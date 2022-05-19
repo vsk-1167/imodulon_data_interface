@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS17765
+name,rfbG
+operon,587
+gene_product,"CDP-glucose 4,6-dehydratase"
+cog,M
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17765"">BioCyc</a>"

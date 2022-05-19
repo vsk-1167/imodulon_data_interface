@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS20465
+name,mpl
+operon,234
+gene_product,UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase
+cog,M
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20465"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09500
+name,rlmE
+operon,1627
+gene_product,23S rRNA (uridine(2552)-2'-O)-methyltransferase RlmE
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09500"">BioCyc</a>"

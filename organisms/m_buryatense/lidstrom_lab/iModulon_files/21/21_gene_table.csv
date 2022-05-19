@@ -1,0 +1,16 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS19520,0.3470098730034336,,type II secretion system protein,-,356,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19520
+EQU24_RS19515,0.2546763730337296,,hypothetical protein,-,357,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19515
+EQU24_RS19510,0.24768139226943,,DUF2939 domain-containing protein,-,358,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19510
+EQU24_RS19505,0.2295166160121825,,hypothetical protein,-,359,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19505
+EQU24_RS19500,0.229408244384666,,hypothetical protein,-,359,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19500
+EQU24_RS19485,0.207103289908939,,hypothetical protein,-,361,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19485
+EQU24_RS19495,0.206575864721465,,hypothetical protein,N,360,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19495
+EQU24_RS19490,0.2000727548340757,,type II secretion system F family protein,U,361,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19490
+EQU24_RS19480,0.1900345767512751,,DUF3438 family protein,N,362,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19480
+EQU24_RS19475,0.176029044053783,,hypothetical protein,-,362,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19475
+EQU24_RS00940,0.1726112945584779,,hypothetical protein,-,2704,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00940
+EQU24_RS07680,0.1725622258685886,,hypothetical protein,-,1862,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07680
+EQU24_RS07675,0.1591939053733319,,conjugation transfer protein,C,1863,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07675
+EQU24_RS19470,0.1565302275149395,,S8 family serine peptidase,Q,363,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19470
+EQU24_RS21000,0.1538992904471572,,hypothetical protein,G,151,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21000

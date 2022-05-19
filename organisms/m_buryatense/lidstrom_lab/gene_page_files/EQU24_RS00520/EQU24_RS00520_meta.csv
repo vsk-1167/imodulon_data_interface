@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00520
+name,rpoD
+operon,2760
+gene_product,RNA polymerase sigma factor RpoD
+cog,K
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00520"">BioCyc</a>"

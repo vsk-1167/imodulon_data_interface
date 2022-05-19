@@ -1,0 +1,63 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS00075,0.1637299101497973,tatB,twin-arginine translocase subunit TatB,U,2822,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00075
+EQU24_RS00190,0.1523178826095088,,hypothetical protein,-,2805,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00190
+EQU24_RS08205,0.1504945433427097,,hypothetical protein,K,1797,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08205
+EQU24_RS01120,0.1503784755471886,,hypothetical protein,-,2674,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01120
+EQU24_RS01165,0.1493036801423772,,hypothetical protein,C,2669,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01165
+EQU24_RS19100,0.1463721848859298,,hypothetical protein,-,414,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19100
+EQU24_RS07500,0.1453058584389757,,MazF family transcriptional regulator,T,1882,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07500
+EQU24_RS19915,0.1447700995087362,,hypothetical protein,-,304,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19915
+EQU24_RS08490,0.1404351033373223,,hypothetical protein,-,1759,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08490
+EQU24_RS05350,0.138790140472746,,DUF29 domain-containing protein,T,2162,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05350
+EQU24_RS02345,0.13805091098698,,hypothetical protein,-,2511,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02345
+EQU24_RS16060,0.1352792678785513,,hypothetical protein,-,794,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16060
+EQU24_RS07125,0.1335025485526812,,hypothetical protein,-,1927,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07125
+EQU24_RS01825,0.1309736314761721,,hypothetical protein,-,2581,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01825
+EQU24_RS11890,0.1306684124176194,,hypothetical protein,-,1333,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11890
+EQU24_RS13975,0.1295893363504938,,,-,1076,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13975
+EQU24_RS14500,0.1289271018774732,,hypothetical protein,-,1010,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14500
+EQU24_RS05760,0.1213612601158249,,hypothetical protein,-,2108,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05760
+EQU24_RS10640,0.1210679727338432,,response regulator,K,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10640
+EQU24_RS17225,0.1201358664644399,,ferredoxin,C,649,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17225
+EQU24_RS17255,0.1159705409476642,rsxC,electron transport complex subunit RsxC,C,644,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17255
+EQU24_RS18480,0.1150955258700217,,IS66 family transposase,L,495,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18480
+EQU24_RS09095,0.1150905885479009,,hypothetical protein,-,1680,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09095
+EQU24_RS05390,0.1142957107506484,,hypothetical protein,-,2159,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05390
+EQU24_RS14485,0.1140438575857614,,hypothetical protein,-,1013,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14485
+EQU24_RS19665,0.1139089189088782,,hypothetical protein,-,334,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19665
+EQU24_RS10500,0.1113025141416061,,hypothetical protein,E,1505,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10500
+EQU24_RS15680,0.1111930898546201,,ISAs1 family transposase,L,836,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15680
+EQU24_RS13500,0.1108661595666336,,hypothetical protein,T,1139,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13500
+EQU24_RS01540,0.110749946100452,,hypothetical protein,-,2618,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01540
+EQU24_RS17335,0.1105419450855586,,hypothetical protein,S,637,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17335
+EQU24_RS10605,0.1099245684256229,,anti-sigma regulatory factor,T,1493,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10605
+EQU24_RS17090,0.1096579315715443,,hypothetical protein,-,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17090
+EQU24_RS16550,0.10955082821141,,DUF932 domain-containing protein,S,728,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16550
+EQU24_RS10940,0.1078386713009743,,GPW/gp25 family protein,S,1458,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10940
+EQU24_RS16555,0.1050383538072038,,hypothetical protein,-,728,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16555
+EQU24_RS17235,0.1030493538600401,,RnfH family protein,S,647,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17235
+EQU24_RS14765,0.0997182296131918,,hypothetical protein,S,965,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14765
+EQU24_RS11985,0.0973347668202508,,hypothetical protein,Q,1320,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11985
+EQU24_RS08470,0.0965756300335001,urtE,urea ABC transporter ATP-binding subunit UrtE,E,1762,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08470
+EQU24_RS14560,0.0962163642634487,,CsbD family protein,-,999,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14560
+EQU24_RS05435,0.0954666541579692,,hypothetical protein,D,2153,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05435
+EQU24_RS17220,0.0940206982415976,,nitrogenase-associated protein,P,650,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17220
+EQU24_RS14655,0.0938374878360933,,hypothetical protein,-,982,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14655
+EQU24_RS12125,0.0931288113997842,cas2,CRISPR-associated endonuclease Cas2,L,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12125
+EQU24_RS13015,0.0918996917448459,,hypothetical protein,-,1201,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13015
+EQU24_RS00180,0.0900577450332641,,ISAzo13 family transposase,L,2807,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00180
+EQU24_RS17080,0.0863636823194048,nifT,putative nitrogen fixation protein NifT,Q,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17080
+EQU24_RS12130,0.0846589979671705,,hypothetical protein,S,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12130
+EQU24_RS17325,0.0827009568513969,,hypothetical protein,S,638,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17325
+EQU24_RS06145,0.0825147329742969,,hypothetical protein,-,2059,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06145
+EQU24_RS21260,0.0798385972253545,,hypothetical protein,-,120,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21260
+EQU24_RS21835,0.0762798846406299,,IS4 family transposase,L,42,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21835
+EQU24_RS09570,0.0703700030898154,,hypothetical protein,-,1616,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09570
+EQU24_RS10685,0.068862189669985,,hypothetical protein,-,1488,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10685
+EQU24_RS16380,0.0681292780661684,,hypothetical protein,-,753,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16380
+EQU24_RS14755,0.0677100148650999,,hemerythrin domain-containing protein,S,966,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14755
+EQU24_RS01175,0.0670349139246232,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,K,2668,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01175
+EQU24_RS09155,0.0664422287346308,,hypothetical protein,-,1672,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09155
+EQU24_RS17360,0.0634481109374447,,ISKra4 family transposase,L,634,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17360
+EQU24_RS12085,-0.0679284555248804,,hypothetical protein,-,1314,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12085
+EQU24_RS03455,-0.0853936734009861,,hypothetical protein,-,2375,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03455

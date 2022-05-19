@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00620
+name,msbA
+operon,2745
+gene_product,lipid A export permease/ATP-binding protein MsbA
+cog,V
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00620"">BioCyc</a>"

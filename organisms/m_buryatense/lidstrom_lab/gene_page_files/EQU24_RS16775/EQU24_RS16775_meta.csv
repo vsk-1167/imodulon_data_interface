@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS16775
+name,rlmKL
+operon,703
+gene_product,bifunctional 23S rRNA (guanine(2069)-N(7))-methyltransferase RlmK/23S rRNA (guanine(2445)-N(2))-methyltransferase RlmL
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16775"">BioCyc</a>"

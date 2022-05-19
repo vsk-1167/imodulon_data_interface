@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11765
+name,recJ
+operon,1346
+gene_product,single-stranded-DNA-specific exonuclease RecJ
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11765"">BioCyc</a>"

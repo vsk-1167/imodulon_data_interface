@@ -1,0 +1,32 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS12110,0.1924681826606009,,GIY-YIG nuclease family protein,L,1309,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12110
+EQU24_RS10700,0.1876727700727951,,hypothetical protein,-,1486,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10700
+EQU24_RS01155,0.1743601332879392,,hypothetical protein,-,2670,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01155
+EQU24_RS06295,0.1682868882153086,,HTH domain-containing protein,K,2038,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06295
+EQU24_RS10730,0.1640854165219639,,hypothetical protein,S,1481,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10730
+EQU24_RS01260,0.1639727965145427,,hypothetical protein,-,2659,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01260
+EQU24_RS20235,0.1619642520287117,,hypothetical protein,L,261,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20235
+EQU24_RS06145,0.1617831298883304,,hypothetical protein,-,2059,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06145
+EQU24_RS01125,0.1534439221857224,,hypothetical protein,-,2673,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01125
+EQU24_RS17215,0.1521795256421374,,FprA family A-type flavoprotein,C,650,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17215
+EQU24_RS06210,0.1503997134431325,,hypothetical protein,L,2049,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06210
+EQU24_RS05305,0.1456535818888527,,bifunctional adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,H,2166,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05305
+EQU24_RS18145,0.1428717605307771,,response regulator transcription factor,K,541,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18145
+EQU24_RS16555,0.1427464738417427,,hypothetical protein,-,728,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16555
+EQU24_RS16540,0.1417707437656844,,hypothetical protein,-,730,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16540
+EQU24_RS12125,0.1403188954636004,cas2,CRISPR-associated endonuclease Cas2,L,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12125
+EQU24_RS16545,0.1335087931627307,,YqaJ viral recombinase family protein,L,729,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16545
+EQU24_RS00195,0.1312093763639943,,DUF4338 domain-containing protein,L,2805,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00195
+EQU24_RS10945,0.1304204757970212,,membrane protein,T,1458,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10945
+EQU24_RS05435,0.1288357426100506,,hypothetical protein,D,2153,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05435
+EQU24_RS11985,0.126075823568462,,hypothetical protein,Q,1320,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11985
+EQU24_RS17310,0.1260240512055738,,hypothetical protein,-,638,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17310
+EQU24_RS01170,0.1249277825862499,,Y-family DNA polymerase,L,2668,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01170
+EQU24_RS12130,0.1185751188252599,,hypothetical protein,S,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12130
+EQU24_RS11990,0.1036911226551198,,IS1595 family transposase,L,1320,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11990
+EQU24_RS08460,0.1031040734212796,urtC,urea ABC transporter permease subunit UrtC,E,1762,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08460
+EQU24_RS01555,0.100168660863849,,hypothetical protein,-,2616,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01555
+EQU24_RS01175,0.0986410380314391,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,K,2668,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01175
+EQU24_RS20510,0.0950944663358312,,hypothetical protein,-,227,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20510
+EQU24_RS14755,-0.0829990600305656,,hemerythrin domain-containing protein,S,966,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14755
+EQU24_RS01765,-0.0944615226371341,,DUF504 domain-containing protein,A,2590,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01765

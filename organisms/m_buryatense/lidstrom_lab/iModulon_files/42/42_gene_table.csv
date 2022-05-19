@@ -1,0 +1,18 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS10960,0.3466347598209798,,hypothetical protein,-,1458,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10960
+EQU24_RS14765,0.3314641472799063,,hypothetical protein,S,965,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14765
+EQU24_RS01385,0.1485253328049071,lexA,transcriptional repressor LexA,K,309,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01385
+EQU24_RS18430,0.1422021992014894,,IS4 family transposase,L,501,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18430
+EQU24_RS19095,0.1368079939004702,,hypothetical protein,-,415,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19095
+EQU24_RS12140,0.1357876276257846,cas2,CRISPR-associated endonuclease Cas2,L,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12140
+EQU24_RS01760,0.1323298244005611,cydX,cytochrome bd-I oxidase subunit CydX,S,2591,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01760
+EQU24_RS17665,0.1058593471301859,,IS4 family transposase,L,595,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17665
+EQU24_RS20320,0.1005439787617974,,DUF2442 domain-containing protein,S,252,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20320
+EQU24_RS10630,0.0934603988535922,,hypothetical protein,-,1492,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10630
+EQU24_RS19915,0.0834517557021378,,hypothetical protein,-,304,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19915
+EQU24_RS08710,0.0818211967138325,,hypothetical protein,-,1728,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08710
+EQU24_RS16555,-0.0824424009924508,,hypothetical protein,-,728,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16555
+EQU24_RS20610,-0.0927916612672122,,ISAs1 family transposase,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
+EQU24_RS14750,-0.1015768106418495,,DUF883 family protein,S,967,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14750
+EQU24_RS00175,-0.1126510100989767,,hypothetical protein,L,2808,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00175
+EQU24_RS07995,-0.1330220781579013,,IS3 family transposase,L,1825,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07995

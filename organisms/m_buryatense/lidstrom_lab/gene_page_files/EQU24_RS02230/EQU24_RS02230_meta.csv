@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS02230
+name,atpB
+operon,2524
+gene_product,F0F1 ATP synthase subunit A
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02230"">BioCyc</a>"

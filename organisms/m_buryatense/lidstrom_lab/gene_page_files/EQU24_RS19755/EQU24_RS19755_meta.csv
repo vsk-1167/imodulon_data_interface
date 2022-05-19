@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS19755
+name,mraZ
+operon,330
+gene_product,division/cell wall cluster transcriptional repressor MraZ
+cog,K
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19755"">BioCyc</a>"

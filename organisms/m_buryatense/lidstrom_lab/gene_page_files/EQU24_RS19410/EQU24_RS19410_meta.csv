@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS19410
+name,tgt
+operon,373
+gene_product,tRNA guanosine(34) transglycosylase Tgt
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19410"">BioCyc</a>"

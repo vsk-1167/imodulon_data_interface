@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00870
+name,pyrE
+operon,2714
+gene_product,orotate phosphoribosyltransferase
+cog,F
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00870"">BioCyc</a>"

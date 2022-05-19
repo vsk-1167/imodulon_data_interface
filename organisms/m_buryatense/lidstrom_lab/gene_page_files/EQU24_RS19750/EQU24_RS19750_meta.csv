@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS19750
+name,rsmH
+operon,330
+gene_product,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19750"">BioCyc</a>"

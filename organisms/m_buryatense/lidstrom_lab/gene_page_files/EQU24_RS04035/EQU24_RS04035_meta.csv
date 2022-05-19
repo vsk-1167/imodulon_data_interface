@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS04035
+name,moaC
+operon,2323
+gene_product,cyclic pyranopterin monophosphate synthase MoaC
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04035"">BioCyc</a>"

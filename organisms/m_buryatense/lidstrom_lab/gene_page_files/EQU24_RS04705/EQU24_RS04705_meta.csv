@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS04705
+name,rsmA
+operon,2238
+gene_product,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04705"">BioCyc</a>"

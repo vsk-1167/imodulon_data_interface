@@ -1,0 +1,17 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS08650,0.2647434226647842,,co-chaperone GroES,O,1737,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08650
+EQU24_RS08655,0.2612959472359989,groL,chaperonin GroEL,O,1736,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08655
+EQU24_RS17880,0.1911296385248864,htpG,molecular chaperone HtpG,O,573,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17880
+EQU24_RS08660,0.183395594671003,,transcriptional regulator,K,1735,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08660
+EQU24_RS17825,0.1765443685187651,,co-chaperone GroES,O,582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17825
+EQU24_RS17820,0.1647961100879162,groL,chaperonin GroEL,O,582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17820
+EQU24_RS11545,0.1565583727991901,dnaK,molecular chaperone DnaK,O,1376,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11545
+EQU24_RS11540,0.1469584675182587,dnaJ,molecular chaperone DnaJ,O,1377,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11540
+EQU24_RS08645,0.1443263927429521,moeB,molybdopterin-synthase adenylyltransferase MoeB,H,1738,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08645
+EQU24_RS11550,0.1438483147597073,grpE,nucleotide exchange factor GrpE,O,1375,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11550
+EQU24_RS11535,0.1401129099127963,dapB,4-hydroxy-tetrahydrodipicolinate reductase,E,1377,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11535
+EQU24_RS15660,0.128757178872687,clpB,ATP-dependent chaperone ClpB,O,840,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15660
+EQU24_RS12235,0.113236700063991,,Hsp20/alpha crystallin family protein,O,1292,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12235
+EQU24_RS11555,0.1132237840616141,hrcA,heat-inducible transcriptional repressor HrcA,K,1374,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11555
+EQU24_RS06210,0.1028127254886004,,hypothetical protein,L,2049,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06210
+EQU24_RS01215,-0.0995856083116176,,IS66 family transposase,L,2664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215

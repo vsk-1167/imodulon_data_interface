@@ -1,0 +1,13 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS20610,0.4113726015820239,,ISAs1 family transposase,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
+EQU24_RS18860,0.2521691814707157,,,-,445,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18860
+EQU24_RS12815,0.2234215140645913,,cytosolic protein,S,1223,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12815
+EQU24_RS08855,0.1897874427890981,,hypothetical protein,S,1709,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08855
+EQU24_RS07375,0.1866285544886218,,,-,1895,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07375
+EQU24_RS05635,0.1618582241021145,,,-,2123,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05635
+EQU24_RS10780,0.1493710452612441,,,-,1474,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10780
+EQU24_RS07995,0.1319929742231399,,IS3 family transposase,L,1825,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07995
+EQU24_RS17665,0.1254449350276225,,IS4 family transposase,L,595,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17665
+EQU24_RS18555,0.1129386181235806,,,-,489,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18555
+EQU24_RS15125,0.110032634879905,,,-,920,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15125
+EQU24_RS05090,0.1082024702785297,,hypothetical protein,-,2189,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05090

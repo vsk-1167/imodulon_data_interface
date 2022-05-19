@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12320
+name,queF
+operon,1281
+gene_product,NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12320"">BioCyc</a>"

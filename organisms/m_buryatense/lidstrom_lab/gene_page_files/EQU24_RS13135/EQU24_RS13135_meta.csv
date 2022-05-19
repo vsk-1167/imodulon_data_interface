@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS13135
+name,ubiG
+operon,1179
+gene_product,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13135"">BioCyc</a>"

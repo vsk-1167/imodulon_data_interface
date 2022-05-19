@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS18255
+name,pgsA
+operon,523
+gene_product,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+cog,I
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18255"">BioCyc</a>"

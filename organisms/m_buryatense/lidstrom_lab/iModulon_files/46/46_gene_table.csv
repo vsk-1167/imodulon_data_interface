@@ -1,0 +1,10 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS01150,0.2768034404267664,,hypothetical protein,-,2671,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01150
+EQU24_RS06205,0.2740348595161782,,hypothetical protein,-,2050,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06205
+EQU24_RS03455,0.2539322414516161,,hypothetical protein,-,2375,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03455
+EQU24_RS10680,0.2314632949776275,,IS4 family transposase,L,1488,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10680
+EQU24_RS02995,0.1304122833611681,,hypothetical protein,-,2424,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02995
+EQU24_RS20770,0.1229512375247914,,hypothetical protein,-,190,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20770
+EQU24_RS01175,0.1208227894676214,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,K,2668,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01175
+EQU24_RS01555,-0.1699755106954723,,hypothetical protein,-,2616,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01555
+EQU24_RS19655,-0.2202653360503614,,IS66 family transposase,L,336,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19655

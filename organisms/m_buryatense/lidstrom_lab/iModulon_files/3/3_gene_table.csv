@@ -1,0 +1,2 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS12140,0.7129141605712639,cas2,CRISPR-associated endonuclease Cas2,L,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12140

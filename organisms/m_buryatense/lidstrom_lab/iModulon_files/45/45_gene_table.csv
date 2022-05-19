@@ -1,0 +1,18 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS04160,0.2209014398385489,,,-,2308,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04160
+EQU24_RS20650,0.2004354818698431,,,-,207,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20650
+EQU24_RS11170,0.1677717771395952,,hypothetical protein,-,1430,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11170
+EQU24_RS07965,0.1613897611013,,,-,1830,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07965
+EQU24_RS05645,0.153491679218668,,,-,2123,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05645
+EQU24_RS02780,0.1369710424050085,,,-,2450,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02780
+EQU24_RS02970,0.135469149481769,pqqA,pyrroloquinoline quinone precursor peptide PqqA,-,2429,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02970
+EQU24_RS15090,0.1310026766137357,,,-,924,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15090
+EQU24_RS09835,0.1162227470687519,,,-,1582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09835
+EQU24_RS09235,0.1018182936141384,,,-,1662,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09235
+EQU24_RS15095,0.0878692855652612,,,-,924,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15095
+EQU24_RS00780,0.0870651854789112,,hypothetical protein,-,2724,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00780
+EQU24_RS05640,0.082969843840371,,,-,2123,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05640
+EQU24_RS16575,0.0794217979330391,,,-,724,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16575
+EQU24_RS09830,0.0783860076582677,,,-,1582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09830
+EQU24_RS19665,0.0782967642323749,,hypothetical protein,-,334,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19665
+EQU24_RS17665,-0.0928848945441505,,IS4 family transposase,L,595,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17665

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00015
+name,recF
+operon,2829
+gene_product,DNA replication/repair protein RecF
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00015"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS02210
+name,rsmG
+operon,2525
+gene_product,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02210"">BioCyc</a>"

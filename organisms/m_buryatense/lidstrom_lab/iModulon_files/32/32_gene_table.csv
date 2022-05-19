@@ -1,0 +1,51 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS17070,0.1778859607675013,nifD,nitrogenase molybdenum-iron protein alpha chain,C,666,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17070
+EQU24_RS17065,0.1760780209428464,nifH,nitrogenase iron protein,P,667,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17065
+EQU24_RS17075,0.1714818991504109,nifK,nitrogenase molybdenum-iron protein subunit beta,F,665,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17075
+EQU24_RS17085,0.1700059372705042,,4Fe-4S dicluster domain-containing protein,C,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17085
+EQU24_RS17230,0.1582084667668849,nifB,nitrogenase cofactor biosynthesis protein NifB,C,648,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17230
+EQU24_RS17205,0.1573914945645467,,2Fe-2S iron-sulfur cluster binding domain-containing protein,C,651,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17205
+EQU24_RS17080,0.1573752923471996,nifT,putative nitrogen fixation protein NifT,Q,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17080
+EQU24_RS17090,0.1497297025484523,,hypothetical protein,-,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17090
+EQU24_RS17200,0.148392468156192,,nitrogen fixation protein NifQ,S,651,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17200
+EQU24_RS17340,0.147339627141745,cysE,serine O-acetyltransferase,E,637,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17340
+EQU24_RS17215,0.1447193913322467,,FprA family A-type flavoprotein,C,650,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17215
+EQU24_RS17325,0.1435090097461257,,hypothetical protein,S,638,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17325
+EQU24_RS17210,0.1434863667669504,,2Fe-2S iron-sulfur cluster binding domain-containing protein,C,651,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17210
+EQU24_RS17255,0.1427489047856552,rsxC,electron transport complex subunit RsxC,C,644,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17255
+EQU24_RS17160,0.1419400348271939,,nitrogen fixation protein NifX,S,657,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17160
+EQU24_RS17145,0.140778298417526,fdxB,"ferredoxin III, nif-specific",C,658,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17145
+EQU24_RS17300,0.1395176192967596,,hypothetical protein,-,640,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17300
+EQU24_RS17225,0.1393914478775353,,ferredoxin,C,649,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17225
+EQU24_RS17155,0.1392219512657475,,NifX-associated nitrogen fixation protein,S,658,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17155
+EQU24_RS17250,0.137428808892174,,RnfABCDGE type electron transport complex subunit D,C,645,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17250
+EQU24_RS17265,0.1371204815670809,rsxA,electron transport complex subunit RsxA,C,644,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17265
+EQU24_RS17335,0.1368525977148348,,hypothetical protein,S,637,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17335
+EQU24_RS17260,0.1363233387927519,,RnfABCDGE type electron transport complex subunit B,C,644,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17260
+EQU24_RS17295,0.1357226829151653,,thiosulfate sulfurtransferase GlpE,P,640,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17295
+EQU24_RS17150,0.1350621376860949,,hypothetical protein,S,658,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17150
+EQU24_RS17220,0.1347485459856457,,nitrogenase-associated protein,P,650,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17220
+EQU24_RS17410,0.134176291035162,nifU,Fe-S cluster assembly protein NifU,C,627,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17410
+EQU24_RS17290,0.1328862849683934,,dinitrogenase iron-molybdenum cofactor biosynthesis protein,S,640,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17290
+EQU24_RS17345,0.1321246730185832,nifV,homocitrate synthase,H,636,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17345
+EQU24_RS17415,0.1307977291279978,,iron-sulfur cluster assembly accessory protein,S,627,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17415
+EQU24_RS17095,0.1268339629863511,,hypothetical protein,C,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17095
+EQU24_RS17140,0.1253046902978694,,hypothetical protein,S,659,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17140
+EQU24_RS17135,0.1248056017936452,,nitrogen fixation protein NifZ,O,659,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17135
+EQU24_RS17130,0.1235470013237145,nifM,nitrogen fixation protein NifM,O,659,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17130
+EQU24_RS17170,0.1120442129735152,nifE,nitrogenase iron-molybdenum cofactor biosynthesis protein NifE,C,656,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17170
+EQU24_RS17285,0.1100205481242345,draG,ADP-ribosyl-[dinitrogen reductase] hydrolase,O,641,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17285
+EQU24_RS17165,0.1099517922862858,nifN,nitrogenase iron-molybdenum cofactor biosynthesis protein NifN,C,656,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17165
+EQU24_RS17120,0.1078144528654109,grxD,Grx4 family monothiol glutaredoxin,C,661,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17120
+EQU24_RS17240,0.1076850895799289,,electron transport complex subunit E,C,647,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17240
+EQU24_RS17100,0.1061511461912946,,hypothetical protein,-,664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17100
+EQU24_RS17115,0.105643712838984,,flavodoxin,C,661,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17115
+EQU24_RS17060,0.1032059243998805,,hypothetical protein,S,668,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17060
+EQU24_RS17315,0.1007682307084975,,hypothetical protein,S,638,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17315
+EQU24_RS17405,0.0985034700515708,nifS,cysteine desulfurase NifS,H,627,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17405
+EQU24_RS17125,0.0970721915624064,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,O,660,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17125
+EQU24_RS17235,0.094670674749417,,RnfH family protein,S,647,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17235
+EQU24_RS17245,0.093008299712458,rsxG,electron transport complex subunit RsxG,C,646,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17245
+EQU24_RS17420,0.0921728182267119,,hypothetical protein,S,626,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17420
+EQU24_RS17270,0.0911975831996869,nifL,nitrogen fixation negative regulator NifL,K,643,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17270
+EQU24_RS17275,0.080000554672216,nifA,nif-specific transcriptional activator NifA,K,643,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17275

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS17630
+name,trmD
+operon,599
+gene_product,tRNA (guanosine(37)-N1)-methyltransferase TrmD
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17630"">BioCyc</a>"

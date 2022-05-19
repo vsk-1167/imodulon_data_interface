@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS14410
+name,ccmI
+operon,1021
+gene_product,c-type cytochrome biogenesis protein CcmI
+cog,O
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14410"">BioCyc</a>"

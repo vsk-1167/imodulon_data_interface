@@ -1,0 +1,19 @@
+,-0.11879572504485718,-0.09899643753738098,-0.07919715002990478,-0.05939786252242858,-0.039598575014952384,-0.019799287507476185,1.3877787807814457e-17,0.019799287507476213,0.03959857501495241,0.05939786252242861,0.07919715002990481,0.09899643753738101,0.1187957250448572,0.13859501255233336,0.1583943000598096,0.17819358756728582,0.197992875074762,0.21779216258223816,0.23759145008971438,0.2573907375971906
+thresh,-0.029698931261214298,0.029698931261214298,1,,,,,,,,,,,,,,,,,
+unreg,1,1,4,4,85,814,2403,783,91,17,6,1,2,1,0,0,0,0,0,0
+unreg_genes,[nan],['ctaD'],['coxB' 'nan' 'nan' 'nan'],[nan nan nan nan],"['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'feoB' 'nan' 'nan' 'ectA' 'nan' 'nan'
+ 'nan' 'cobS' 'nan' 'nan' 'nan' 'nan' 'nqrM' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'bfr' 'nan' 'nan' 'nan' 'nan' 'nqrE' 'nan' 'clpS' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'hflB' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'rpmD' 'nan' 'nan' 'cas2' 'nan' 'nan' 'nan' 'crp' 'nan' 'nan'
+ 'rpsJ' 'nan' 'nan' 'trxA' 'nan' 'nan' 'secB' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan']",[],[],[],"['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'ureE' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'queA' 'nan' 'nan' 'nan' 'nan' 'nan' 'rsxC' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'cysI' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'queC'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'ispG' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'purE' 'nan' 'nan' 'nan' 'sufC' 'nan' 'sufD' 'nan' 'hpnH' 'csrA'
+ 'shc' 'nan' 'nan' 'nan' 'bioH' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'ispE' 'nan' 'nan' 'nan' 'nan' 'sufB' 'nan' 'ubiG' 'bioF' 'nan'
+ 'nan' 'umuD' 'nan' 'aroQ' 'nan' 'nan' 'nan' 'nan' 'nan']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'bioB' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'urtD' 'nan' 'nan']",[nan nan nan nan nan nan],[nan],['cysT' 'cysW'],[nan],[],[],[],[],[],[]

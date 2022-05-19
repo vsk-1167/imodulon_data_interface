@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS14985
+name,galE
+operon,938
+gene_product,UDP-glucose 4-epimerase GalE
+cog,M
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14985"">BioCyc</a>"

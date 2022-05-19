@@ -1,0 +1,86 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS10825,0.1713232171659502,,multidrug efflux RND transporter permease subunit,V,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10825
+EQU24_RS10820,0.1580578191799933,,efflux RND transporter periplasmic adaptor subunit,M,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10820
+EQU24_RS10830,0.1297235271920537,,efflux transporter outer membrane subunit,M,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10830
+EQU24_RS14140,0.1012501989432988,,bacteriohemerythrin,P,1053,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14140
+EQU24_RS09210,0.0831942251749752,,TetR/AcrR family transcriptional regulator,K,1667,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09210
+EQU24_RS10835,0.0831024704328774,,hypothetical protein,-,1465,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10835
+EQU24_RS08590,0.0730114196903635,,efflux transporter outer membrane subunit,M,1745,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08590
+EQU24_RS18425,0.071127160645767,,transposase,L,502,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18425
+EQU24_RS20335,0.0711208613161624,,hypothetical protein,-,249,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20335
+EQU24_RS08845,0.0710280006367821,,type II toxin-antitoxin system HicB family antitoxin,S,1710,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08845
+EQU24_RS04230,0.0686823392012214,,hypothetical protein,-,2301,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04230
+EQU24_RS06885,0.0686402505106558,,Rpn family recombination-promoting nuclease/putative transposase,S,1956,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06885
+EQU24_RS21260,0.0668813553277163,,hypothetical protein,-,120,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21260
+EQU24_RS08595,0.0660312364859089,,TetR/AcrR family transcriptional regulator,K,1745,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08595
+EQU24_RS10815,0.0653997541099257,,TetR/AcrR family transcriptional regulator,K,1467,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10815
+EQU24_RS09205,0.0644434532897997,,TolC family protein,M,1667,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09205
+EQU24_RS14655,0.0640954959460073,,hypothetical protein,-,982,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14655
+EQU24_RS09195,0.063841430343236,,efflux RND transporter periplasmic adaptor subunit,M,1667,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09195
+EQU24_RS00075,0.0637458788611533,tatB,twin-arginine translocase subunit TatB,U,2822,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00075
+EQU24_RS09190,0.0600374501425413,,efflux RND transporter permease subunit,V,1667,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09190
+EQU24_RS10810,0.0579744693967254,,nucleoside deaminase,F,1468,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10810
+EQU24_RS08580,0.0579053514258485,,efflux RND transporter permease subunit,V,1745,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08580
+EQU24_RS06665,0.0563600809623951,,hypothetical protein,N,1982,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06665
+EQU24_RS05675,0.0553130474102718,,transposase,L,2119,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05675
+EQU24_RS21440,0.0534144107071283,,response regulator,T,92,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21440
+EQU24_RS17390,0.0521001016546702,,DUF2281 domain-containing protein,S,629,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17390
+EQU24_RS01670,0.0483190002082685,,DUF2292 domain-containing protein,-,2600,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01670
+EQU24_RS18550,0.0481796504034053,,,-,489,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18550
+EQU24_RS20770,0.0477773474870702,,hypothetical protein,-,190,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20770
+EQU24_RS08585,0.0477120234424366,,efflux RND transporter periplasmic adaptor subunit,-,1745,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08585
+EQU24_RS03435,0.0476990387597143,,hypothetical protein,-,2379,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03435
+EQU24_RS21645,0.0469421917801758,,hypothetical protein,-,65,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21645
+EQU24_RS21000,0.0467916813509226,,hypothetical protein,G,151,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21000
+EQU24_RS01455,0.046367220840471,,formate dehydrogenase subunit delta,C,2630,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01455
+EQU24_RS08705,0.0451794108341222,,hypothetical protein,J,1729,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08705
+EQU24_RS18745,0.0442200304201341,,hypothetical protein,-,463,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18745
+EQU24_RS01900,0.0441272041585207,,RNA polymerase sigma factor,K,2567,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01900
+EQU24_RS01940,0.0419283377026999,,hypothetical protein,-,2560,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01940
+EQU24_RS21445,0.0414887165839825,,STAS domain-containing protein,T,91,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21445
+EQU24_RS21430,0.0410012357666309,,response regulator transcription factor,-,92,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21430
+EQU24_RS19620,0.0409202973196633,,multicopper oxidase,Q,343,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19620
+EQU24_RS20865,-0.0406285732476962,,DUF2442 domain-containing protein,S,172,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20865
+EQU24_RS08490,-0.0415509561167279,,hypothetical protein,-,1759,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08490
+EQU24_RS02320,-0.0426302574605701,,DUF2452 domain-containing protein,S,2516,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02320
+EQU24_RS18395,-0.0429255016025416,,ISNCY family transposase,L,505,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18395
+EQU24_RS07680,-0.0440280193876942,,hypothetical protein,-,1862,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07680
+EQU24_RS21960,-0.0441766745804401,hflC,protease modulator HflC,O,25,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21960
+EQU24_RS07295,-0.0442930730063762,ybeY,rRNA maturation RNase YbeY,J,1907,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07295
+EQU24_RS20705,-0.0446012799524543,,hypothetical protein,-,199,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20705
+EQU24_RS02300,-0.0449327480496957,,copper resistance protein NlpE,M,2517,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02300
+EQU24_RS18585,-0.0449947621482832,,hypothetical protein,L,484,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18585
+EQU24_RS20870,-0.0450270296573641,,NrdJb,F,171,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20870
+EQU24_RS20860,-0.0464967424113191,,ribonucleotide reductase,F,173,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20860
+EQU24_RS14125,-0.0465398033339705,ctaD,cytochrome c oxidase subunit I,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125
+EQU24_RS05165,-0.0473469328289472,,hypothetical protein,-,2180,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05165
+EQU24_RS20575,-0.0478980964713953,,hypothetical protein,G,218,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20575
+EQU24_RS17010,-0.0487393894181161,,hypothetical protein,-,677,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17010
+EQU24_RS17670,-0.0489981438596028,,ISAzo13 family transposase,L,594,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17670
+EQU24_RS05370,-0.0515298264352012,bluB,"5,6-dimethylbenzimidazole synthase",C,2160,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05370
+EQU24_RS20490,-0.0517645203272921,,Fis family transcriptional regulator,K,229,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20490
+EQU24_RS01375,-0.054295497583094,,hypothetical protein,-,2643,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01375
+EQU24_RS20480,-0.0553871544310341,,ATP-binding protein,O,231,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20480
+EQU24_RS21950,-0.0555106439281436,,sigma-70 family RNA polymerase sigma factor,K,26,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21950
+EQU24_RS00670,-0.0555777972780087,,hypothetical protein,-,2740,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00670
+EQU24_RS20695,-0.0555877488282018,,hypothetical protein,-,200,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20695
+EQU24_RS21955,-0.0571093417998731,hflK,FtsH protease activity modulator HflK,O,25,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21955
+EQU24_RS20500,-0.0585880795675201,,hypothetical protein,-,228,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20500
+EQU24_RS08030,-0.0597384407954279,,IS4 family transposase,L,1821,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08030
+EQU24_RS12030,-0.0616569558381017,,cobalt-precorrin-5B (C(1))-methyltransferase,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12030
+EQU24_RS12055,-0.0627901445728464,cobJ,precorrin-3B C(17)-methyltransferase,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12055
+EQU24_RS12050,-0.0633911253070354,,cobalamin biosynthesis protein,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12050
+EQU24_RS12035,-0.0648167930132189,,bifunctional cobalt-precorrin-7 (C(5))-methyltransferase/cobalt-precorrin-6B (C(15))-methyltransferase,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12035
+EQU24_RS07995,-0.0657819448629982,,IS3 family transposase,L,1825,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07995
+EQU24_RS12005,-0.0691396942966886,,hypothetical protein,S,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12005
+EQU24_RS12010,-0.0692529603392225,,"cobyrinate a,c-diamide synthase",H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12010
+EQU24_RS20495,-0.0706852083070377,,HDOD domain-containing protein,T,229,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20495
+EQU24_RS12045,-0.0707023981140682,,cobalamin biosynthesis protein CbiG,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12045
+EQU24_RS12025,-0.0708324867407837,,precorrin-8X methylmutase,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12025
+EQU24_RS12020,-0.0718970673685831,,sirohydrochlorin chelatase,S,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12020
+EQU24_RS12040,-0.0785438454160875,cobI,precorrin-2 C(20)-methyltransferase,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12040
+EQU24_RS12015,-0.0800981786458393,cobM,precorrin-4 C(11)-methyltransferase,H,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12015
+EQU24_RS12065,-0.0819112302279686,cobA,uroporphyrinogen-III C-methyltransferase,H,1317,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12065
+EQU24_RS12060,-0.0883376713038835,,NADH dehydrogenase,C,1318,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12060
+EQU24_RS05300,-0.1017048116833903,,TonB-dependent receptor,H,2167,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05300
+EQU24_RS20485,-0.1111554180922727,,PEP-CTERM sorting domain-containing protein,-,230,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20485

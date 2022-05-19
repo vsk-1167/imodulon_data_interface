@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12280
+name,folP
+operon,1288
+gene_product,dihydropteroate synthase
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12280"">BioCyc</a>"

@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS07070
+name,msrB
+operon,1933
+gene_product,peptide-methionine (R)-S-oxide reductase MsrB
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07070"">BioCyc</a>"

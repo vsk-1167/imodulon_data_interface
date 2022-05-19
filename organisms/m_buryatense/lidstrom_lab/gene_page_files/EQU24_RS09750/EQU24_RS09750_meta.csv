@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09750
+name,aspS
+operon,1589
+gene_product,aspartate--tRNA ligase
+cog,J
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09750"">BioCyc</a>"

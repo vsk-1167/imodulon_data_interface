@@ -1,0 +1,22 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,link
+EQU24_RS14125,0.3724134978937247,ctaD,cytochrome c oxidase subunit I,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125
+EQU24_RS14130,0.2507352120059653,coxB,cytochrome c oxidase subunit II,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14130
+EQU24_RS08775,0.1326132163184896,,copper resistance protein,P,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08775
+EQU24_RS08780,0.1320060569767805,,copper resistance protein CopC,S,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08780
+EQU24_RS18390,0.1317543874745123,,transposase,L,506,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18390
+EQU24_RS15355,0.1278925117383518,hpnH,adenosyl-hopene transferase HpnH,S,889,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15355
+EQU24_RS15365,0.1270185933051905,shc,squalene--hopene cyclase,I,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15365
+EQU24_RS08785,0.1250501747341394,,MMPL family transporter,S,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08785
+EQU24_RS15360,0.1187731291851037,,phytoene/squalene synthase family protein,I,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15360
+EQU24_RS10825,0.1158896212326601,,multidrug efflux RND transporter permease subunit,V,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10825
+EQU24_RS10820,0.1152686829703242,,efflux RND transporter periplasmic adaptor subunit,M,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10820
+EQU24_RS15350,0.1143505687745411,,hopanoid biosynthesis associated membrane protein HpnM,Q,890,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15350
+EQU24_RS08770,0.1109094762596207,,1-deoxy-D-xylulose-5-phosphate synthase,H,1721,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08770
+EQU24_RS15370,0.1080005846058232,,phosphorylase,F,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15370
+EQU24_RS10830,0.0899862891442281,,efflux transporter outer membrane subunit,M,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10830
+EQU24_RS15345,0.088667355912226,,VacJ family lipoprotein,M,890,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15345
+EQU24_RS17690,0.0825248335304527,,flagellin,N,591,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17690
+EQU24_RS17660,0.0789509140115374,fliS,flagellar export chaperone FliS,N,596,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17660
+EQU24_RS10985,-0.0833119058665563,,DUF4255 domain-containing protein,S,1457,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10985
+EQU24_RS01635,-0.0908917495488943,,EAL domain-containing protein,T,2604,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01635
+EQU24_RS01670,-0.1275045581664216,,DUF2292 domain-containing protein,-,2600,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01670

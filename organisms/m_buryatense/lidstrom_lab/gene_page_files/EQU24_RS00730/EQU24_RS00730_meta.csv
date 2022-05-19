@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00730
+name,coaBC
+operon,2729
+gene_product,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00730"">BioCyc</a>"

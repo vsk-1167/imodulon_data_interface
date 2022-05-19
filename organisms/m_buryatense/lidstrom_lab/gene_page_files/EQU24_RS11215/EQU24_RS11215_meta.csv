@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS11215
+name,tssF
+operon,1423
+gene_product,type VI secretion system baseplate subunit TssF
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11215"">BioCyc</a>"

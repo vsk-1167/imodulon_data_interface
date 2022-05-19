@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09380
+name,modC
+operon,1644
+gene_product,molybdenum ABC transporter ATP-binding protein
+cog,P
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09380"">BioCyc</a>"

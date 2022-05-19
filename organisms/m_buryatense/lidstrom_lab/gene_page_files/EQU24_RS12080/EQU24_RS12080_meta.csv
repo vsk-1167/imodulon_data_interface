@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12080
+name,leuB
+operon,1315
+gene_product,3-isopropylmalate dehydrogenase
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12080"">BioCyc</a>"

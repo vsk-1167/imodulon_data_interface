@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS02205
+name,mnmG
+operon,2525
+gene_product,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG
+cog,D
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02205"">BioCyc</a>"

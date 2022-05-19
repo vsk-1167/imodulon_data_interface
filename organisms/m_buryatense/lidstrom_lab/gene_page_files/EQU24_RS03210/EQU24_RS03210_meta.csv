@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS03210
+name,minE
+operon,2404
+gene_product,cell division topological specificity factor MinE
+cog,D
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03210"">BioCyc</a>"

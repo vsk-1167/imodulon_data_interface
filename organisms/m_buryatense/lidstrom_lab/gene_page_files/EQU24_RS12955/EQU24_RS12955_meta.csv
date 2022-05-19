@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12955
+name,rdgC
+operon,1210
+gene_product,recombination-associated protein RdgC
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12955"">BioCyc</a>"

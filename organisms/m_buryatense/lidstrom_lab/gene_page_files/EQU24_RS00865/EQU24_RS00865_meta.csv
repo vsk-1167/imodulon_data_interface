@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS00865
+name,hemW
+operon,2715
+gene_product,radical SAM family heme chaperone HemW
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00865"">BioCyc</a>"

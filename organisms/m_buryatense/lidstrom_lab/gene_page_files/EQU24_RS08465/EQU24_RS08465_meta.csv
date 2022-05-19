@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS08465
+name,urtD
+operon,1762
+gene_product,urea ABC transporter ATP-binding protein UrtD
+cog,S
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08465"">BioCyc</a>"

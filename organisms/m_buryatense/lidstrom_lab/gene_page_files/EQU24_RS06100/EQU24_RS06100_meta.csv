@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS06100
+name,gltA
+operon,2065
+gene_product,citrate (Si)-synthase
+cog,H
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06100"">BioCyc</a>"

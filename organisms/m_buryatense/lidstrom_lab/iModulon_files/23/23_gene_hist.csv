@@ -1,0 +1,21 @@
+,-0.09050749631766213,-0.07658326611494487,-0.06265903591222761,-0.04873480570951036,-0.034810575506793104,-0.02088634530407585,-0.006962115101358593,0.006962115101358662,0.020886345304075918,0.03481057550679319,0.04873480570951043,0.06265903591222767,0.07658326611494494,0.09050749631766221,0.10443172652037945,0.11835595672309669,0.13228018692581395,0.14620441712853122,0.16012864733124849,0.1740528775339657
+thresh,-0.0278484604054345,0.0278484604054345,1,,,,,,,,,,,,,,,,,
+unreg,1,0,4,16,90,499,1540,1462,464,92,29,8,5,1,2,0,0,0,0,0
+unreg_genes,[nan],[],['nan' 'nan' 'nan' 'pqqA'],"['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'lexA' 'rplM' 'nan' 'rpmI' 'nan'
+ 'rpsT' 'nan' 'nan' 'nan' 'nan']","['rfbC' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'queF' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'ribA' 'nan' 'nan' 'nan' 'mlaD'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'ybgC' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nagZ'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'ssb' 'nan' 'nan' 'nan' 'nan' 'nan' 'dksA'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'rfbA' 'nan']",[],[],[],[],"['hemE' 'nan' 'nan' 'nan' 'nan' 'nan' 'ispF' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'urtB' 'ccmB' 'flhB' 'nan' 'genX' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'guaA' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'tusD' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'alr' 'nan' 'nan' 'nan' 'nan' 'nan' 'fliR' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'urtC' 'nan' 'nan' 'nan' 'nan' 'nan']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'csrA' 'nan' 'fliP' 'nan' 'nan'
+ 'nan' 'nan' 'arsB' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'nan' 'nan' 'nan' 'nan' 'nan']",[nan nan nan nan nan nan nan nan],['nan' 'fliQ' 'nan' 'nan' 'nan'],[nan],[nan nan],[],[],[],[],[]

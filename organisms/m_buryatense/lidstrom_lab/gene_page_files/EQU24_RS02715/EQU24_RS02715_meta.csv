@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS02715
+name,erpA
+operon,2457
+gene_product,iron-sulfur cluster insertion protein ErpA
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02715"">BioCyc</a>"

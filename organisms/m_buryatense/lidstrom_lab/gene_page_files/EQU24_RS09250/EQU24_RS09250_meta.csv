@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS09250
+name,recR
+operon,1661
+gene_product,recombination protein RecR
+cog,L
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09250"">BioCyc</a>"

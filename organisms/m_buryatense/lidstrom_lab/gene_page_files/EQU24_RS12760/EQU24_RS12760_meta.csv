@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS12760
+name,phoU
+operon,1120
+gene_product,phosphate signaling complex protein PhoU
+cog,P
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12760"">BioCyc</a>"

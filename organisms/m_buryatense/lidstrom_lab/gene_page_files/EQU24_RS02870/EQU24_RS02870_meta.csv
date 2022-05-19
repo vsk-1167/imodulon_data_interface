@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS02870
+name,rpoE
+operon,2443
+gene_product,RNA polymerase sigma factor RpoE
+cog,K
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02870"">BioCyc</a>"

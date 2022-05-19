@@ -1,0 +1,8 @@
+,0
+gene_id,EQU24_RS08255
+name,coxB
+operon,1788
+gene_product,cytochrome c oxidase subunit II
+cog,C
+regulator,<i>Not Available</i>
+link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08255"">BioCyc</a>"
