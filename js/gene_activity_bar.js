@@ -97,6 +97,7 @@
 
     // parse the metadata header to find the important columns
     var sample_idx = get_index(metadata[0], 'sample');
+    var og_sample_idx = get_index(metadata[0], 'sample_og_name');
     if (sample_idx == -1) {
         sample_idx = 0
     }
@@ -117,6 +118,7 @@
     var plot_bands = [];
     var point_locs = [];
     var bar_colors = []; // Erin addition
+    var point_order = []; // Erin addition
 
     // START ERIN TINKER
     const priority = {
@@ -135,6 +137,35 @@
       };
 
     data = data.sort((a,b) => priority[a[1]] - priority[b[1]]);
+
+    // // keep track of sample order so I can sort metadata labels correctly??
+    var last_j = 0;
+    for (i = 1; i < data.length-1; i++) {
+        for (j = 0; j < data[i][4]; j++) {        
+            // skip first 5 columns, then proceed by 2's?
+            //point_order[data[i][6 + 2*j - 1]]=j+last_j;
+            point_order.push([data[i][6 + 2*j - 1],j+last_j]);
+            //console.log(i, j, last_j, j+last_j);
+        }
+        last_j = j+last_j; // accumlation counter
+
+    }
+    // console.log("point order");
+    // console.log(point_order);
+    // console.log("UNSORTED??");
+    // console.log(metadata);
+    var sorted_meta = []
+    sorted_meta.push(metadata[0]); // add header row
+    for (i = 0; i < point_order.length; i++) {
+        // +1 at the end to skip metadata header row
+        sorted_meta.push(metadata[point_order[i][0]+1]);
+    }
+    //metadata = metadata.sort((a,b) => point_order[a.index] - point_order[b.index]);
+    // console.log("SORTED??");
+    // console.log(sorted_meta);
+
+    // reset metadata var
+    metadata = sorted_meta;
 
     // END ERIN TINKER
 
@@ -297,7 +328,7 @@
                     y: 0
                 },
                 marker: {
-                    radius: 2
+                    radius: 3
                 },
                 stickyTracking: false,
             }],
@@ -324,7 +355,9 @@
 
                     // header: sample name
                     tooltip += '<span style="font-size: 10px">' + metadata[meta_index][sample_idx] + '</span><br>';
-
+                    // ERIN adjustment to give fermentor run name
+                    tooltip += '<span style="font-size: 10px">' + metadata[meta_index][og_sample_idx] + '</span><br>';
+                    
                     // activity
                     tooltip += 'X: '+ this.point.y.toFixed(2);
                 }
