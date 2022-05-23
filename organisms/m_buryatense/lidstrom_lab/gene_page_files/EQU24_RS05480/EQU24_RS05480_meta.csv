@@ -3,6 +3,6 @@ gene_id,EQU24_RS05480
 name,epmB
 operon,2144
 gene_product,EF-P beta-lysylation protein EpmB
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05480"">BioCyc</a>"

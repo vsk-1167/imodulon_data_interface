@@ -3,6 +3,6 @@ gene_id,EQU24_RS08085
 name,<i>Not Available</i>
 operon,1812
 gene_product,site-specific integrase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08085"">BioCyc</a>"

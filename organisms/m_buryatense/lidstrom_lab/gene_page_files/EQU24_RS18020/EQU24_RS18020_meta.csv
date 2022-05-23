@@ -3,6 +3,6 @@ gene_id,EQU24_RS18020
 name,dprA
 operon,556
 gene_product,DNA-protecting protein DprA
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18020"">BioCyc</a>"

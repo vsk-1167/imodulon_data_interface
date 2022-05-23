@@ -3,6 +3,6 @@ gene_id,EQU24_RS00470
 name,<i>Not Available</i>
 operon,2768
 gene_product,GDSL family lipase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00470"">BioCyc</a>"

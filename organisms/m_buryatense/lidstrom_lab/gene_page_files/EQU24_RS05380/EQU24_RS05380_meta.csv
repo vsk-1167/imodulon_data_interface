@@ -3,6 +3,6 @@ gene_id,EQU24_RS05380
 name,cobD
 operon,2160
 gene_product,cobalamin biosynthesis protein CobD
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05380"">BioCyc</a>"

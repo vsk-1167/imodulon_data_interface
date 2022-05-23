@@ -3,6 +3,6 @@ gene_id,EQU24_RS01350
 name,<i>Not Available</i>
 operon,2648
 gene_product,helix-turn-helix transcriptional regulator
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01350"">BioCyc</a>"

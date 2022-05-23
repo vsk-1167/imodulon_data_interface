@@ -1,2 +1,2 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS01305,0.5592267538927941,,IS66 family transposase,L,2653,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01305
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS01305,0.5592267538927941,,IS66 family transposase,"Replication, recombination and repair",2653,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01305

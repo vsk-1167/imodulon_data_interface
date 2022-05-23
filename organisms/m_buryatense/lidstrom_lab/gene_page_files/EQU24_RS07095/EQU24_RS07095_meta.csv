@@ -3,6 +3,6 @@ gene_id,EQU24_RS07095
 name,<i>Not Available</i>
 operon,1930
 gene_product,Hsp33 family molecular chaperone HslO
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07095"">BioCyc</a>"

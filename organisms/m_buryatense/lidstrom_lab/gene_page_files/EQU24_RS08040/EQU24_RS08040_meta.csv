@@ -3,6 +3,6 @@ gene_id,EQU24_RS08040
 name,<i>Not Available</i>
 operon,1819
 gene_product,VOC family protein
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08040"">BioCyc</a>"

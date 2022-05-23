@@ -3,6 +3,6 @@ gene_id,EQU24_RS00105
 name,crp
 operon,2818
 gene_product,cAMP-activated global transcriptional regulator CRP
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00105"">BioCyc</a>"

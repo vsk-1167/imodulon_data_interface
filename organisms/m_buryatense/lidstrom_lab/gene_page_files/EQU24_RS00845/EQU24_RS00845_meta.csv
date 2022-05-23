@@ -3,6 +3,6 @@ gene_id,EQU24_RS00845
 name,<i>Not Available</i>
 operon,2718
 gene_product,anthranilate synthase component I
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00845"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS07400
 name,pheS
 operon,1893
 gene_product,phenylalanine--tRNA ligase subunit alpha
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07400"">BioCyc</a>"

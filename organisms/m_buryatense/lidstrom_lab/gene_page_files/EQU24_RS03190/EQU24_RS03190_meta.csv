@@ -3,6 +3,6 @@ gene_id,EQU24_RS03190
 name,<i>Not Available</i>
 operon,2406
 gene_product,RNA polymerase factor sigma-54
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03190"">BioCyc</a>"

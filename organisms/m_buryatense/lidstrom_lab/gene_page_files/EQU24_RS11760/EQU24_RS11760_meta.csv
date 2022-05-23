@@ -3,6 +3,6 @@ gene_id,EQU24_RS11760
 name,<i>Not Available</i>
 operon,1347
 gene_product,HD domain-containing protein
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11760"">BioCyc</a>"

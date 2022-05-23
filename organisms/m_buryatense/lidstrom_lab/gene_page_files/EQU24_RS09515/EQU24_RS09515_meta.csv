@@ -3,6 +3,6 @@ gene_id,EQU24_RS09515
 name,<i>Not Available</i>
 operon,1624
 gene_product,triose-phosphate isomerase
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09515"">BioCyc</a>"

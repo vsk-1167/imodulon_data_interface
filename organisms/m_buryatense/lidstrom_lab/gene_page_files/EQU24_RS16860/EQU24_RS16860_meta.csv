@@ -3,6 +3,6 @@ gene_id,EQU24_RS16860
 name,flgA
 operon,696
 gene_product,flagellar basal body P-ring formation protein FlgA
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16860"">BioCyc</a>"

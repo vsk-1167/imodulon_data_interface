@@ -3,6 +3,6 @@ gene_id,EQU24_RS19835
 name,<i>Not Available</i>
 operon,316
 gene_product,FtsX-like permease family protein
-cog,V
+cog,Defense mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19835"">BioCyc</a>"

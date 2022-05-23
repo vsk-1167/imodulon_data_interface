@@ -3,6 +3,6 @@ gene_id,EQU24_RS19525
 name,<i>Not Available</i>
 operon,355
 gene_product,excinuclease ABC subunit A
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19525"">BioCyc</a>"

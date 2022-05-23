@@ -3,6 +3,6 @@ gene_id,EQU24_RS09455
 name,<i>Not Available</i>
 operon,1635
 gene_product,ribonuclease T
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09455"">BioCyc</a>"

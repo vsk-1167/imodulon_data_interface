@@ -3,6 +3,6 @@ gene_id,EQU24_RS18720
 name,nagZ
 operon,465
 gene_product,beta-N-acetylhexosaminidase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18720"">BioCyc</a>"

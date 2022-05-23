@@ -3,6 +3,6 @@ gene_id,EQU24_RS12345
 name,<i>Not Available</i>
 operon,1278
 gene_product,ABC transporter permease subunit
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12345"">BioCyc</a>"

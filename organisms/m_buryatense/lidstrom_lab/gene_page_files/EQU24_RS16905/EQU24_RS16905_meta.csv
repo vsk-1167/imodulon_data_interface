@@ -3,6 +3,6 @@ gene_id,EQU24_RS16905
 name,<i>Not Available</i>
 operon,690
 gene_product,formylmethanofuran dehydrogenase subunit A
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16905"">BioCyc</a>"

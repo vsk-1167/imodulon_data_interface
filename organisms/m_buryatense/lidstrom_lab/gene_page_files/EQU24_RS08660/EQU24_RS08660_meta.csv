@@ -3,6 +3,6 @@ gene_id,EQU24_RS08660
 name,<i>Not Available</i>
 operon,1735
 gene_product,transcriptional regulator
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08660"">BioCyc</a>"

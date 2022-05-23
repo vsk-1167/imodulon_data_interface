@@ -3,6 +3,6 @@ gene_id,EQU24_RS08975
 name,<i>Not Available</i>
 operon,1694
 gene_product,MFS transporter
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08975"">BioCyc</a>"

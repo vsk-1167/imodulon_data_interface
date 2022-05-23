@@ -3,6 +3,6 @@ gene_id,EQU24_RS16600
 name,tolB
 operon,722
 gene_product,Tol-Pal system beta propeller repeat protein TolB
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16600"">BioCyc</a>"

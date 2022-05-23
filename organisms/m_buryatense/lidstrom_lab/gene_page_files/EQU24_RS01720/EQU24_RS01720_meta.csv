@@ -3,6 +3,6 @@ gene_id,EQU24_RS01720
 name,<i>Not Available</i>
 operon,2597
 gene_product,hexose kinase
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01720"">BioCyc</a>"

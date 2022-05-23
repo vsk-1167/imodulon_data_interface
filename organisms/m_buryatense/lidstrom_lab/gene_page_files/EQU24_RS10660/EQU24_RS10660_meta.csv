@@ -3,6 +3,6 @@ gene_id,EQU24_RS10660
 name,<i>Not Available</i>
 operon,1490
 gene_product,chemotaxis protein CheW
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10660"">BioCyc</a>"

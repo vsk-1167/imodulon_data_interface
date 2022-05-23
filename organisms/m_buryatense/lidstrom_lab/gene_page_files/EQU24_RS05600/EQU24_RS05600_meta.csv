@@ -3,6 +3,6 @@ gene_id,EQU24_RS05600
 name,mutS
 operon,2128
 gene_product,DNA mismatch repair protein MutS
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05600"">BioCyc</a>"

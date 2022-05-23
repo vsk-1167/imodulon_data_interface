@@ -3,6 +3,6 @@ gene_id,EQU24_RS12575
 name,<i>Not Available</i>
 operon,1252
 gene_product,plasmid pRiA4b ORF-3 family protein
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12575"">BioCyc</a>"

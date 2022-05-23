@@ -3,6 +3,6 @@ gene_id,EQU24_RS15905
 name,cheY
 operon,811
 gene_product,chemotaxis protein CheY
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15905"">BioCyc</a>"

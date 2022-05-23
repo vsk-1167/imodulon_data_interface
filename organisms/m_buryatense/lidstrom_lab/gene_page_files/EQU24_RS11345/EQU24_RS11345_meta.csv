@@ -3,6 +3,6 @@ gene_id,EQU24_RS11345
 name,hxlA
 operon,69
 gene_product,3-hexulose-6-phosphate synthase
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11345"">BioCyc</a>"

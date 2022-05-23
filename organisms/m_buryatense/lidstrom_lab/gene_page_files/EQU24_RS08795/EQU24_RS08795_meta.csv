@@ -3,6 +3,6 @@ gene_id,EQU24_RS08795
 name,<i>Not Available</i>
 operon,1718
 gene_product,hypothetical protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08795"">BioCyc</a>"

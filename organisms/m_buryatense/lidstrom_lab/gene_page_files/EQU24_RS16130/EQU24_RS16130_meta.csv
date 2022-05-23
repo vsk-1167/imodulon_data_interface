@@ -3,6 +3,6 @@ gene_id,EQU24_RS16130
 name,<i>Not Available</i>
 operon,786
 gene_product,flavohemoglobin expression-modulating QEGLA motif protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16130"">BioCyc</a>"

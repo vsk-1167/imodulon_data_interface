@@ -1,8 +1,8 @@
 ,0
 gene_id,EQU24_RS05885
-name,<i>Not Available</i>
+name,mmoX
 operon,2088
 gene_product,methane monooxygenase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05885"">BioCyc</a>"

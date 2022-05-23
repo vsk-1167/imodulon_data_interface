@@ -3,6 +3,6 @@ gene_id,EQU24_RS16670
 name,<i>Not Available</i>
 operon,716
 gene_product,thiamine phosphate synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16670"">BioCyc</a>"

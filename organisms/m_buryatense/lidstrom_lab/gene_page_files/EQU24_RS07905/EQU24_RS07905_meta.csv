@@ -3,6 +3,6 @@ gene_id,EQU24_RS07905
 name,<i>Not Available</i>
 operon,1835
 gene_product,DegT/DnrJ/EryC1/StrS family aminotransferase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07905"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS07820
 name,acs
 operon,1848
 gene_product,acetate--CoA ligase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07820"">BioCyc</a>"

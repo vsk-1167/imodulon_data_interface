@@ -3,6 +3,6 @@ gene_id,EQU24_RS07760
 name,<i>Not Available</i>
 operon,1854
 gene_product,chemotaxis protein CheR
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07760"">BioCyc</a>"

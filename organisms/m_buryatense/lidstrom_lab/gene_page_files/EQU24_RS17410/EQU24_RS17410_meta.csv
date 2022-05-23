@@ -3,6 +3,6 @@ gene_id,EQU24_RS17410
 name,nifU
 operon,627
 gene_product,Fe-S cluster assembly protein NifU
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17410"">BioCyc</a>"

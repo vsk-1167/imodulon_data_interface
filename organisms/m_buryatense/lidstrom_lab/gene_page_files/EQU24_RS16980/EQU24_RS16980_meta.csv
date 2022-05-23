@@ -3,6 +3,6 @@ gene_id,EQU24_RS16980
 name,mltF
 operon,682
 gene_product,membrane-bound lytic murein transglycosylase MltF
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16980"">BioCyc</a>"

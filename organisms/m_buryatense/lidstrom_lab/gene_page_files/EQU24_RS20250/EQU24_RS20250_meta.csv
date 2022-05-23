@@ -3,6 +3,6 @@ gene_id,EQU24_RS20250
 name,<i>Not Available</i>
 operon,259
 gene_product,AAA family ATPase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20250"">BioCyc</a>"

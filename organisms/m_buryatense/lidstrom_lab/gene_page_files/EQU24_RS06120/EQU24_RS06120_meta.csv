@@ -3,6 +3,6 @@ gene_id,EQU24_RS06120
 name,<i>Not Available</i>
 operon,2063
 gene_product,5-(carboxyamino)imidazole ribonucleotide synthase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06120"">BioCyc</a>"

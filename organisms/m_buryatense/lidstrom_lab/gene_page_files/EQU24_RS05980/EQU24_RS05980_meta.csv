@@ -3,6 +3,6 @@ gene_id,EQU24_RS05980
 name,<i>Not Available</i>
 operon,2077
 gene_product,ABC transporter permease subunit
-cog,V
+cog,Defense mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05980"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS03485
 name,<i>Not Available</i>
 operon,2370
 gene_product,cytochrome c
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03485"">BioCyc</a>"

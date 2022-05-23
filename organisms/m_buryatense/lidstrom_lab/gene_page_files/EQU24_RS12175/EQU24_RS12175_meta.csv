@@ -3,6 +3,6 @@ gene_id,EQU24_RS12175
 name,csm3
 operon,1302
 gene_product,type III-A CRISPR-associated RAMP protein Csm3
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12175"">BioCyc</a>"

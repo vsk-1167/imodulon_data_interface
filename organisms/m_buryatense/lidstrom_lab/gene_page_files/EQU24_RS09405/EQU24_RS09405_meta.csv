@@ -3,6 +3,6 @@ gene_id,EQU24_RS09405
 name,<i>Not Available</i>
 operon,1641
 gene_product,gamma-glutamylcyclotransferase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09405"">BioCyc</a>"

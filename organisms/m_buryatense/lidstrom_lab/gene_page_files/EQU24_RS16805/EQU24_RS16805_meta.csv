@@ -3,6 +3,6 @@ gene_id,EQU24_RS16805
 name,flgJ
 operon,700
 gene_product,flagellar assembly peptidoglycan hydrolase FlgJ
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16805"">BioCyc</a>"

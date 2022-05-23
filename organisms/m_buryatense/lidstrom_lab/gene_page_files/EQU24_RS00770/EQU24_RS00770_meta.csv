@@ -3,6 +3,6 @@ gene_id,EQU24_RS00770
 name,<i>Not Available</i>
 operon,2725
 gene_product,deoxyribodipyrimidine photo-lyase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00770"">BioCyc</a>"

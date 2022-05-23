@@ -1,26 +1,44 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS11115,0.2290378607238323,,transposase,L,1437,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11115
-EQU24_RS01450,0.2045944636354232,,DUF4338 domain-containing protein,L,2631,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01450
-EQU24_RS12820,0.185661292078186,,type II toxin-antitoxin system HicA family toxin,N,1222,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12820
-EQU24_RS08850,0.1748093911507521,,type II toxin-antitoxin system HicA family toxin,N,1710,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08850
-EQU24_RS17700,0.1450433962548155,,IS66 family transposase,L,589,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17700
-EQU24_RS16985,0.1397689854921882,,IS110 family transposase,L,681,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16985
-EQU24_RS19045,0.1340441798097913,,IS3 family transposase,L,422,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19045
-EQU24_RS17885,0.1305918270292556,,IS110 family transposase,L,572,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17885
-EQU24_RS07485,0.1235772724843574,,IS66 family transposase,L,1884,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07485
-EQU24_RS12805,0.1143621928351318,,IS4 family transposase,L,1225,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805
-EQU24_RS06860,0.1132600252496666,,IS110 family transposase,L,1961,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06860
-EQU24_RS11380,0.1055680713782408,,IS66 family transposase,L,1401,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11380
-EQU24_RS03465,0.1018964373949156,,ISAs1 family transposase,L,2373,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03465
-EQU24_RS04130,0.0995352058020237,ltrA,group II intron reverse transcriptase/maturase,L,1224,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04130
-EQU24_RS20615,0.0820813414882616,,DUF4338 domain-containing protein,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20615
-EQU24_RS03770,-0.0835724822980564,,,-,2338,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03770
-EQU24_RS03795,-0.0941155253025854,,,-,2336,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03795
-EQU24_RS18555,-0.0981448702472222,,,-,489,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18555
-EQU24_RS03790,-0.0985405413067692,,,-,2336,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03790
-EQU24_RS04160,-0.1018476029828763,,,-,2308,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04160
-EQU24_RS18550,-0.1025040594346594,,,-,489,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18550
-EQU24_RS09830,-0.1072681855464016,,,-,1582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09830
-EQU24_RS05635,-0.108667046264029,,,-,2123,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05635
-EQU24_RS15090,-0.148612043575194,,,-,924,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15090
-EQU24_RS15095,-0.1642652838401573,,,-,924,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15095
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS11115,0.2290378607238323,,transposase,"Replication, recombination and repair",1437,"DNA binding
+transposase activity
+transposition, DNA-mediated
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11115
+EQU24_RS01450,0.2045944636354232,,DUF4338 domain-containing protein,"Replication, recombination and repair",2631,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01450
+EQU24_RS12820,0.185661292078186,,type II toxin-antitoxin system HicA family toxin,Cell motility,1222,mRNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12820
+EQU24_RS08850,0.1748093911507521,,type II toxin-antitoxin system HicA family toxin,Cell motility,1710,mRNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08850
+EQU24_RS17700,0.1450433962548155,,IS66 family transposase,"Replication, recombination and repair",589,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17700
+EQU24_RS16985,0.1397689854921882,,IS110 family transposase,"Replication, recombination and repair",681,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16985
+EQU24_RS19045,0.1340441798097913,,IS3 family transposase,"Replication, recombination and repair",422,"DNA integration
+sequence-specific DNA binding
+transposition",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19045
+EQU24_RS17885,0.1305918270292556,,IS110 family transposase,"Replication, recombination and repair",572,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17885
+EQU24_RS07485,0.1235772724843574,,IS66 family transposase,"Replication, recombination and repair",1884,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07485
+EQU24_RS12805,0.1143621928351318,,IS4 family transposase,"Replication, recombination and repair",1225,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805
+EQU24_RS06860,0.1132600252496666,,IS110 family transposase,"Replication, recombination and repair",1961,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06860
+EQU24_RS11380,0.1055680713782408,,IS66 family transposase,"Replication, recombination and repair",1401,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11380
+EQU24_RS03465,0.1018964373949156,,ISAs1 family transposase,"Replication, recombination and repair",2373,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03465
+EQU24_RS04130,0.0995352058020237,ltrA,group II intron reverse transcriptase/maturase,"Replication, recombination and repair",1224,"RNA-templated DNA biosynthetic process
+RNA-directed DNA polymerase activity
+RNA binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04130
+EQU24_RS20615,0.0820813414882616,,DUF4338 domain-containing protein,"Replication, recombination and repair",212,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20615
+EQU24_RS03770,-0.0835724822980564,,,No COG annotation,2338,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03770
+EQU24_RS03795,-0.0941155253025854,,,No COG annotation,2336,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03795
+EQU24_RS18555,-0.0981448702472222,,,No COG annotation,489,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18555
+EQU24_RS03790,-0.0985405413067692,,,No COG annotation,2336,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03790
+EQU24_RS04160,-0.1018476029828763,,,No COG annotation,2308,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04160
+EQU24_RS18550,-0.1025040594346594,,,No COG annotation,489,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18550
+EQU24_RS09830,-0.1072681855464016,,,No COG annotation,1582,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09830
+EQU24_RS05635,-0.108667046264029,,,No COG annotation,2123,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05635
+EQU24_RS15090,-0.148612043575194,,,No COG annotation,924,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15090
+EQU24_RS15095,-0.1642652838401573,,,No COG annotation,924,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15095

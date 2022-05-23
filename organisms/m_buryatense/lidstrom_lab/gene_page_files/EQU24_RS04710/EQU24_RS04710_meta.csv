@@ -3,6 +3,6 @@ gene_id,EQU24_RS04710
 name,pdxA
 operon,2238
 gene_product,4-hydroxythreonine-4-phosphate dehydrogenase PdxA
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04710"">BioCyc</a>"

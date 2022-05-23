@@ -3,6 +3,6 @@ gene_id,EQU24_RS02060
 name,<i>Not Available</i>
 operon,2548
 gene_product,peptidase M4
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02060"">BioCyc</a>"

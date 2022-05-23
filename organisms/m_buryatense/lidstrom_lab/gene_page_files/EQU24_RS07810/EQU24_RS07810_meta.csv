@@ -3,6 +3,6 @@ gene_id,EQU24_RS07810
 name,<i>Not Available</i>
 operon,1849
 gene_product,four helix bundle protein
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07810"">BioCyc</a>"

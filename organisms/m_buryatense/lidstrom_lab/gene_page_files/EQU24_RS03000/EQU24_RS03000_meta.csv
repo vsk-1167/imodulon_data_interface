@@ -3,6 +3,6 @@ gene_id,EQU24_RS03000
 name,<i>Not Available</i>
 operon,2423
 gene_product,RecQ family ATP-dependent DNA helicase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03000"">BioCyc</a>"

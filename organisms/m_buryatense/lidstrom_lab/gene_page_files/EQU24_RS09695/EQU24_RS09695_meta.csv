@@ -3,6 +3,6 @@ gene_id,EQU24_RS09695
 name,<i>Not Available</i>
 operon,1598
 gene_product,pyridoxamine 5'-phosphate oxidase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09695"">BioCyc</a>"

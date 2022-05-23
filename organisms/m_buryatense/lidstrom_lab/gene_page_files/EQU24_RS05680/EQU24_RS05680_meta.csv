@@ -3,6 +3,6 @@ gene_id,EQU24_RS05680
 name,gor
 operon,2118
 gene_product,glutathione-disulfide reductase
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05680"">BioCyc</a>"

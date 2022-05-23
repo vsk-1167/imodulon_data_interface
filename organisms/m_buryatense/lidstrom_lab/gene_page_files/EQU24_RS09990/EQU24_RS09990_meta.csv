@@ -3,6 +3,6 @@ gene_id,EQU24_RS09990
 name,rpsF
 operon,1563
 gene_product,30S ribosomal protein S6
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09990"">BioCyc</a>"

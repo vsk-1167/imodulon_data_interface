@@ -3,6 +3,6 @@ gene_id,EQU24_RS19380
 name,pilW
 operon,376
 gene_product,type IV pilus biogenesis/stability protein PilW
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19380"">BioCyc</a>"

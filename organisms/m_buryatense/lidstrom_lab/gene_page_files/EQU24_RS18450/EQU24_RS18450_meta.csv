@@ -3,6 +3,6 @@ gene_id,EQU24_RS18450
 name,rfbA
 operon,499
 gene_product,glucose-1-phosphate thymidylyltransferase RfbA
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18450"">BioCyc</a>"

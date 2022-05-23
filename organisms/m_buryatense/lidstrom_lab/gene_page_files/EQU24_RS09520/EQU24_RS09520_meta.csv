@@ -3,6 +3,6 @@ gene_id,EQU24_RS09520
 name,secG
 operon,1624
 gene_product,preprotein translocase subunit SecG
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09520"">BioCyc</a>"

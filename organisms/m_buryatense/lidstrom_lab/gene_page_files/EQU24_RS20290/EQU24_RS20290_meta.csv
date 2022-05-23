@@ -3,6 +3,6 @@ gene_id,EQU24_RS20290
 name,cas5e
 operon,253
 gene_product,type I-E CRISPR-associated protein Cas5/CasD
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20290"">BioCyc</a>"

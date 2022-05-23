@@ -3,6 +3,6 @@ gene_id,EQU24_RS16970
 name,<i>Not Available</i>
 operon,682
 gene_product,BamA/TamA family outer membrane protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16970"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS01590
 name,<i>Not Available</i>
 operon,2611
 gene_product,alpha/beta hydrolase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01590"">BioCyc</a>"

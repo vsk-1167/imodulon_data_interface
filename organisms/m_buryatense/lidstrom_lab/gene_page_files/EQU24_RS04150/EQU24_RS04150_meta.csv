@@ -3,6 +3,6 @@ gene_id,EQU24_RS04150
 name,<i>Not Available</i>
 operon,2309
 gene_product,pyrophosphate--fructose-6-phosphate 1-phosphotransferase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04150"">BioCyc</a>"

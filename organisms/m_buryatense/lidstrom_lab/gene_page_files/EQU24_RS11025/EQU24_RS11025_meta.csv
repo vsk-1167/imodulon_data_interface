@@ -3,6 +3,6 @@ gene_id,EQU24_RS11025
 name,<i>Not Available</i>
 operon,1451
 gene_product,sigma-54-dependent Fis family transcriptional regulator
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11025"">BioCyc</a>"

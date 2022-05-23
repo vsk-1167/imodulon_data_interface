@@ -3,6 +3,6 @@ gene_id,EQU24_RS20180
 name,<i>Not Available</i>
 operon,272
 gene_product,protein containing Six-hairpin glycosidase-like domain
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20180"">BioCyc</a>"

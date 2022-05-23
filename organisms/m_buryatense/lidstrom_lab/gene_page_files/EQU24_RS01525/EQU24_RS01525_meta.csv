@@ -3,6 +3,6 @@ gene_id,EQU24_RS01525
 name,<i>Not Available</i>
 operon,2621
 gene_product,type II/IV secretion system protein
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01525"">BioCyc</a>"

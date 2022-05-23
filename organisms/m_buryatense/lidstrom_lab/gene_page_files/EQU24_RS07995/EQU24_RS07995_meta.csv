@@ -3,6 +3,6 @@ gene_id,EQU24_RS07995
 name,<i>Not Available</i>
 operon,1825
 gene_product,IS3 family transposase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07995"">BioCyc</a>"

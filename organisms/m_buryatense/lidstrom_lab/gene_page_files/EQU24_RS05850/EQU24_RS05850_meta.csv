@@ -3,6 +3,6 @@ gene_id,EQU24_RS05850
 name,<i>Not Available</i>
 operon,2094
 gene_product,acetyl-CoA carboxylase biotin carboxylase subunit
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05850"">BioCyc</a>"

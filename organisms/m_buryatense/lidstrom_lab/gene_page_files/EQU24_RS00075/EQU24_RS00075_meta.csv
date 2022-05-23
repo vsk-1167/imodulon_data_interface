@@ -3,6 +3,6 @@ gene_id,EQU24_RS00075
 name,tatB
 operon,2822
 gene_product,twin-arginine translocase subunit TatB
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00075"">BioCyc</a>"

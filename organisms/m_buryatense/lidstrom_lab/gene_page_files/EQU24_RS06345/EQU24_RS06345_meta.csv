@@ -3,6 +3,6 @@ gene_id,EQU24_RS06345
 name,tssJ
 operon,2030
 gene_product,type VI secretion system lipoprotein TssJ
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06345"">BioCyc</a>"

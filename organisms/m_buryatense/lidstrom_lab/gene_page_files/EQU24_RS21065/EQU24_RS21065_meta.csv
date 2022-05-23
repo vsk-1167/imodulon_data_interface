@@ -3,6 +3,6 @@ gene_id,EQU24_RS21065
 name,pyrR
 operon,143
 gene_product,bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21065"">BioCyc</a>"

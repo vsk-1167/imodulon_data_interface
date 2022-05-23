@@ -3,6 +3,6 @@ gene_id,EQU24_RS02220
 name,<i>Not Available</i>
 operon,2525
 gene_product,ParB/RepB/Spo0J family partition protein
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02220"">BioCyc</a>"

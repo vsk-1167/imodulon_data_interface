@@ -3,6 +3,6 @@ gene_id,EQU24_RS05320
 name,cobS
 operon,2166
 gene_product,adenosylcobinamide-GDP ribazoletransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05320"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS18685
 name,<i>Not Available</i>
 operon,470
 gene_product,LPS-assembly protein LptD
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18685"">BioCyc</a>"

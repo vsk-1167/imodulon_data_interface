@@ -3,6 +3,6 @@ gene_id,EQU24_RS00150
 name,<i>Not Available</i>
 operon,2812
 gene_product,DUF4384 domain-containing protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00150"">BioCyc</a>"

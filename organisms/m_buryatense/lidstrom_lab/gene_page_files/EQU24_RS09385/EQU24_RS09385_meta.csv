@@ -3,6 +3,6 @@ gene_id,EQU24_RS09385
 name,modB
 operon,1644
 gene_product,molybdate ABC transporter permease subunit
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09385"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS19125
 name,rplU
 operon,411
 gene_product,50S ribosomal protein L21
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19125"">BioCyc</a>"

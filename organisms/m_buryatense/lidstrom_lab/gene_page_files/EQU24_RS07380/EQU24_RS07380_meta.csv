@@ -3,6 +3,6 @@ gene_id,EQU24_RS07380
 name,thrS
 operon,1895
 gene_product,threonine--tRNA ligase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07380"">BioCyc</a>"

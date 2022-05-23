@@ -3,6 +3,6 @@ gene_id,EQU24_RS06365
 name,folD
 operon,2027
 gene_product,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06365"">BioCyc</a>"

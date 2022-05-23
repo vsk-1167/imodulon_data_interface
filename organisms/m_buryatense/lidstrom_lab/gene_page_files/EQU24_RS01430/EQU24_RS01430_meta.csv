@@ -3,6 +3,6 @@ gene_id,EQU24_RS01430
 name,<i>Not Available</i>
 operon,2634
 gene_product,sodium-translocating pyrophosphatase
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01430"">BioCyc</a>"

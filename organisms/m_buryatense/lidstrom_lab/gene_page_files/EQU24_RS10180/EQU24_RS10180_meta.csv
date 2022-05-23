@@ -3,6 +3,6 @@ gene_id,EQU24_RS10180
 name,smpB
 operon,1537
 gene_product,SsrA-binding protein SmpB
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10180"">BioCyc</a>"

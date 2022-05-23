@@ -3,6 +3,6 @@ gene_id,EQU24_RS12920
 name,xerC
 operon,1214
 gene_product,tyrosine recombinase XerC
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12920"">BioCyc</a>"

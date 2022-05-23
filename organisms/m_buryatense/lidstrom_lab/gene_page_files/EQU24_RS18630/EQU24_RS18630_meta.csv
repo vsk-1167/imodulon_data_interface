@@ -3,6 +3,6 @@ gene_id,EQU24_RS18630
 name,glgA
 operon,478
 gene_product,glycogen synthase GlgA
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18630"">BioCyc</a>"

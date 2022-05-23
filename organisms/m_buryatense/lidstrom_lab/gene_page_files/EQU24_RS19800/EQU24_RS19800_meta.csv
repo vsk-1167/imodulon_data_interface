@@ -3,6 +3,6 @@ gene_id,EQU24_RS19800
 name,recD
 operon,323
 gene_product,exodeoxyribonuclease V subunit alpha
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19800"">BioCyc</a>"

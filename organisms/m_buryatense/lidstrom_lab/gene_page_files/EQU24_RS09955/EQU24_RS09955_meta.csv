@@ -3,6 +3,6 @@ gene_id,EQU24_RS09955
 name,<i>Not Available</i>
 operon,1569
 gene_product,DUF2764 family protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09955"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS20860
 name,<i>Not Available</i>
 operon,173
 gene_product,ribonucleotide reductase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20860"">BioCyc</a>"

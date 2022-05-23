@@ -3,6 +3,6 @@ gene_id,EQU24_RS15375
 name,<i>Not Available</i>
 operon,888
 gene_product,MMPL family transporter
-cog,V
+cog,Defense mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15375"">BioCyc</a>"

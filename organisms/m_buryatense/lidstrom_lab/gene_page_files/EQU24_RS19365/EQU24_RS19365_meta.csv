@@ -3,6 +3,6 @@ gene_id,EQU24_RS19365
 name,bamB
 operon,377
 gene_product,outer membrane protein assembly factor BamB
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19365"">BioCyc</a>"

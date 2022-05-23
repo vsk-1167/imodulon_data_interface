@@ -3,6 +3,6 @@ gene_id,EQU24_RS00440
 name,hisF
 operon,2770
 gene_product,imidazole glycerol phosphate synthase subunit HisF
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00440"">BioCyc</a>"

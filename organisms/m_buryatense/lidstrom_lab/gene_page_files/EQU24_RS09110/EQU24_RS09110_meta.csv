@@ -3,6 +3,6 @@ gene_id,EQU24_RS09110
 name,fae
 operon,1677
 gene_product,formaldehyde-activating enzyme
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09110"">BioCyc</a>"

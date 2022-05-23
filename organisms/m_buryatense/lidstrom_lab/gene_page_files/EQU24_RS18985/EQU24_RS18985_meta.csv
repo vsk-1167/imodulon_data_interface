@@ -3,6 +3,6 @@ gene_id,EQU24_RS18985
 name,<i>Not Available</i>
 operon,431
 gene_product,TonB-dependent receptor
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18985"">BioCyc</a>"

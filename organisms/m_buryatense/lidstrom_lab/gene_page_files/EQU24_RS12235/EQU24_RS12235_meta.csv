@@ -3,6 +3,6 @@ gene_id,EQU24_RS12235
 name,<i>Not Available</i>
 operon,1292
 gene_product,Hsp20/alpha crystallin family protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12235"">BioCyc</a>"

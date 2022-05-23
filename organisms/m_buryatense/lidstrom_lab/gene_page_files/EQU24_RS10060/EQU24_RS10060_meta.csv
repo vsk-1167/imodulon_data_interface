@@ -3,6 +3,6 @@ gene_id,EQU24_RS10060
 name,<i>Not Available</i>
 operon,1553
 gene_product,GNAT family N-acetyltransferase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10060"">BioCyc</a>"

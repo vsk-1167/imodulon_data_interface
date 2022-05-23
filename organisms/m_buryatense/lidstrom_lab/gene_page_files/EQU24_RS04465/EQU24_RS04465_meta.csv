@@ -3,6 +3,6 @@ gene_id,EQU24_RS04465
 name,<i>Not Available</i>
 operon,2271
 gene_product,PBP1A family penicillin-binding protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04465"">BioCyc</a>"

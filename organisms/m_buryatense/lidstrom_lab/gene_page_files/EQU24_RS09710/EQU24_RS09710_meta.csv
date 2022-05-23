@@ -3,6 +3,6 @@ gene_id,EQU24_RS09710
 name,<i>Not Available</i>
 operon,1595
 gene_product,efflux RND transporter permease subunit
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09710"">BioCyc</a>"

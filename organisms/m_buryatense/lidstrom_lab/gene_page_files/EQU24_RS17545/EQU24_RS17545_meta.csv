@@ -3,6 +3,6 @@ gene_id,EQU24_RS17545
 name,<i>Not Available</i>
 operon,608
 gene_product,2-dehydropantoate 2-reductase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17545"">BioCyc</a>"

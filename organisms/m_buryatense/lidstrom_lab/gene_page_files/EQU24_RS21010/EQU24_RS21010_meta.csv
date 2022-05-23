@@ -3,6 +3,6 @@ gene_id,EQU24_RS21010
 name,pepN
 operon,149
 gene_product,aminopeptidase N
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21010"">BioCyc</a>"

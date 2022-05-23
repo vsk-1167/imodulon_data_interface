@@ -3,6 +3,6 @@ gene_id,EQU24_RS19385
 name,<i>Not Available</i>
 operon,376
 gene_product,bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19385"">BioCyc</a>"

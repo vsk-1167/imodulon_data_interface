@@ -3,6 +3,6 @@ gene_id,EQU24_RS00725
 name,<i>Not Available</i>
 operon,2730
 gene_product,JAB domain-containing protein
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00725"">BioCyc</a>"

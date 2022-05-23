@@ -3,6 +3,6 @@ gene_id,EQU24_RS13130
 name,<i>Not Available</i>
 operon,1180
 gene_product,TRZ/ATZ family hydrolase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13130"">BioCyc</a>"

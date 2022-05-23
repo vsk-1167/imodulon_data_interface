@@ -3,6 +3,6 @@ gene_id,EQU24_RS13720
 name,<i>Not Available</i>
 operon,1110
 gene_product,metalloregulator ArsR/SmtB family transcription factor
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13720"">BioCyc</a>"

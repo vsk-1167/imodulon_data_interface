@@ -3,6 +3,6 @@ gene_id,EQU24_RS15255
 name,hemC
 operon,905
 gene_product,hydroxymethylbilane synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15255"">BioCyc</a>"

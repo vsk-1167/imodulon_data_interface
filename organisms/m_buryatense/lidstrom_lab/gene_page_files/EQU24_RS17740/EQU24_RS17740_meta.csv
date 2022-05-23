@@ -3,6 +3,6 @@ gene_id,EQU24_RS17740
 name,<i>Not Available</i>
 operon,587
 gene_product,glycosyltransferase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17740"">BioCyc</a>"

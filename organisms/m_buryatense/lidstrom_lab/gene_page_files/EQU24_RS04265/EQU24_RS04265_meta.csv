@@ -3,6 +3,6 @@ gene_id,EQU24_RS04265
 name,<i>Not Available</i>
 operon,2295
 gene_product,HigA family addiction module antidote protein
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04265"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS03230
 name,thiC
 operon,2402
 gene_product,phosphomethylpyrimidine synthase ThiC
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03230"">BioCyc</a>"

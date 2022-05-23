@@ -3,6 +3,6 @@ gene_id,EQU24_RS12245
 name,bamC
 operon,1290
 gene_product,outer membrane protein assembly factor BamC
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12245"">BioCyc</a>"

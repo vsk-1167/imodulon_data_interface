@@ -3,6 +3,6 @@ gene_id,EQU24_RS13660
 name,pstC
 operon,1118
 gene_product,phosphate ABC transporter permease subunit PstC
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13660"">BioCyc</a>"

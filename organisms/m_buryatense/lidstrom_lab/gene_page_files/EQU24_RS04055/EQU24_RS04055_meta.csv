@@ -3,6 +3,6 @@ gene_id,EQU24_RS04055
 name,<i>Not Available</i>
 operon,2320
 gene_product,isocitrate lyase/PEP mutase family protein
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04055"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS06730
 name,<i>Not Available</i>
 operon,1976
 gene_product,GNAT family N-acetyltransferase
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06730"">BioCyc</a>"

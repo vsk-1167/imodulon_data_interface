@@ -3,6 +3,6 @@ gene_id,EQU24_RS16840
 name,flgC
 operon,699
 gene_product,flagellar basal body rod protein FlgC
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16840"">BioCyc</a>"

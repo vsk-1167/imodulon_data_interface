@@ -3,6 +3,6 @@ gene_id,EQU24_RS13815
 name,<i>Not Available</i>
 operon,1102
 gene_product,4a-hydroxytetrahydrobiopterin dehydratase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13815"">BioCyc</a>"

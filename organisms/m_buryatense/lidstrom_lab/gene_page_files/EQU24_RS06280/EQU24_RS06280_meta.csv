@@ -3,6 +3,6 @@ gene_id,EQU24_RS06280
 name,<i>Not Available</i>
 operon,2041
 gene_product,RNA polymerase sigma factor
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06280"">BioCyc</a>"

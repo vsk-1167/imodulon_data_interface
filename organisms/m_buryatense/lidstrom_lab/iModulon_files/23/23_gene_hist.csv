@@ -2,7 +2,7 @@
 thresh,-0.0278484604054345,0.0278484604054345,1,,,,,,,,,,,,,,,,,
 unreg,1,0,4,16,90,499,1540,1462,464,92,29,8,5,1,2,0,0,0,0,0
 unreg_genes,[nan],[],['nan' 'nan' 'nan' 'pqqA'],"['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'lexA' 'rplM' 'nan' 'rpmI' 'nan'
- 'rpsT' 'nan' 'nan' 'nan' 'nan']","['rfbC' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
+ 'rpsT' 'nan' 'nan' 'nan' 'nan']","['rfbC' 'nan' 'nan' 'nan' 'moxI' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan'
  'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'queF' 'nan' 'nan' 'nan' 'nan' 'nan'
  'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'ribA' 'nan' 'nan' 'nan' 'mlaD'
  'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'ybgC' 'nan' 'nan' 'nan'

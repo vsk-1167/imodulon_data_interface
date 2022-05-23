@@ -3,6 +3,6 @@ gene_id,EQU24_RS21525
 name,<i>Not Available</i>
 operon,83
 gene_product,sodium:solute symporter
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21525"">BioCyc</a>"

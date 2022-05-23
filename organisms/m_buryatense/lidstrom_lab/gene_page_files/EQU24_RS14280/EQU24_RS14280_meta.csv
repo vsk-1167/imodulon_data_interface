@@ -3,6 +3,6 @@ gene_id,EQU24_RS14280
 name,<i>Not Available</i>
 operon,1037
 gene_product,slipin family protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14280"">BioCyc</a>"

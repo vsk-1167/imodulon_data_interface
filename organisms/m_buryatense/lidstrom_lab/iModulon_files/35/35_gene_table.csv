@@ -1,11 +1,24 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS14480,0.3063455590748417,,DUF3096 domain-containing protein,S,1014,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14480
-EQU24_RS05420,0.2904466956699598,,biopolymer transporter ExbD,U,2154,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05420
-EQU24_RS20320,0.2883514474893384,,DUF2442 domain-containing protein,S,252,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20320
-EQU24_RS16375,0.2534703749493225,,hypothetical protein,-,754,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16375
-EQU24_RS09095,0.2384902076772873,,hypothetical protein,-,1680,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09095
-EQU24_RS21260,0.214838447827967,,hypothetical protein,-,120,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21260
-EQU24_RS03455,0.1732038472510546,,hypothetical protein,-,2375,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03455
-EQU24_RS20610,0.1612633781675826,,ISAs1 family transposase,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
-EQU24_RS10680,0.1490837633233777,,IS4 family transposase,L,1488,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10680
-EQU24_RS14930,0.1299138314142493,,hypothetical protein,-,947,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS14480,0.3063455590748417,,DUF3096 domain-containing protein,Function unknown,1014,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14480
+EQU24_RS05420,0.2904466956699598,,biopolymer transporter ExbD,"Intracellular trafficking, secretion, and vesicular transport",2154,"protein transport
+plasma membrane
+integral component of membrane
+transmembrane transport
+transmembrane transporter activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05420
+EQU24_RS20320,0.2883514474893384,,DUF2442 domain-containing protein,Function unknown,252,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20320
+EQU24_RS16375,0.2534703749493225,,hypothetical protein,No COG annotation,754,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16375
+EQU24_RS09095,0.2384902076772873,,hypothetical protein,No COG annotation,1680,"peptidyl-histidine phosphorylation
+ATP binding
+phosphorelay signal transduction system
+integral component of membrane
+phosphorelay sensor kinase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09095
+EQU24_RS21260,0.214838447827967,,hypothetical protein,No COG annotation,120,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21260
+EQU24_RS03455,0.1732038472510546,,hypothetical protein,No COG annotation,2375,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03455
+EQU24_RS20610,0.1612633781675826,,ISAs1 family transposase,"Replication, recombination and repair",212,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
+EQU24_RS10680,0.1490837633233777,,IS4 family transposase,"Replication, recombination and repair",1488,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10680
+EQU24_RS14930,0.1299138314142493,,hypothetical protein,No COG annotation,947,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930

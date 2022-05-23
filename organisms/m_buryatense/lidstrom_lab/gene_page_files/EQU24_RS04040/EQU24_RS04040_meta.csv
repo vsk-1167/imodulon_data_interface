@@ -3,6 +3,6 @@ gene_id,EQU24_RS04040
 name,moaD
 operon,2322
 gene_product,molybdopterin converting factor subunit 1
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04040"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS03540
 name,<i>Not Available</i>
 operon,2364
 gene_product,6-carboxytetrahydropterin synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03540"">BioCyc</a>"

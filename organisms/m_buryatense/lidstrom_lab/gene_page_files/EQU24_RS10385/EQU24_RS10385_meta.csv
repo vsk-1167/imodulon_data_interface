@@ -3,6 +3,6 @@ gene_id,EQU24_RS10385
 name,<i>Not Available</i>
 operon,1518
 gene_product,ketoacyl-ACP synthase III
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10385"">BioCyc</a>"

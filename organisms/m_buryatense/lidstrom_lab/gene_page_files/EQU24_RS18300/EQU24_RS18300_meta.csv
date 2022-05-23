@@ -3,6 +3,6 @@ gene_id,EQU24_RS18300
 name,<i>Not Available</i>
 operon,517
 gene_product,ribonuclease G
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18300"">BioCyc</a>"

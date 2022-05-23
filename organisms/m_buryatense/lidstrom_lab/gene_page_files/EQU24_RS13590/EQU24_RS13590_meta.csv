@@ -3,6 +3,6 @@ gene_id,EQU24_RS13590
 name,<i>Not Available</i>
 operon,1128
 gene_product,blue light sensor protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13590"">BioCyc</a>"

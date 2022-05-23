@@ -3,6 +3,6 @@ gene_id,EQU24_RS18660
 name,glgC
 operon,474
 gene_product,glucose-1-phosphate adenylyltransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18660"">BioCyc</a>"

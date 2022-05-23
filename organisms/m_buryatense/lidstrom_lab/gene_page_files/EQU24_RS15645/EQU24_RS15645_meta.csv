@@ -3,6 +3,6 @@ gene_id,EQU24_RS15645
 name,phoB
 operon,843
 gene_product,phosphate regulon transcriptional regulatory protein PhoB
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15645"">BioCyc</a>"

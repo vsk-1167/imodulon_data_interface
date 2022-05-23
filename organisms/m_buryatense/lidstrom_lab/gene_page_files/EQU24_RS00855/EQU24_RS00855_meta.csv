@@ -3,6 +3,6 @@ gene_id,EQU24_RS00855
 name,<i>Not Available</i>
 operon,2716
 gene_product,two-component sensor histidine kinase
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00855"">BioCyc</a>"

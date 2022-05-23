@@ -3,6 +3,6 @@ gene_id,EQU24_RS10065
 name,<i>Not Available</i>
 operon,1552
 gene_product,1-acyl-sn-glycerol-3-phosphate acyltransferase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10065"">BioCyc</a>"

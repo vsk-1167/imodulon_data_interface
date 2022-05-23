@@ -1,8 +1,8 @@
 ,0
 gene_id,EQU24_RS18140
-name,<i>Not Available</i>
+name,moxF
 operon,542
 gene_product,"PQQ-dependent dehydrogenase, methanol/ethanol family"
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18140"">BioCyc</a>"

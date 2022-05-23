@@ -3,6 +3,6 @@ gene_id,EQU24_RS04610
 name,pilV
 operon,2254
 gene_product,type IV pilus modification protein PilV
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04610"">BioCyc</a>"

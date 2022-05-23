@@ -3,6 +3,6 @@ gene_id,EQU24_RS04220
 name,sucD
 operon,2303
 gene_product,succinate--CoA ligase subunit alpha
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04220"">BioCyc</a>"

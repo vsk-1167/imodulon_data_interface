@@ -3,6 +3,6 @@ gene_id,EQU24_RS09865
 name,<i>Not Available</i>
 operon,1578
 gene_product,PAS domain S-box protein
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09865"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS07650
 name,<i>Not Available</i>
 operon,1865
 gene_product,redoxin domain-containing protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07650"">BioCyc</a>"

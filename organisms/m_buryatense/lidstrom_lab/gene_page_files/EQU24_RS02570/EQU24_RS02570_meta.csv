@@ -3,6 +3,6 @@ gene_id,EQU24_RS02570
 name,<i>Not Available</i>
 operon,2476
 gene_product,DUF4124 domain-containing protein
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02570"">BioCyc</a>"

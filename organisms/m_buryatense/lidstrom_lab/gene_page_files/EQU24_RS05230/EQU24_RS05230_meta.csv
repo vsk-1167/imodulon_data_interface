@@ -3,6 +3,6 @@ gene_id,EQU24_RS05230
 name,nusA
 operon,2175
 gene_product,transcription termination/antitermination protein NusA
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05230"">BioCyc</a>"

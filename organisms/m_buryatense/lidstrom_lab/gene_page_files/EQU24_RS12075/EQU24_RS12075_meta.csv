@@ -3,6 +3,6 @@ gene_id,EQU24_RS12075
 name,<i>Not Available</i>
 operon,1315
 gene_product,2-isopropylmalate synthase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12075"">BioCyc</a>"

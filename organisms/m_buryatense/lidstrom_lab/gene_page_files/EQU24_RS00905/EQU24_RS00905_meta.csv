@@ -3,6 +3,6 @@ gene_id,EQU24_RS00905
 name,<i>Not Available</i>
 operon,2709
 gene_product,DUF389 domain-containing protein
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00905"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS07575
 name,<i>Not Available</i>
 operon,1874
 gene_product,type II toxin-antitoxin system RelE/ParE family toxin
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07575"">BioCyc</a>"

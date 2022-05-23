@@ -10,7 +10,7 @@ unreg_genes,[nan],[],[nan nan nan],[nan nan nan],[nan nan nan nan nan nan nan na
  'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan']",[],[],[],[],[],[],"['gyrB' 'nan' 'nan' 'nan' 'nan' 'nan' 'metH' 'nan' 'rbfA' 'parE' 'nan'
  'nan' 'metF' 'nan' 'secD' 'nan' 'nan' 'nan' 'nan' 'nan' 'purD' 'nan'
  'nan' 'nan' 'fabG' 'ectB' 'cas2' 'nan' 'nan' 'nan' 'nan' 'nan' 'fabD'
- 'ilvN' 'nan' 'nan' 'nan' 'atpE' 'nan' 'tuf' 'nifK' 'nan' 'nan' 'glnK'
+ 'ilvN' 'nan' 'nan' 'nan' 'atpE' 'pmoB' 'tuf' 'nifK' 'nan' 'nan' 'glnK'
  'nan' 'nan' 'cgtA' 'nan' 'gatC' 'nan' 'ftsZ' 'plsX' 'nan' 'leuC' 'nan'
  'typA' 'nan' 'nan' 'nirD' 'nan' 'nan' 'infB' 'rpsM' 'leuB' 'nan' 'nan'
  'ispF' 'nan' 'secF' 'nan' 'ftsE' 'nifH' 'nan' 'ispD' 'pyk' 'rpmI' 'nan'
@@ -19,7 +19,7 @@ unreg_genes,[nan],[],[nan nan nan],[nan nan nan],[nan nan nan nan nan nan nan na
  'nan' 'sucD' 'gatB' 'nan']","['secE' 'nan' 'pnp' 'nan' 'rpsF' 'gatA' 'nan' 'guaA' 'nan' 'nan' 'nan'
  'nan' 'rplI' 'nan' 'nan' 'nan' 'leuD' 'nan' 'nan' 'nan' 'nan' 'rpsK'
  'nan' 'nan' 'nan' 'nan' 'nusG' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'fbaA'
- 'nan' 'secY' 'nan' 'nan' 'nan' 'nan' 'atpG' 'rpmJ' 'rplN' 'nan' 'ftsB']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'rplB' 'rplL' 'nan' 'nan'
+ 'pmoA' 'secY' 'nan' 'nan' 'nan' 'nan' 'atpG' 'rpmJ' 'rplN' 'nan' 'ftsB']","['nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'nan' 'rplB' 'rplL' 'nan' 'nan'
  'rpsD' 'nan' 'nan' 'rpsG' 'rpsS' 'rplC' 'nan' 'rpsR' 'nan' 'rplF' 'fusA'
  'rpsC']","['rpoA' 'rpoB' 'tkt' 'rpsN' 'nan' 'rpoC' 'rplO' 'nan' 'nan' 'rpmC' 'rpsJ'
  'rplA' 'rplP' 'tuf' 'nan' 'rplK' 'nan']",['rpsQ' 'rpmD' 'rplD' 'rplE' 'nan' 'rplX' 'rpsH'],[],[],[]

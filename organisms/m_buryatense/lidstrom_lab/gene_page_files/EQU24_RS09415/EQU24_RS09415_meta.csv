@@ -3,6 +3,6 @@ gene_id,EQU24_RS09415
 name,<i>Not Available</i>
 operon,1639
 gene_product,RNA pyrophosphohydrolase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09415"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS18780
 name,leuC
 operon,457
 gene_product,3-isopropylmalate dehydratase large subunit
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18780"">BioCyc</a>"

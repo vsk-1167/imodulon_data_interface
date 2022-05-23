@@ -3,6 +3,6 @@ gene_id,EQU24_RS18260
 name,uvrC
 operon,523
 gene_product,excinuclease ABC subunit UvrC
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18260"">BioCyc</a>"

@@ -1,6 +1,6 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS14755,0.4003357843657192,,hemerythrin domain-containing protein,S,966,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14755
-EQU24_RS14930,0.3892360249057436,,hypothetical protein,-,947,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930
-EQU24_RS01215,0.21893564606317,,IS66 family transposase,L,2664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215
-EQU24_RS20905,0.1829780134757335,,ISKra4 family transposase,L,166,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20905
-EQU24_RS20950,0.1672600521299768,,ISKra4 family transposase,L,161,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20950
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS14755,0.4003357843657192,,hemerythrin domain-containing protein,Function unknown,966,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14755
+EQU24_RS14930,0.3892360249057436,,hypothetical protein,No COG annotation,947,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930
+EQU24_RS01215,0.21893564606317,,IS66 family transposase,"Replication, recombination and repair",2664,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215
+EQU24_RS20905,0.1829780134757335,,ISKra4 family transposase,"Replication, recombination and repair",166,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20905
+EQU24_RS20950,0.1672600521299768,,ISKra4 family transposase,"Replication, recombination and repair",161,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20950

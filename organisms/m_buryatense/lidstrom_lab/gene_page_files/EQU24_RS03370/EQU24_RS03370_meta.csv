@@ -3,6 +3,6 @@ gene_id,EQU24_RS03370
 name,yacG
 operon,2386
 gene_product,DNA gyrase inhibitor YacG
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03370"">BioCyc</a>"

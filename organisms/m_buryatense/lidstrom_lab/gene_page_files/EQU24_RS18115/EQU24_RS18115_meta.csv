@@ -1,8 +1,8 @@
 ,0
 gene_id,EQU24_RS18115
-name,<i>Not Available</i>
+name,mxaP
 operon,545
 gene_product,hypothetical protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18115"">BioCyc</a>"

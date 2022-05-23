@@ -3,6 +3,6 @@ gene_id,EQU24_RS12295
 name,<i>Not Available</i>
 operon,1285
 gene_product,1-aminocyclopropane-1-carboxylate deaminase/D-cysteine desulfhydrase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12295"">BioCyc</a>"

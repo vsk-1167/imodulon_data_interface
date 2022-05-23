@@ -3,6 +3,6 @@ gene_id,EQU24_RS01710
 name,fabG
 operon,2597
 gene_product,3-oxoacyl-ACP reductase FabG
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01710"">BioCyc</a>"

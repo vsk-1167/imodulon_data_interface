@@ -3,6 +3,6 @@ gene_id,EQU24_RS07025
 name,ppx
 operon,1939
 gene_product,exopolyphosphatase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07025"">BioCyc</a>"

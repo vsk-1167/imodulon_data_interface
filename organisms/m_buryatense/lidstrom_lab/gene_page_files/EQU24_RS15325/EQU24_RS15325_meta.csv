@@ -3,6 +3,6 @@ gene_id,EQU24_RS15325
 name,<i>Not Available</i>
 operon,893
 gene_product,exodeoxyribonuclease VII small subunit
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15325"">BioCyc</a>"

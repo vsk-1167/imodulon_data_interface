@@ -3,6 +3,6 @@ gene_id,EQU24_RS09610
 name,<i>Not Available</i>
 operon,1609
 gene_product,DUF2442 domain-containing protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09610"">BioCyc</a>"

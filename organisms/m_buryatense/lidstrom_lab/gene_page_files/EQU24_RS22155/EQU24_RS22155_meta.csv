@@ -3,6 +3,6 @@ gene_id,EQU24_RS22155
 name,rpmH
 operon,1
 gene_product,50S ribosomal protein L34
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS22155"">BioCyc</a>"

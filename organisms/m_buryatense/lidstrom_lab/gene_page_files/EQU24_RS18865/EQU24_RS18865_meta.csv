@@ -3,6 +3,6 @@ gene_id,EQU24_RS18865
 name,hslV
 operon,444
 gene_product,ATP-dependent protease subunit HslV
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18865"">BioCyc</a>"

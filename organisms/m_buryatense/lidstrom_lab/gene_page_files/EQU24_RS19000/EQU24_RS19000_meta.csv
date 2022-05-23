@@ -3,6 +3,6 @@ gene_id,EQU24_RS19000
 name,<i>Not Available</i>
 operon,429
 gene_product,alkaline phosphatase
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19000"">BioCyc</a>"

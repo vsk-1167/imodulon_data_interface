@@ -3,6 +3,6 @@ gene_id,EQU24_RS17065
 name,nifH
 operon,667
 gene_product,nitrogenase iron protein
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17065"">BioCyc</a>"

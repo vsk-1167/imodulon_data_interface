@@ -3,6 +3,6 @@ gene_id,EQU24_RS05840
 name,<i>Not Available</i>
 operon,2095
 gene_product,threonylcarbamoyl-AMP synthase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05840"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS10130
 name,<i>Not Available</i>
 operon,1545
 gene_product,aminotransferase class V-fold PLP-dependent enzyme
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10130"">BioCyc</a>"

@@ -1,11 +1,27 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS12090,0.2544979794071916,,hypothetical protein,-,1313,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12090
-EQU24_RS02055,0.2529177471997098,,TonB-dependent receptor,P,2549,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02055
-EQU24_RS15155,0.235702215746573,,DHA2 family efflux MFS transporter permease subunit,P,915,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15155
-EQU24_RS15150,0.2350881658722734,,hypothetical protein,-,916,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15150
-EQU24_RS15160,0.1752116111897413,,efflux transporter outer membrane subunit,M,915,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15160
-EQU24_RS15165,0.1172094592528729,,HlyD family efflux transporter periplasmic adaptor subunit,V,915,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15165
-EQU24_RS00645,0.1151825868531807,,,-,448,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00645
-EQU24_RS01445,0.1102992292804121,,ISAs1 family transposase,L,2631,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01445
-EQU24_RS05785,0.1066373829559865,,ISAs1 family transposase,L,2104,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05785
-EQU24_RS08845,-0.1315180864250006,,type II toxin-antitoxin system HicB family antitoxin,S,1710,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08845
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS12090,0.2544979794071916,,hypothetical protein,No COG annotation,1313,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12090
+EQU24_RS02055,0.2529177471997098,,TonB-dependent receptor,Inorganic ion transport and metabolism,2549,"cell outer membrane
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02055
+EQU24_RS15155,0.235702215746573,,DHA2 family efflux MFS transporter permease subunit,Inorganic ion transport and metabolism,915,"plasma membrane
+integral component of membrane
+transmembrane transporter activity
+transmembrane transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15155
+EQU24_RS15150,0.2350881658722734,,hypothetical protein,No COG annotation,916,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15150
+EQU24_RS15160,0.1752116111897413,,efflux transporter outer membrane subunit,Cell wall/membrane/envelope biogenesis,915,"amide transport
+nitrogen compound transport
+sulfathiazole transmembrane transporter activity
+sulfathiazole transmembrane transport
+organic substance transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15160
+EQU24_RS15165,0.1172094592528729,,HlyD family efflux transporter periplasmic adaptor subunit,Defense mechanisms,915,"intrinsic component of periplasmic side of plasma membrane
+intrinsic component of external side of plasma membrane
+cellular response to DNA damage stimulus
+periplasmic side of plasma membrane
+cellular response to stress",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15165
+EQU24_RS00645,0.1151825868531807,,,No COG annotation,448,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00645
+EQU24_RS01445,0.1102992292804121,,ISAs1 family transposase,"Replication, recombination and repair",2631,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01445
+EQU24_RS05785,0.1066373829559865,,ISAs1 family transposase,"Replication, recombination and repair",2104,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05785
+EQU24_RS08845,-0.1315180864250006,,type II toxin-antitoxin system HicB family antitoxin,Function unknown,1710,"regulation of transcription, DNA-templated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08845

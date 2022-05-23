@@ -3,6 +3,6 @@ gene_id,EQU24_RS18940
 name,hspQ
 operon,436
 gene_product,heat shock protein HspQ
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18940"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS02710
 name,<i>Not Available</i>
 operon,2458
 gene_product,N-acetyl-gamma-glutamyl-phosphate reductase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02710"">BioCyc</a>"

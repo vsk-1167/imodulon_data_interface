@@ -3,6 +3,6 @@ gene_id,EQU24_RS21050
 name,<i>Not Available</i>
 operon,143
 gene_product,energy transducer TonB
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21050"">BioCyc</a>"

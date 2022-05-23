@@ -3,6 +3,6 @@ gene_id,EQU24_RS16120
 name,lpxD
 operon,788
 gene_product,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16120"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS18175
 name,<i>Not Available</i>
 operon,536
 gene_product,FkbM family methyltransferase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18175"">BioCyc</a>"

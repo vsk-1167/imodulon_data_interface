@@ -3,6 +3,6 @@ gene_id,EQU24_RS17105
 name,cls
 operon,663
 gene_product,cardiolipin synthase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17105"">BioCyc</a>"

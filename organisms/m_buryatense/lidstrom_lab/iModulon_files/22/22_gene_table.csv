@@ -1,13 +1,30 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS14960,0.2857223173667364,,transposase,L,942,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14960
-EQU24_RS17670,0.2616308464919396,,ISAzo13 family transposase,L,594,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17670
-EQU24_RS18395,0.260085231822008,,ISNCY family transposase,L,505,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18395
-EQU24_RS06200,0.2496995036552411,,transposase,L,2051,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06200
-EQU24_RS20230,0.2139874671818485,,ISAzo13 family transposase,L,262,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20230
-EQU24_RS18390,0.1990736452605851,,transposase,L,506,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18390
-EQU24_RS06885,0.1762204474649069,,Rpn family recombination-promoting nuclease/putative transposase,S,1956,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06885
-EQU24_RS05675,0.1707265309423618,,transposase,L,2119,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05675
-EQU24_RS16040,0.1518019816808897,,ISNCY family transposase,L,798,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16040
-EQU24_RS04160,0.132124482373741,,,-,2308,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04160
-EQU24_RS09050,0.1262465206157312,,IS66 family transposase,L,1685,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09050
-EQU24_RS12805,0.1230524963952659,,IS4 family transposase,L,1225,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS14960,0.2857223173667364,,transposase,"Replication, recombination and repair",942,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14960
+EQU24_RS17670,0.2616308464919396,,ISAzo13 family transposase,"Replication, recombination and repair",594,DNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17670
+EQU24_RS18395,0.260085231822008,,ISNCY family transposase,"Replication, recombination and repair",505,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18395
+EQU24_RS06200,0.2496995036552411,,transposase,"Replication, recombination and repair",2051,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06200
+EQU24_RS20230,0.2139874671818485,,ISAzo13 family transposase,"Replication, recombination and repair",262,DNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20230
+EQU24_RS18390,0.1990736452605851,,transposase,"Replication, recombination and repair",506,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18390
+EQU24_RS06885,0.1762204474649069,,Rpn family recombination-promoting nuclease/putative transposase,Function unknown,1956,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06885
+EQU24_RS05675,0.1707265309423618,,transposase,"Replication, recombination and repair",2119,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05675
+EQU24_RS16040,0.1518019816808897,,ISNCY family transposase,"Replication, recombination and repair",798,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16040
+EQU24_RS04160,0.132124482373741,,,No COG annotation,2308,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04160
+EQU24_RS09050,0.1262465206157312,,IS66 family transposase,"Replication, recombination and repair",1685,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09050
+EQU24_RS12805,0.1230524963952659,,IS4 family transposase,"Replication, recombination and repair",1225,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805

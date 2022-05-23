@@ -3,6 +3,6 @@ gene_id,EQU24_RS13755
 name,<i>Not Available</i>
 operon,1107
 gene_product,glutamate-5-semialdehyde dehydrogenase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13755"">BioCyc</a>"

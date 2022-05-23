@@ -3,6 +3,6 @@ gene_id,EQU24_RS19190
 name,moaA
 operon,400
 gene_product,"GTP 3',8-cyclase MoaA"
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19190"">BioCyc</a>"

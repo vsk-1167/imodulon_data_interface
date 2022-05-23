@@ -3,6 +3,6 @@ gene_id,EQU24_RS19180
 name,<i>Not Available</i>
 operon,402
 gene_product,sodium ion-translocating decarboxylase subunit beta
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19180"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS17500
 name,<i>Not Available</i>
 operon,614
 gene_product,catalase
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17500"">BioCyc</a>"

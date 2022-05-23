@@ -3,6 +3,6 @@ gene_id,EQU24_RS03480
 name,glk
 operon,2371
 gene_product,glucokinase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03480"">BioCyc</a>"

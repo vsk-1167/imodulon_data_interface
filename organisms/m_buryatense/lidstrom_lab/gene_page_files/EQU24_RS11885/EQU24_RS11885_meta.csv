@@ -3,6 +3,6 @@ gene_id,EQU24_RS11885
 name,<i>Not Available</i>
 operon,1334
 gene_product,cyclic peptide export ABC transporter
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11885"">BioCyc</a>"

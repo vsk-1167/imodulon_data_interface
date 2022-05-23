@@ -3,6 +3,6 @@ gene_id,EQU24_RS16620
 name,ybgC
 operon,721
 gene_product,tol-pal system-associated acyl-CoA thioesterase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16620"">BioCyc</a>"

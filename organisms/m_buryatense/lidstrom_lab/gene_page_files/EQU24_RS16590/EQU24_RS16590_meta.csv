@@ -3,6 +3,6 @@ gene_id,EQU24_RS16590
 name,ybgF
 operon,723
 gene_product,tol-pal system protein YbgF
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16590"">BioCyc</a>"

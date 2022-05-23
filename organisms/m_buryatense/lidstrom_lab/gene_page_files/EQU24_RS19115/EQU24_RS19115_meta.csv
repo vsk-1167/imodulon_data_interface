@@ -3,6 +3,6 @@ gene_id,EQU24_RS19115
 name,cgtA
 operon,412
 gene_product,Obg family GTPase CgtA
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19115"">BioCyc</a>"

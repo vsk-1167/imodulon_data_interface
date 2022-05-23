@@ -3,6 +3,6 @@ gene_id,EQU24_RS04505
 name,aroB
 operon,2268
 gene_product,3-dehydroquinate synthase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04505"">BioCyc</a>"

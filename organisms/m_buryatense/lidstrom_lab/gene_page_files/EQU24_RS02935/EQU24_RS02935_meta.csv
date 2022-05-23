@@ -3,6 +3,6 @@ gene_id,EQU24_RS02935
 name,pip
 operon,2433
 gene_product,prolyl aminopeptidase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02935"">BioCyc</a>"

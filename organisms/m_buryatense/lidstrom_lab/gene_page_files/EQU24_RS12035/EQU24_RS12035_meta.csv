@@ -3,6 +3,6 @@ gene_id,EQU24_RS12035
 name,<i>Not Available</i>
 operon,1318
 gene_product,bifunctional cobalt-precorrin-7 (C(5))-methyltransferase/cobalt-precorrin-6B (C(15))-methyltransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12035"">BioCyc</a>"

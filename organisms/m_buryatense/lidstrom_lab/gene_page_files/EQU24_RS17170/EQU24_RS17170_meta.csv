@@ -3,6 +3,6 @@ gene_id,EQU24_RS17170
 name,nifE
 operon,656
 gene_product,nitrogenase iron-molybdenum cofactor biosynthesis protein NifE
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17170"">BioCyc</a>"

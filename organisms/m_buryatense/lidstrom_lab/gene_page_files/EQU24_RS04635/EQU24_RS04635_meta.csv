@@ -3,6 +3,6 @@ gene_id,EQU24_RS04635
 name,<i>Not Available</i>
 operon,2250
 gene_product,malate--CoA ligase subunit beta
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04635"">BioCyc</a>"

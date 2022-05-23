@@ -3,6 +3,6 @@ gene_id,EQU24_RS10275
 name,prfB
 operon,1527
 gene_product,peptide chain release factor 2
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10275"">BioCyc</a>"

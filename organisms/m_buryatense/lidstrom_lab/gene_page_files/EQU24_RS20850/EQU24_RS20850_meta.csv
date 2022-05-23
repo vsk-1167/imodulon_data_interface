@@ -3,6 +3,6 @@ gene_id,EQU24_RS20850
 name,<i>Not Available</i>
 operon,175
 gene_product,zinc ribbon domain-containing protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20850"">BioCyc</a>"

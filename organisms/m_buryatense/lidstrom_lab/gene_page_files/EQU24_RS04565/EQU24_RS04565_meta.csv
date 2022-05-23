@@ -3,6 +3,6 @@ gene_id,EQU24_RS04565
 name,<i>Not Available</i>
 operon,2260
 gene_product,glycerate kinase
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04565"">BioCyc</a>"

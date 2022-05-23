@@ -16,6 +16,8 @@ function generateGeneTable(csvContent, container, organism) {
     // get the data
     var data = Papa.parse(csvContent, {dynamicTyping: true}).data;
 
+    //console.log(data);
+
     // for tabulator, convert rows into objects
     var tabledata = []
     for (i = 1; i < data.length - 1; i++) { //rows, excluding header
@@ -77,7 +79,8 @@ function generateGeneTable(csvContent, container, organism) {
         },
         {title: "COG", field: "cog", headerContextMenu: headerMenu},
         {title: "Operon", field: "operon", headerContextMenu: headerMenu},
-        {title: "TF", field: "regulator", headerContextMenu: headerMenu},
+        //{title: "TF", field: "regulator", headerContextMenu: headerMenu},
+        {title: "GO terms", field: "specific_gos_n",formatter:'textarea', headerContextMenu: headerMenu}, // Erin addition
         {field: "end", visible: false} // facilitates moving to end
     ]);
 
@@ -103,6 +106,7 @@ function generateGeneTable(csvContent, container, organism) {
         }
 
     });
+    table.redraw(true); // Erin addition: fixed the GO term row heights?? 
     
     // hide unwanted columns
     if (!data[0].includes("operon")) {

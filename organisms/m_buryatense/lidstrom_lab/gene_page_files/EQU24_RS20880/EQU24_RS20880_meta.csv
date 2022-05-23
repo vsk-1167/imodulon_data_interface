@@ -3,6 +3,6 @@ gene_id,EQU24_RS20880
 name,<i>Not Available</i>
 operon,169
 gene_product,type II toxin-antitoxin system RelE/ParE family toxin
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20880"">BioCyc</a>"

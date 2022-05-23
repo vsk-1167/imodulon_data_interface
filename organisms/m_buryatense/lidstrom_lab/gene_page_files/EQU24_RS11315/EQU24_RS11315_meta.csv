@@ -3,6 +3,6 @@ gene_id,EQU24_RS11315
 name,<i>Not Available</i>
 operon,1411
 gene_product,bifunctional biotin--[acetyl-CoA-carboxylase] synthetase/biotin operon repressor
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11315"">BioCyc</a>"

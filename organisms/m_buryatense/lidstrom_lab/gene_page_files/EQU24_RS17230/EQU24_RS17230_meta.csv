@@ -3,6 +3,6 @@ gene_id,EQU24_RS17230
 name,nifB
 operon,648
 gene_product,nitrogenase cofactor biosynthesis protein NifB
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17230"">BioCyc</a>"

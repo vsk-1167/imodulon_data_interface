@@ -3,6 +3,6 @@ gene_id,EQU24_RS15660
 name,clpB
 operon,840
 gene_product,ATP-dependent chaperone ClpB
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15660"">BioCyc</a>"

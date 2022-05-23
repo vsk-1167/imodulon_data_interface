@@ -3,6 +3,6 @@ gene_id,EQU24_RS07900
 name,<i>Not Available</i>
 operon,1836
 gene_product,Gfo/Idh/MocA family oxidoreductase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07900"">BioCyc</a>"

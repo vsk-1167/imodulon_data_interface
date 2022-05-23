@@ -3,6 +3,6 @@ gene_id,EQU24_RS16870
 name,<i>Not Available</i>
 operon,695
 gene_product,flagellar protein FlgN
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16870"">BioCyc</a>"

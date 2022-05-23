@@ -3,6 +3,6 @@ gene_id,EQU24_RS04250
 name,<i>Not Available</i>
 operon,2298
 gene_product,AmpG family muropeptide MFS transporter
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04250"">BioCyc</a>"

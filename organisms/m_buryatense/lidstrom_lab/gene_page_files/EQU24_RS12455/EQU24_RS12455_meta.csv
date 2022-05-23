@@ -3,6 +3,6 @@ gene_id,EQU24_RS12455
 name,queA
 operon,1265
 gene_product,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12455"">BioCyc</a>"

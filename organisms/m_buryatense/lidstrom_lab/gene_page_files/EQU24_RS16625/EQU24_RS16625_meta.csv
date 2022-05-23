@@ -3,6 +3,6 @@ gene_id,EQU24_RS16625
 name,ruvB
 operon,720
 gene_product,Holliday junction branch migration DNA helicase RuvB
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16625"">BioCyc</a>"

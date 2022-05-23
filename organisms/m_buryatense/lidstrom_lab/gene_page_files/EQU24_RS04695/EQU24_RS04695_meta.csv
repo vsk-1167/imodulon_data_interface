@@ -3,6 +3,6 @@ gene_id,EQU24_RS04695
 name,<i>Not Available</i>
 operon,2240
 gene_product,NAD-dependent malic enzyme
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04695"">BioCyc</a>"

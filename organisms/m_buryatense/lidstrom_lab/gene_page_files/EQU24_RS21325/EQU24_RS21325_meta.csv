@@ -3,6 +3,6 @@ gene_id,EQU24_RS21325
 name,<i>Not Available</i>
 operon,107
 gene_product,23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21325"">BioCyc</a>"

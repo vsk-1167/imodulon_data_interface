@@ -3,6 +3,6 @@ gene_id,EQU24_RS20370
 name,<i>Not Available</i>
 operon,244
 gene_product,arylesterase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20370"">BioCyc</a>"

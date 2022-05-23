@@ -3,6 +3,6 @@ gene_id,EQU24_RS13300
 name,ispF
 operon,1161
 gene_product,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13300"">BioCyc</a>"

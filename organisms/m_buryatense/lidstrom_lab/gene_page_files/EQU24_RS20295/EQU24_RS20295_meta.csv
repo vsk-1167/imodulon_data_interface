@@ -3,6 +3,6 @@ gene_id,EQU24_RS20295
 name,cas7e
 operon,253
 gene_product,type I-E CRISPR-associated protein Cas7/Cse4/CasC
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20295"">BioCyc</a>"

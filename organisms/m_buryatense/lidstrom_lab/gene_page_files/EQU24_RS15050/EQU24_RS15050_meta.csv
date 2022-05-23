@@ -3,6 +3,6 @@ gene_id,EQU24_RS15050
 name,<i>Not Available</i>
 operon,929
 gene_product,methyltransferase domain-containing protein
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15050"">BioCyc</a>"

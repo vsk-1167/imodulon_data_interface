@@ -3,6 +3,6 @@ gene_id,EQU24_RS15205
 name,<i>Not Available</i>
 operon,910
 gene_product,alpha/beta fold hydrolase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15205"">BioCyc</a>"

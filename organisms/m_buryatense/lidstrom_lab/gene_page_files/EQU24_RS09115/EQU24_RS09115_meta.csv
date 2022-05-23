@@ -3,6 +3,6 @@ gene_id,EQU24_RS09115
 name,<i>Not Available</i>
 operon,1677
 gene_product,triphosphoribosyl-dephospho-CoA synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09115"">BioCyc</a>"

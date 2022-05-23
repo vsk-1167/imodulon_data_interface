@@ -3,6 +3,6 @@ gene_id,EQU24_RS14395
 name,gyrA
 operon,1023
 gene_product,DNA gyrase subunit A
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14395"">BioCyc</a>"

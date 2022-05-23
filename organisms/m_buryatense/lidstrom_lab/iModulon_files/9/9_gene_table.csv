@@ -1,17 +1,67 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS08650,0.2647434226647842,,co-chaperone GroES,O,1737,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08650
-EQU24_RS08655,0.2612959472359989,groL,chaperonin GroEL,O,1736,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08655
-EQU24_RS17880,0.1911296385248864,htpG,molecular chaperone HtpG,O,573,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17880
-EQU24_RS08660,0.183395594671003,,transcriptional regulator,K,1735,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08660
-EQU24_RS17825,0.1765443685187651,,co-chaperone GroES,O,582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17825
-EQU24_RS17820,0.1647961100879162,groL,chaperonin GroEL,O,582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17820
-EQU24_RS11545,0.1565583727991901,dnaK,molecular chaperone DnaK,O,1376,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11545
-EQU24_RS11540,0.1469584675182587,dnaJ,molecular chaperone DnaJ,O,1377,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11540
-EQU24_RS08645,0.1443263927429521,moeB,molybdopterin-synthase adenylyltransferase MoeB,H,1738,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08645
-EQU24_RS11550,0.1438483147597073,grpE,nucleotide exchange factor GrpE,O,1375,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11550
-EQU24_RS11535,0.1401129099127963,dapB,4-hydroxy-tetrahydrodipicolinate reductase,E,1377,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11535
-EQU24_RS15660,0.128757178872687,clpB,ATP-dependent chaperone ClpB,O,840,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15660
-EQU24_RS12235,0.113236700063991,,Hsp20/alpha crystallin family protein,O,1292,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12235
-EQU24_RS11555,0.1132237840616141,hrcA,heat-inducible transcriptional repressor HrcA,K,1374,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11555
-EQU24_RS06210,0.1028127254886004,,hypothetical protein,L,2049,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06210
-EQU24_RS01215,-0.0995856083116176,,IS66 family transposase,L,2664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS08650,0.2647434226647842,groS,co-chaperone GroES,"Post-translational modification, protein turnover, and chaperones",1737,"ATP binding
+metal ion binding
+GroEL-GroES complex
+'de novo' post-translational protein folding
+chaperone cofactor-dependent protein refolding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08650
+EQU24_RS08655,0.2612959472359989,groL,chaperonin GroEL,"Post-translational modification, protein turnover, and chaperones",1736,"ATP hydrolysis activity
+positive regulation of NIK/NF-kappaB signaling
+regulation of NIK/NF-kappaB signaling
+positive regulation of intracellular signal transduction
+host cell endosome",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08655
+EQU24_RS17880,0.1911296385248864,htpG,molecular chaperone HtpG,"Post-translational modification, protein turnover, and chaperones",573,"ATP hydrolysis activity
+ATP hydrolysis activity
+cellular response to superoxide
+nucleoside-triphosphatase activity
+cellular response to reactive oxygen species",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17880
+EQU24_RS08660,0.183395594671003,,transcriptional regulator,Transcription,1735,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08660
+EQU24_RS17825,0.1765443685187651,groS,co-chaperone GroES,"Post-translational modification, protein turnover, and chaperones",582,"ATP binding
+metal ion binding
+GroEL-GroES complex
+'de novo' post-translational protein folding
+chaperone cofactor-dependent protein refolding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17825
+EQU24_RS17820,0.1647961100879162,groL,chaperonin GroEL,"Post-translational modification, protein turnover, and chaperones",582,"positive regulation of NIK/NF-kappaB signaling
+ATP hydrolysis activity
+host intracellular membrane-bounded organelle
+positive regulation of intracellular signal transduction
+host cell endosome",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17820
+EQU24_RS11545,0.1565583727991901,dnaK,molecular chaperone DnaK,"Post-translational modification, protein turnover, and chaperones",1376,"regulation of nucleic acid-templated transcription
+ATP hydrolysis activity
+nucleoside-triphosphatase activity
+zinc ion binding
+regulation of RNA biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11545
+EQU24_RS11540,0.1469584675182587,dnaJ,molecular chaperone DnaJ,"Post-translational modification, protein turnover, and chaperones",1377,"regulation of nucleic acid-templated transcription
+zinc ion binding
+regulation of RNA biosynthetic process
+regulation of cellular biosynthetic process
+transition metal ion binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11540
+EQU24_RS08645,0.1443263927429521,moeB,molybdopterin-synthase adenylyltransferase MoeB,Coenzyme transport and metabolism,1738,"molybdopterin-synthase adenylyltransferase activity
+Mo-molybdopterin cofactor biosynthetic process
+adenylyltransferase activity
+organonitrogen compound biosynthetic process
+phosphate-containing compound metabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08645
+EQU24_RS11550,0.1438483147597073,grpE,nucleotide exchange factor GrpE,"Post-translational modification, protein turnover, and chaperones",1375,"protein-containing complex assembly
+adenyl nucleotide binding
+purine nucleotide binding
+mannan binding
+cellular response to nutrient levels",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11550
+EQU24_RS11535,0.1401129099127963,dapB,4-hydroxy-tetrahydrodipicolinate reductase,Amino acid transport and metabolism,1377,"lysine biosynthetic process via diaminopimelate
+lysine biosynthetic process
+diaminopimelate metabolic process
+diaminopimelate biosynthetic process
+aspartate family amino acid biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11535
+EQU24_RS15660,0.128757178872687,clpB,ATP-dependent chaperone ClpB,"Post-translational modification, protein turnover, and chaperones",840,"ATP hydrolysis activity
+nucleoside-triphosphatase activity
+adenyl nucleotide binding
+adenyl ribonucleotide binding
+pyrophosphatase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15660
+EQU24_RS12235,0.113236700063991,,Hsp20/alpha crystallin family protein,"Post-translational modification, protein turnover, and chaperones",1292,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12235
+EQU24_RS11555,0.1132237840616141,hrcA,heat-inducible transcriptional repressor HrcA,Transcription,1374,"negative regulation of nucleic acid-templated transcription
+regulation of nucleic acid-templated transcription
+negative regulation of cellular macromolecule biosynthetic process
+negative regulation of transcription, DNA-templated
+negative regulation of RNA biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11555
+EQU24_RS06210,0.1028127254886004,,hypothetical protein,"Replication, recombination and repair",2049,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06210
+EQU24_RS01215,-0.0995856083116176,,IS66 family transposase,"Replication, recombination and repair",2664,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215

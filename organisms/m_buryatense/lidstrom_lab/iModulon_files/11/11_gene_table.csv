@@ -1,22 +1,71 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS14125,0.3724134978937247,ctaD,cytochrome c oxidase subunit I,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125
-EQU24_RS14130,0.2507352120059653,coxB,cytochrome c oxidase subunit II,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14130
-EQU24_RS08775,0.1326132163184896,,copper resistance protein,P,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08775
-EQU24_RS08780,0.1320060569767805,,copper resistance protein CopC,S,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08780
-EQU24_RS18390,0.1317543874745123,,transposase,L,506,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18390
-EQU24_RS15355,0.1278925117383518,hpnH,adenosyl-hopene transferase HpnH,S,889,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15355
-EQU24_RS15365,0.1270185933051905,shc,squalene--hopene cyclase,I,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15365
-EQU24_RS08785,0.1250501747341394,,MMPL family transporter,S,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08785
-EQU24_RS15360,0.1187731291851037,,phytoene/squalene synthase family protein,I,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15360
-EQU24_RS10825,0.1158896212326601,,multidrug efflux RND transporter permease subunit,V,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10825
-EQU24_RS10820,0.1152686829703242,,efflux RND transporter periplasmic adaptor subunit,M,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10820
-EQU24_RS15350,0.1143505687745411,,hopanoid biosynthesis associated membrane protein HpnM,Q,890,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15350
-EQU24_RS08770,0.1109094762596207,,1-deoxy-D-xylulose-5-phosphate synthase,H,1721,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08770
-EQU24_RS15370,0.1080005846058232,,phosphorylase,F,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15370
-EQU24_RS10830,0.0899862891442281,,efflux transporter outer membrane subunit,M,1466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10830
-EQU24_RS15345,0.088667355912226,,VacJ family lipoprotein,M,890,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15345
-EQU24_RS17690,0.0825248335304527,,flagellin,N,591,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17690
-EQU24_RS17660,0.0789509140115374,fliS,flagellar export chaperone FliS,N,596,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17660
-EQU24_RS10985,-0.0833119058665563,,DUF4255 domain-containing protein,S,1457,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10985
-EQU24_RS01635,-0.0908917495488943,,EAL domain-containing protein,T,2604,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01635
-EQU24_RS01670,-0.1275045581664216,,DUF2292 domain-containing protein,-,2600,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01670
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS14125,0.3724134978937247,ctaD,cytochrome c oxidase subunit I,Energy production and conversion,1055,"electron transport coupled proton transport
+energy coupled proton transmembrane transport, against electrochemical gradient
+proton transmembrane transport
+aerobic respiration
+cation transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125
+EQU24_RS14130,0.2507352120059653,coxB,cytochrome c oxidase subunit II,Energy production and conversion,1055,"purine ribonucleoside monophosphate metabolic process
+purine ribonucleoside triphosphate metabolic process
+purine nucleoside triphosphate metabolic process
+ATP synthesis coupled electron transport
+purine ribonucleotide metabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14130
+EQU24_RS08775,0.1326132163184896,,copper resistance protein,Inorganic ion transport and metabolism,1720,"copper ion transport
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08775
+EQU24_RS08780,0.1320060569767805,,copper resistance protein CopC,Function unknown,1720,"copper ion binding
+response to copper ion
+periplasmic space",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08780
+EQU24_RS18390,0.1317543874745123,,transposase,"Replication, recombination and repair",506,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18390
+EQU24_RS15355,0.1278925117383518,hpnH,adenosyl-hopene transferase HpnH,Function unknown,889,"iron-sulfur cluster binding
+transferase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15355
+EQU24_RS15365,0.1270185933051905,shc,squalene--hopene cyclase,Lipid transport and metabolism,888,"hopanoid biosynthetic process
+lipid droplet
+beta-amyrin synthase activity
+lanosterol synthase activity
+squalene-hopene cyclase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15365
+EQU24_RS08785,0.1250501747341394,,MMPL family transporter,Function unknown,1720,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08785
+EQU24_RS15360,0.1187731291851037,,phytoene/squalene synthase family protein,Lipid transport and metabolism,888,"farnesyl-diphosphate farnesyltransferase activity
+squalene synthase activity
+biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15360
+EQU24_RS10825,0.1158896212326601,,multidrug efflux RND transporter permease subunit,Defense mechanisms,1466,"xenobiotic transport
+efflux transmembrane transporter activity
+plasma membrane
+integral component of membrane
+transmembrane transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10825
+EQU24_RS10820,0.1152686829703242,,efflux RND transporter periplasmic adaptor subunit,Cell wall/membrane/envelope biogenesis,1466,"transmembrane transporter activity
+transmembrane transport
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10820
+EQU24_RS15350,0.1143505687745411,,hopanoid biosynthesis associated membrane protein HpnM,"Secondary metabolites biosynthesis, transport, and catabolism",890,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15350
+EQU24_RS08770,0.1109094762596207,,1-deoxy-D-xylulose-5-phosphate synthase,Coenzyme transport and metabolism,1721,"pyruvate metabolic process
+ubiquinone biosynthetic process
+thiamine biosynthetic process
+manganese ion binding
+vitamin B6 biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08770
+EQU24_RS15370,0.1080005846058232,,phosphorylase,Nucleotide transport and metabolism,888,"nucleoside metabolic process
+catalytic activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15370
+EQU24_RS10830,0.0899862891442281,,efflux transporter outer membrane subunit,Cell wall/membrane/envelope biogenesis,1466,"cell outer membrane
+efflux transmembrane transporter activity
+integral component of membrane
+transmembrane transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10830
+EQU24_RS15345,0.088667355912226,,VacJ family lipoprotein,Cell wall/membrane/envelope biogenesis,890,"phospholipid transport
+intermembrane phospholipid transfer
+intermembrane lipid transfer
+organophosphate ester transport
+anion transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15345
+EQU24_RS17690,0.0825248335304527,,flagellin,Cell motility,591,"bacterial-type flagellum-dependent cell motility
+bacterial-type flagellum filament
+extracellular region
+structural molecule activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17690
+EQU24_RS17660,0.0789509140115374,fliS,flagellar export chaperone FliS,Cell motility,596,"bacterial-type flagellum assembly
+bacterial-type flagellum-dependent cell motility
+archaeal or bacterial-type flagellum-dependent cell motility
+cilium or flagellum-dependent cell motility
+localization of cell",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17660
+EQU24_RS10985,-0.0833119058665563,,DUF4255 domain-containing protein,Function unknown,1457,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10985
+EQU24_RS01635,-0.0908917495488943,,EAL domain-containing protein,Signal transduction mechanisms,2604,"cellular response to DNA damage stimulus
+cellular response to stress
+response to stress
+cellular response to stimulus
+cellular process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01635
+EQU24_RS01670,-0.1275045581664216,,DUF2292 domain-containing protein,No COG annotation,2600,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01670

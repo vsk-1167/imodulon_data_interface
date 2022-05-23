@@ -3,6 +3,6 @@ gene_id,EQU24_RS14345
 name,<i>Not Available</i>
 operon,1027
 gene_product,ferrous iron transport protein A
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14345"">BioCyc</a>"

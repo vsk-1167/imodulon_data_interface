@@ -3,6 +3,6 @@ gene_id,EQU24_RS15030
 name,dnaQ
 operon,930
 gene_product,DNA polymerase III subunit epsilon
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15030"">BioCyc</a>"

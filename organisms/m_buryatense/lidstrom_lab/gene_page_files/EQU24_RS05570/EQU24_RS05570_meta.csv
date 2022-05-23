@@ -3,6 +3,6 @@ gene_id,EQU24_RS05570
 name,<i>Not Available</i>
 operon,2132
 gene_product,1-deoxy-D-xylulose-5-phosphate reductoisomerase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05570"">BioCyc</a>"

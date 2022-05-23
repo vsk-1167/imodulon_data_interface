@@ -3,6 +3,6 @@ gene_id,EQU24_RS11285
 name,<i>Not Available</i>
 operon,1415
 gene_product,SIMPL domain-containing protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11285"">BioCyc</a>"

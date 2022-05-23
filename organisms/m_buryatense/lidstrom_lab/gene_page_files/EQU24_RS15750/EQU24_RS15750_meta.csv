@@ -3,6 +3,6 @@ gene_id,EQU24_RS15750
 name,<i>Not Available</i>
 operon,827
 gene_product,DUF2796 domain-containing protein
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15750"">BioCyc</a>"

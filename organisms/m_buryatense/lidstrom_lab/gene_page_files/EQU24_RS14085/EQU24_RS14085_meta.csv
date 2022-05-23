@@ -3,6 +3,6 @@ gene_id,EQU24_RS14085
 name,ftsE
 operon,1059
 gene_product,cell division ATP-binding protein FtsE
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14085"">BioCyc</a>"

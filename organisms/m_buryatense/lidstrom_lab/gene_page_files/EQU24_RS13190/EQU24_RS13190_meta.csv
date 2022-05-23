@@ -3,6 +3,6 @@ gene_id,EQU24_RS13190
 name,<i>Not Available</i>
 operon,1174
 gene_product,SPOR domain-containing protein
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13190"">BioCyc</a>"

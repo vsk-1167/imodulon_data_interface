@@ -3,6 +3,6 @@ gene_id,EQU24_RS19275
 name,metH
 operon,388
 gene_product,methionine synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19275"">BioCyc</a>"

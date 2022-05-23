@@ -3,6 +3,6 @@ gene_id,EQU24_RS16215
 name,<i>Not Available</i>
 operon,772
 gene_product,bifunctional diguanylate cyclase/phosphodiesterase
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16215"">BioCyc</a>"

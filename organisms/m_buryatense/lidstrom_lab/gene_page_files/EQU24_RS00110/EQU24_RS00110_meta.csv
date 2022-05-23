@@ -3,6 +3,6 @@ gene_id,EQU24_RS00110
 name,<i>Not Available</i>
 operon,2817
 gene_product,OsmC family protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00110"">BioCyc</a>"

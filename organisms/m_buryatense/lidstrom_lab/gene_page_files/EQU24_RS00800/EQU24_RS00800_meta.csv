@@ -3,6 +3,6 @@ gene_id,EQU24_RS00800
 name,<i>Not Available</i>
 operon,2720
 gene_product,arginine--tRNA ligase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00800"">BioCyc</a>"

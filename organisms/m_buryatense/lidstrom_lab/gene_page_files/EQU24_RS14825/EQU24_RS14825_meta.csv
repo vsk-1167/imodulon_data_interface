@@ -3,6 +3,6 @@ gene_id,EQU24_RS14825
 name,<i>Not Available</i>
 operon,957
 gene_product,lmo0937 family membrane protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14825"">BioCyc</a>"

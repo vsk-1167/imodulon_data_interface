@@ -3,6 +3,6 @@ gene_id,EQU24_RS09840
 name,<i>Not Available</i>
 operon,1581
 gene_product,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09840"">BioCyc</a>"

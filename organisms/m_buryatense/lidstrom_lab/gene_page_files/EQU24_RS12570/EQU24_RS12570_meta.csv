@@ -3,6 +3,6 @@ gene_id,EQU24_RS12570
 name,<i>Not Available</i>
 operon,1253
 gene_product,"L,D-transpeptidase"
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12570"">BioCyc</a>"

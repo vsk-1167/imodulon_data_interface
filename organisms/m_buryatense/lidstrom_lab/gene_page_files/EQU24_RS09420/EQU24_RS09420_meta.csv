@@ -3,6 +3,6 @@ gene_id,EQU24_RS09420
 name,cpdA
 operon,1638
 gene_product,"3',5'-cyclic-AMP phosphodiesterase"
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09420"">BioCyc</a>"

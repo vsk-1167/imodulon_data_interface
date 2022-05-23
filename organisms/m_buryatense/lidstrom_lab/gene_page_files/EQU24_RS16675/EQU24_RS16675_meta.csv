@@ -3,6 +3,6 @@ gene_id,EQU24_RS16675
 name,soxX
 operon,716
 gene_product,sulfur oxidation c-type cytochrome SoxX
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16675"">BioCyc</a>"

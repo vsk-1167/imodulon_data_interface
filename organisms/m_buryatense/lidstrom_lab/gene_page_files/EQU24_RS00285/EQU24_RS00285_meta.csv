@@ -3,6 +3,6 @@ gene_id,EQU24_RS00285
 name,<i>Not Available</i>
 operon,2790
 gene_product,protein kinase
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00285"">BioCyc</a>"

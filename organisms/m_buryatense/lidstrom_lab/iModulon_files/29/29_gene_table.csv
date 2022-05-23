@@ -1,214 +1,566 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS01660,0.1289737723703766,,sulfate ABC transporter substrate-binding protein,P,2601,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01660
-EQU24_RS01650,0.1251245776013358,cysW,sulfate ABC transporter permease subunit CysW,P,2602,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01650
-EQU24_RS01655,0.1122587652483246,cysT,sulfate ABC transporter permease subunit CysT,P,2602,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01655
-EQU24_RS01645,0.101040660500497,,sulfate ABC transporter ATP-binding protein,P,2603,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01645
-EQU24_RS01640,0.0889830229189868,,alpha/beta hydrolase,S,2604,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01640
-EQU24_RS01665,0.0860425778808316,,alginate export family protein,M,2601,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01665
-EQU24_RS09685,0.0805672895875726,,,-,1600,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09685
-EQU24_RS10780,0.0778924175320712,,,-,1474,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10780
-EQU24_RS09235,0.072264222105011,,,-,1662,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09235
-EQU24_RS13975,0.070688761955512,,,-,1076,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13975
-EQU24_RS02110,0.0691212956334092,,,-,2539,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02110
-EQU24_RS12460,0.0627071849807018,,,-,1264,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12460
-EQU24_RS14915,0.0615393207234482,urtD,urea ABC transporter ATP-binding protein UrtD,S,948,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14915
-EQU24_RS20575,0.0599995885473329,,hypothetical protein,G,218,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20575
-EQU24_RS10775,0.0592455001798367,,tyrosine-type recombinase/integrase,L,1475,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10775
-EQU24_RS12805,0.0587669731529684,,IS4 family transposase,L,1225,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805
-EQU24_RS13015,0.05837124814479,,hypothetical protein,-,1201,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13015
-EQU24_RS03580,0.0571612464951159,,SulP family inorganic anion transporter,P,2359,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03580
-EQU24_RS08790,0.056756599122252,,MarR family transcriptional regulator,K,1719,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08790
-EQU24_RS14165,0.0558109861653965,bioB,biotin synthase BioB,H,1052,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14165
-EQU24_RS01635,0.0549473178103622,,EAL domain-containing protein,T,2604,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01635
-EQU24_RS01670,0.0540428375023719,,DUF2292 domain-containing protein,-,2600,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01670
-EQU24_RS08795,0.0530783294878666,,hypothetical protein,-,1718,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08795
-EQU24_RS14750,0.052072320362349,,DUF883 family protein,S,967,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14750
-EQU24_RS08010,0.0510121904447593,,DUF1566 domain-containing protein,S,1823,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08010
-EQU24_RS15360,0.0498214983900173,,phytoene/squalene synthase family protein,I,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15360
-EQU24_RS08695,0.0495617493556052,,OmpA family protein,M,1731,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08695
-EQU24_RS00205,0.0492018107984786,,IS66 family transposase,L,2803,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00205
-EQU24_RS13970,0.0480929518112148,,Nif3-like dinuclear metal center hexameric protein,S,1077,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13970
-EQU24_RS08780,0.0478516507843587,,copper resistance protein CopC,S,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08780
-EQU24_RS14850,0.0455950250982522,,NUDIX hydrolase,F,953,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14850
-EQU24_RS08595,0.0455393831259133,,TetR/AcrR family transcriptional regulator,K,1745,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08595
-EQU24_RS12690,0.0448436063998893,aroQ,type II 3-dehydroquinate dehydratase,E,1237,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12690
-EQU24_RS16575,0.0445141054518568,,,-,724,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16575
-EQU24_RS16885,0.044363987370938,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,K,308,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16885
-EQU24_RS16025,0.0431282010332181,,pilus assembly protein,U,800,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16025
-EQU24_RS14930,0.0430661931379005,,hypothetical protein,-,947,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930
-EQU24_RS14160,0.0429708633747135,bioF,8-amino-7-oxononanoate synthase,H,1052,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14160
-EQU24_RS13135,0.0420302828579691,ubiG,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,H,1179,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13135
-EQU24_RS13485,0.042003159518208,,hypothetical protein,-,1142,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13485
-EQU24_RS10235,0.041836160459099,sufB,Fe-S cluster assembly protein SufB,O,1531,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10235
-EQU24_RS10255,0.0412018075009345,,cysteine desulfurase,E,1528,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10255
-EQU24_RS06320,0.0408229893757205,,,-,2034,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06320
-EQU24_RS02350,0.0407417450843172,,DEAD/DEAH box helicase,J,2510,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02350
-EQU24_RS10535,0.0406559344688749,,STAS domain-containing protein,T,1500,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10535
-EQU24_RS03765,0.0405627149847664,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,F,2338,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03765
-EQU24_RS08800,0.0405184887322689,,SulP family inorganic anion transporter,P,1717,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08800
-EQU24_RS10920,0.0405087830335279,,hypothetical protein,D,1458,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10920
-EQU24_RS07970,0.0404688408789349,,hypothetical protein,-,1829,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07970
-EQU24_RS16055,0.040462203424556,,cold-shock protein,K,795,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16055
-EQU24_RS14910,0.0402663534399287,,ABC transporter ATP-binding protein,E,948,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14910
-EQU24_RS14475,0.0390375423286419,,DUF3309 domain-containing protein,S,1015,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14475
-EQU24_RS08770,0.0388991164770812,,1-deoxy-D-xylulose-5-phosphate synthase,H,1721,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08770
-EQU24_RS18860,0.0384287707610873,,,-,445,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18860
-EQU24_RS14155,0.0383609910615648,bioH,pimeloyl-ACP methyl ester esterase BioH,S,1052,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14155
-EQU24_RS00190,0.0383143030993124,,hypothetical protein,-,2805,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00190
-EQU24_RS15800,0.0382902387239381,,TonB-dependent receptor,P,823,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15800
-EQU24_RS13770,0.038223335794738,,hypothetical protein,-,1106,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13770
-EQU24_RS15365,0.0380565354221712,shc,squalene--hopene cyclase,I,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15365
-EQU24_RS07950,0.0379055271759582,csrA,carbon storage regulator CsrA,J,1830,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07950
-EQU24_RS15355,0.0378573606302197,hpnH,adenosyl-hopene transferase HpnH,S,889,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15355
-EQU24_RS20750,0.0377913479055753,,assimilatory sulfite reductase (NADPH) flavoprotein subunit,C,192,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20750
-EQU24_RS10245,0.0371384302605001,sufD,Fe-S cluster assembly protein SufD,O,1530,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10245
-EQU24_RS19100,0.0369506031722764,,hypothetical protein,-,414,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19100
-EQU24_RS10240,0.0367315003637603,sufC,Fe-S cluster assembly ATPase SufC,O,1530,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10240
-EQU24_RS12435,0.0358335128833416,,YgiT-type zinc finger protein,-,1269,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12435
-EQU24_RS18830,0.0357486911198497,,hypothetical protein,-,449,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18830
-EQU24_RS14140,0.0354922400661173,,bacteriohemerythrin,P,1053,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14140
-EQU24_RS06115,0.0354729329136835,purE,5-(carboxyamino)imidazole ribonucleotide mutase,F,2063,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06115
-EQU24_RS11625,0.0354169016050267,,peptidoglycan DD-metalloendopeptidase family protein,D,1365,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11625
-EQU24_RS16935,0.035158020879261,,hypothetical protein,-,688,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16935
-EQU24_RS16225,0.0351063046408601,,circularly permuted type 2 ATP-grasp protein,S,771,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16225
-EQU24_RS07190,0.0351043934257624,,nitrogen regulation protein NR(II),T,1919,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07190
-EQU24_RS15370,0.0350984412267294,,phosphorylase,F,888,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15370
-EQU24_RS06450,0.0347017687804636,ispG,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,I,2014,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06450
-EQU24_RS13720,0.034428420671806,,metalloregulator ArsR/SmtB family transcription factor,K,1110,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13720
-EQU24_RS12145,0.0343279911431262,,hypothetical protein,-,1306,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12145
-EQU24_RS19110,0.034319181156806,,glutamate 5-kinase,F,412,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19110
-EQU24_RS08785,0.0341754732337352,,MMPL family transporter,S,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08785
-EQU24_RS00195,0.033966920671422,,DUF4338 domain-containing protein,L,2805,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00195
-EQU24_RS05425,0.0339456087013494,,energy transducer TonB,M,2154,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05425
-EQU24_RS20555,0.0336525825892021,,pyridoxamine 5'-phosphate oxidase,P,221,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20555
-EQU24_RS16580,0.0334465223280041,queC,7-cyano-7-deazaguanine synthase QueC,F,723,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16580
-EQU24_RS16285,0.0333693439884909,,hypothetical protein,I,761,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16285
-EQU24_RS11905,0.0331000669965467,,MbtH family NRPS accessory protein,S,1331,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11905
-EQU24_RS08810,0.033089787159306,,hypothetical protein,-,1716,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08810
-EQU24_RS08775,0.0329610627196018,,copper resistance protein,P,1720,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08775
-EQU24_RS00255,0.0328579067876347,,hypothetical protein,-,2795,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00255
-EQU24_RS14015,0.0327958599821652,,"L,D-transpeptidase",M,1068,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14015
-EQU24_RS20755,0.0327660355876475,cysI,assimilatory sulfite reductase (NADPH) hemoprotein subunit,C,192,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20755
-EQU24_RS16200,0.0326748194073128,,EAL domain-containing protein,T,774,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16200
-EQU24_RS17005,0.0325427595133909,,TlpA family protein disulfide reductase,O,678,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17005
-EQU24_RS12450,0.0325421147134847,,lactoylglutathione lyase,E,1266,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12450
-EQU24_RS10960,0.0324138452156292,,hypothetical protein,-,1458,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10960
-EQU24_RS21865,0.0323375672022336,,type II toxin-antitoxin system HicB family antitoxin,S,39,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21865
-EQU24_RS17825,0.0322550816939562,,co-chaperone GroES,O,582,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17825
-EQU24_RS02920,0.032148438526779,,hypothetical protein,M,2435,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02920
-EQU24_RS09240,0.0321244885028755,,DNA polymerase III subunit gamma/tau,H,1661,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09240
-EQU24_RS02610,0.0320360239182552,rsxC,electron transport complex subunit RsxC,C,2473,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02610
-EQU24_RS05885,0.0320218490953705,,methane monooxygenase,H,2088,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05885
-EQU24_RS16880,0.0316790557239526,,hypothetical protein,-,693,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16880
-EQU24_RS01840,0.0316560496206907,,5'-deoxynucleotidase,S,2578,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01840
-EQU24_RS14870,0.0312830999685857,,urease accessory protein UreF,O,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14870
-EQU24_RS15990,0.0312579672837346,,hypothetical protein,-,803,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15990
-EQU24_RS12455,0.0312279872145178,queA,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,F,1265,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12455
-EQU24_RS07955,0.0311927172218944,,,-,1830,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07955
-EQU24_RS08980,0.0309618812386998,,hypothetical protein,-,1693,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08980
-EQU24_RS17500,0.0308539989489618,,catalase,-,614,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17500
-EQU24_RS17015,0.0308181248366378,,hypothetical protein,-,676,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17015
-EQU24_RS15025,0.0305827333439548,,DEAD/DEAH box helicase,J,931,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15025
-EQU24_RS06670,0.0304437257844655,,hypothetical protein,-,1982,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06670
-EQU24_RS14875,0.0302852893551943,ureE,urease accessory protein UreE,O,950,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14875
-EQU24_RS08555,0.0302418429703141,,hypothetical protein,-,1749,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08555
-EQU24_RS18545,0.0301866394262655,,,-,489,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18545
-EQU24_RS16035,0.0301523886741932,,Flp family type IVb pilin,U,799,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16035
-EQU24_RS15485,0.0301072886217281,,peptide chain release factor 3,J,871,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15485
-EQU24_RS15740,0.029939549486276,,hypothetical protein,-,829,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15740
-EQU24_RS18425,0.02976448491177,,transposase,L,502,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18425
-EQU24_RS08840,-0.0298532483278429,,transposase,-,1711,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08840
-EQU24_RS09365,-0.0299057327981622,,diacylglycerol kinase,M,1645,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09365
-EQU24_RS13805,-0.030016279715915,,hypothetical protein,-,1103,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13805
-EQU24_RS16700,-0.0300503745587619,,M48 family metallopeptidase,O,712,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16700
-EQU24_RS14050,-0.0300806957657459,,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,S,1064,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14050
-EQU24_RS03110,-0.0302068728293617,,cytochrome bc complex cytochrome b subunit,C,2409,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03110
-EQU24_RS04110,-0.030208668282433,,type II toxin-antitoxin system HicB family antitoxin,S,2314,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04110
-EQU24_RS02660,-0.0302958631851645,secB,protein-export chaperone SecB,U,2466,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02660
-EQU24_RS17155,-0.0303154721417036,,NifX-associated nitrogen fixation protein,S,658,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17155
-EQU24_RS11070,-0.0303577991629927,,HupE/UreJ family protein,O,1443,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11070
-EQU24_RS21665,-0.0303759373648942,trxA,thioredoxin TrxA,O,61,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21665
-EQU24_RS07625,-0.0305445449669363,,hypothetical protein,-,1868,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07625
-EQU24_RS13515,-0.0305471961802392,,hypothetical protein,S,1137,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13515
-EQU24_RS03870,-0.030564139205175,rpsJ,30S ribosomal protein S10,J,2330,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03870
-EQU24_RS14025,-0.0306325151239061,,type I-F CRISPR-associated endoribonuclease Cas6/Csy4,-,1066,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14025
-EQU24_RS03540,-0.0309517145460335,,6-carboxytetrahydropterin synthase,H,2364,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03540
-EQU24_RS00105,-0.0311304352197065,crp,cAMP-activated global transcriptional regulator CRP,K,2818,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00105
-EQU24_RS11235,-0.0311782497295423,,type VI secretion system tube protein Hcp,S,1421,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11235
-EQU24_RS05295,-0.0311784645410073,,hypothetical protein,-,2167,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05295
-EQU24_RS20935,-0.0312209749285303,,type II toxin-antitoxin system PemK/MazF family toxin,T,163,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20935
-EQU24_RS10865,-0.0312580516894863,cas2,CRISPR-associated endonuclease Cas2,L,1462,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10865
-EQU24_RS06755,-0.0315717544346087,,phospholipid carrier-dependent glycosyltransferase,-,1974,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06755
-EQU24_RS02170,-0.031702575435713,,LapA family protein,S,2530,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02170
-EQU24_RS03965,-0.0317696342296821,rpmD,50S ribosomal protein L30,J,2329,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03965
-EQU24_RS21645,-0.0317830842331955,,hypothetical protein,-,65,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21645
-EQU24_RS21455,-0.0319004742049038,,hypothetical protein,T,90,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21455
-EQU24_RS14800,-0.0321755977957855,,hypothetical protein,S,960,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14800
-EQU24_RS17385,-0.032242864550971,,hypothetical protein,-,630,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17385
-EQU24_RS09730,-0.0325671554161961,,DUF502 domain-containing protein,S,1593,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09730
-EQU24_RS19510,-0.0328193665973485,,DUF2939 domain-containing protein,-,358,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19510
-EQU24_RS21965,-0.0328714073378857,hflB,ATP-dependent zinc metalloprotease FtsH,O,25,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21965
-EQU24_RS12430,-0.0328983355757424,,RES domain-containing protein,S,1270,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12430
-EQU24_RS13170,-0.032926125251354,,SRPBCC family protein,S,1176,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13170
-EQU24_RS14055,-0.0329405539044849,,PIN domain-containing protein,S,1064,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14055
-EQU24_RS00595,-0.0331059815065378,,multicopper oxidase,C,2750,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00595
-EQU24_RS21910,-0.0334005428711111,,MotA/TolQ/ExbB proton channel family protein,U,33,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21910
-EQU24_RS16520,-0.0336512547664007,,hypothetical protein,-,733,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16520
-EQU24_RS07240,-0.033724449909344,,DUF2934 domain-containing protein,I,1914,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07240
-EQU24_RS17160,-0.033917444273735,,nitrogen fixation protein NifX,S,657,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17160
-EQU24_RS17355,-0.0339907633948689,,hypothetical protein,-,635,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17355
-EQU24_RS14845,-0.0341645893100687,clpS,ATP-dependent Clp protease adapter ClpS,S,954,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14845
-EQU24_RS14760,-0.0342914751893171,,BON domain-containing protein,S,965,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14760
-EQU24_RS09780,-0.034298757960127,nqrE,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,C,1587,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09780
-EQU24_RS12095,-0.0344762193374976,,cytochrome c,C,1312,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12095
-EQU24_RS09770,-0.0345980739740852,,Na(+)-translocating NADH-quinone reductase subunit C,C,1587,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09770
-EQU24_RS04650,-0.0349709871377609,,hypothetical protein,O,2248,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04650
-EQU24_RS08180,-0.0350101963473642,,"addiction module toxin, HicA family",N,1799,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08180
-EQU24_RS13890,-0.0350748416796739,bfr,bacterioferritin,P,1089,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13890
-EQU24_RS00145,-0.035153206903889,,hypothetical protein,J,2812,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00145
-EQU24_RS01155,-0.0362070577721349,,hypothetical protein,-,2670,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01155
-EQU24_RS05655,-0.0364689179371931,,"exosortase system-associated protein, TIGR04073 family",-,2122,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05655
-EQU24_RS19955,-0.0364770810319794,,RnfABCDGE type electron transport complex subunit A,U,300,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19955
-EQU24_RS20335,-0.0367695828961211,,hypothetical protein,-,249,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20335
-EQU24_RS03625,-0.0368949706298702,,tetratricopeptide repeat protein,S,2353,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03625
-EQU24_RS09795,-0.0369302723216025,nqrM,(Na+)-NQR maturation NqrM,S,1586,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09795
-EQU24_RS10680,-0.0370125472469492,,IS4 family transposase,L,1488,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10680
-EQU24_RS21760,-0.0373048462540287,,amidohydrolase,S,48,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21760
-EQU24_RS20230,-0.0373847971075506,,ISAzo13 family transposase,L,262,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20230
-EQU24_RS14035,-0.0374350097745319,,hypothetical protein,-,1066,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14035
-EQU24_RS05320,-0.0375529845187211,cobS,adenosylcobinamide-GDP ribazoletransferase,H,2166,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05320
-EQU24_RS10300,-0.0378553991479952,,hypothetical protein,-,1525,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10300
-EQU24_RS00295,-0.0379925379785017,,hypothetical protein,-,2788,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00295
-EQU24_RS15650,-0.0381892594583554,,DUF4168 domain-containing protein,-,842,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15650
-EQU24_RS03610,-0.0383911488346062,ectA,diaminobutyrate acetyltransferase,K,2354,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03610
-EQU24_RS07440,-0.0387775136973726,,Bax inhibitor-1/YccA family protein,S,1890,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07440
-EQU24_RS19515,-0.0390404204337809,,hypothetical protein,-,357,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19515
-EQU24_RS14340,-0.0391996599776222,feoB,Fe(2+) transporter permease subunit FeoB,P,1027,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14340
-EQU24_RS12655,-0.0395471583349854,,barstar family protein,K,1242,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12655
-EQU24_RS19805,-0.0398712083388267,,septal ring lytic transglycosylase RlpA family protein,M,322,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19805
-EQU24_RS21740,-0.0403108262963225,,MotA/TolQ/ExbB proton channel family protein,U,50,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21740
-EQU24_RS08285,-0.0409943228863447,,hypothetical protein,-,1786,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08285
-EQU24_RS20905,-0.0421870030001147,,ISKra4 family transposase,L,166,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20905
-EQU24_RS16245,-0.0422485781149155,,hypothetical protein,-,768,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16245
-EQU24_RS21445,-0.0423881531162584,,STAS domain-containing protein,T,91,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21445
-EQU24_RS09895,-0.0428681482542912,,heavy-metal-associated domain-containing protein,C,1575,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09895
-EQU24_RS08065,-0.0429250573056902,,type II toxin-antitoxin system VapC family toxin,S,1815,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08065
-EQU24_RS15690,-0.0430054323768478,,DUF1538 domain-containing protein,S,835,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15690
-EQU24_RS15685,-0.0430704121883328,,DUF1538 domain-containing protein,S,835,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15685
-EQU24_RS16250,-0.0446376444103563,,hypothetical protein,-,767,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16250
-EQU24_RS21745,-0.0452059436848455,,hypothetical protein,U,50,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21745
-EQU24_RS06225,-0.0457888515103106,,hypothetical protein,-,2046,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06225
-EQU24_RS19155,-0.0469650952290071,,DUF2182 domain-containing protein,S,407,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19155
-EQU24_RS14040,-0.0471216652170144,,hypothetical protein,-,1066,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14040
-EQU24_RS20590,-0.0475690006571695,,hypothetical protein,-,216,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20590
-EQU24_RS21735,-0.0476206984600132,,biopolymer transporter ExbD,U,50,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21735
-EQU24_RS18420,-0.0497505542689171,,hypothetical protein,S,503,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18420
-EQU24_RS19665,-0.054069470808231,,hypothetical protein,-,334,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19665
-EQU24_RS21750,-0.0573946454773783,,DUF3450 domain-containing protein,D,50,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21750
-EQU24_RS20610,-0.0685480972679082,,ISAs1 family transposase,L,212,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
-EQU24_RS14335,-0.0718913859390337,,hypothetical protein,S,1027,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14335
-EQU24_RS01215,-0.0791897626854236,,IS66 family transposase,L,2664,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215
-EQU24_RS14345,-0.0799730066664864,,ferrous iron transport protein A,P,1027,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14345
-EQU24_RS14130,-0.0851816822085302,coxB,cytochrome c oxidase subunit II,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14130
-EQU24_RS14125,-0.1060881822880418,ctaD,cytochrome c oxidase subunit I,C,1055,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125
-EQU24_RS13885,-0.1093103672721377,,(2Fe-2S)-binding protein,P,1090,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13885
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS01660,0.1289737723703766,,sulfate ABC transporter substrate-binding protein,Inorganic ion transport and metabolism,2601,"inorganic anion transport
+sulfate transmembrane transport
+anion transport
+sulfate transport
+ion transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01660
+EQU24_RS01650,0.1251245776013358,cysW,sulfate ABC transporter permease subunit CysW,Inorganic ion transport and metabolism,2602,"sulfate transmembrane transport
+ABC-type sulfate transporter activity
+integral component of membrane
+plasma membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01650
+EQU24_RS01655,0.1122587652483246,cysT,sulfate ABC transporter permease subunit CysT,Inorganic ion transport and metabolism,2602,"sulfate transmembrane transport
+inorganic anion transport
+anion transport
+sulfate transport
+ion transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01655
+EQU24_RS01645,0.101040660500497,,sulfate ABC transporter ATP-binding protein,Inorganic ion transport and metabolism,2603,"ATP hydrolysis activity
+ATP hydrolysis activity
+sulfate transmembrane transport
+inorganic anion transport
+nucleoside-triphosphatase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01645
+EQU24_RS01640,0.0889830229189868,,alpha/beta hydrolase,Function unknown,2604,hydrolase activity,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01640
+EQU24_RS01665,0.0860425778808316,,alginate export family protein,Cell wall/membrane/envelope biogenesis,2601,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01665
+EQU24_RS09685,0.0805672895875726,,,No COG annotation,1600,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09685
+EQU24_RS10780,0.0778924175320712,,,No COG annotation,1474,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10780
+EQU24_RS09235,0.072264222105011,,,No COG annotation,1662,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09235
+EQU24_RS13975,0.070688761955512,,,No COG annotation,1076,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13975
+EQU24_RS02110,0.0691212956334092,,,No COG annotation,2539,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02110
+EQU24_RS12460,0.0627071849807018,,,No COG annotation,1264,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12460
+EQU24_RS14915,0.0615393207234482,urtD,urea ABC transporter ATP-binding protein UrtD,Function unknown,948,"ATP hydrolysis activity
+ATP binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14915
+EQU24_RS20575,0.0599995885473329,,hypothetical protein,Carbohydrate transport and metabolism,218,"protein binding
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20575
+EQU24_RS10775,0.0592455001798367,,tyrosine-type recombinase/integrase,"Replication, recombination and repair",1475,"DNA recombination
+prophage integrase activity
+DNA integration
+DNA metabolic process
+DNA strand exchange activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10775
+EQU24_RS12805,0.0587669731529684,,IS4 family transposase,"Replication, recombination and repair",1225,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12805
+EQU24_RS13015,0.05837124814479,,hypothetical protein,No COG annotation,1201,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13015
+EQU24_RS03580,0.0571612464951159,,SulP family inorganic anion transporter,Inorganic ion transport and metabolism,2359,"sulfate transmembrane transport
+secondary active sulfate transmembrane transporter activity
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03580
+EQU24_RS08790,0.056756599122252,,MarR family transcriptional regulator,Transcription,1719,"purine nucleotide biosynthetic process
+regulation of transcription, DNA-templated
+GTP binding
+DNA binding
+adenylosuccinate synthase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08790
+EQU24_RS14165,0.0558109861653965,bioB,biotin synthase BioB,Coenzyme transport and metabolism,1052,"monocarboxylic acid biosynthetic process
+iron ion binding
+monocarboxylic acid metabolic process
+water-soluble vitamin biosynthetic process
+biotin biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14165
+EQU24_RS01635,0.0549473178103622,,EAL domain-containing protein,Signal transduction mechanisms,2604,"cellular response to DNA damage stimulus
+cellular response to stress
+response to stress
+cellular response to stimulus
+cellular process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01635
+EQU24_RS01670,0.0540428375023719,,DUF2292 domain-containing protein,No COG annotation,2600,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01670
+EQU24_RS08795,0.0530783294878666,,hypothetical protein,No COG annotation,1718,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08795
+EQU24_RS14750,0.052072320362349,,DUF883 family protein,Function unknown,967,"ribosome binding
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14750
+EQU24_RS08010,0.0510121904447593,,DUF1566 domain-containing protein,Function unknown,1823,"integral component of membrane
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08010
+EQU24_RS15360,0.0498214983900173,,phytoene/squalene synthase family protein,Lipid transport and metabolism,888,"farnesyl-diphosphate farnesyltransferase activity
+squalene synthase activity
+biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15360
+EQU24_RS08695,0.0495617493556052,,OmpA family protein,Cell wall/membrane/envelope biogenesis,1731,"calcium ion binding
+cell outer membrane
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08695
+EQU24_RS00205,0.0492018107984786,,IS66 family transposase,"Replication, recombination and repair",2803,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00205
+EQU24_RS13970,0.0480929518112148,,Nif3-like dinuclear metal center hexameric protein,Function unknown,1077,"response to ionizing radiation
+metal ion binding
+cation binding
+response to radiation
+identical protein binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13970
+EQU24_RS08780,0.0478516507843587,,copper resistance protein CopC,Function unknown,1720,"copper ion binding
+response to copper ion
+periplasmic space",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08780
+EQU24_RS14850,0.0455950250982522,,NUDIX hydrolase,Nucleotide transport and metabolism,953,"thiamine-diphosphatase activity
+nucleoside-triphosphatase activity
+nucleoside-diphosphatase activity
+pyrophosphatase activity
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14850
+EQU24_RS08595,0.0455393831259133,,TetR/AcrR family transcriptional regulator,Transcription,1745,DNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08595
+EQU24_RS12690,0.0448436063998893,aroQ,type II 3-dehydroquinate dehydratase,Amino acid transport and metabolism,1237,"chorismate metabolic process
+chorismate biosynthetic process
+dicarboxylic acid biosynthetic process
+dicarboxylic acid metabolic process
+3-dehydroquinate dehydratase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12690
+EQU24_RS16575,0.0445141054518568,,,No COG annotation,724,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16575
+EQU24_RS16885,0.044363987370938,umuD,translesion error-prone DNA polymerase V autoproteolytic subunit,Transcription,308,"regulation of transcription, DNA-templated
+DNA repair
+DNA binding
+SOS response
+hydrolase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16885
+EQU24_RS16025,0.0431282010332181,,pilus assembly protein,"Intracellular trafficking, secretion, and vesicular transport",800,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16025
+EQU24_RS14930,0.0430661931379005,,hypothetical protein,No COG annotation,947,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14930
+EQU24_RS14160,0.0429708633747135,bioF,8-amino-7-oxononanoate synthase,Coenzyme transport and metabolism,1052,"monocarboxylic acid metabolic process
+monocarboxylic acid biosynthetic process
+8-amino-7-oxononanoate synthase activity
+carboxylic acid metabolic process
+carboxylic acid biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14160
+EQU24_RS13135,0.0420302828579691,ubiG,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG,Coenzyme transport and metabolism,1179,"2-polyprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity
+ubiquinone biosynthetic process
+2-octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone methyltransferase activity
+3-demethylubiquinol-n 3-O-methyltransferase activity
+3-demethylubiquinone-9 3-O-methyltransferase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13135
+EQU24_RS13485,0.042003159518208,,hypothetical protein,No COG annotation,1142,"integral component of membrane
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13485
+EQU24_RS10235,0.041836160459099,sufB,Fe-S cluster assembly protein SufB,"Post-translational modification, protein turnover, and chaperones",1531,"cyanelle
+plastid
+metallo-sulfur cluster assembly
+cellular component assembly
+intracellular membrane-bounded organelle",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10235
+EQU24_RS10255,0.0412018075009345,,cysteine desulfurase,Amino acid transport and metabolism,1528,"cysteine desulfurase activity
+cysteine metabolic process
+pyridoxal phosphate binding
+lyase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10255
+EQU24_RS06320,0.0408229893757205,,,No COG annotation,2034,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06320
+EQU24_RS02350,0.0407417450843172,,DEAD/DEAH box helicase,"Translation, ribosomal structure and biogenesis",2510,"ATP hydrolysis activity
+ATP hydrolysis activity
+ribosome assembly
+RNA secondary structure unwinding
+ribonucleoprotein complex assembly",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02350
+EQU24_RS10535,0.0406559344688749,,STAS domain-containing protein,Signal transduction mechanisms,1500,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10535
+EQU24_RS03765,0.0405627149847664,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,Nucleotide transport and metabolism,2338,"adenyl ribonucleotide binding
+terpenoid biosynthetic process
+ATP binding
+adenyl nucleotide binding
+phosphorylation",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03765
+EQU24_RS08800,0.0405184887322689,,SulP family inorganic anion transporter,Inorganic ion transport and metabolism,1717,"sulfate transmembrane transport
+sulfate transmembrane transporter activity
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08800
+EQU24_RS10920,0.0405087830335279,,hypothetical protein,"Cell cycle control, cell division, chromosome partitioning",1458,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10920
+EQU24_RS07970,0.0404688408789349,,hypothetical protein,No COG annotation,1829,"integral component of membrane
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07970
+EQU24_RS16055,0.040462203424556,,cold-shock protein,Transcription,795,"DNA binding
+integral component of membrane
+cytoplasm",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16055
+EQU24_RS14910,0.0402663534399287,,ABC transporter ATP-binding protein,Amino acid transport and metabolism,948,"ATP hydrolysis activity
+ATP binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14910
+EQU24_RS14475,0.0390375423286419,,DUF3309 domain-containing protein,Function unknown,1015,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14475
+EQU24_RS08770,0.0388991164770812,,1-deoxy-D-xylulose-5-phosphate synthase,Coenzyme transport and metabolism,1721,"pyruvate metabolic process
+ubiquinone biosynthetic process
+thiamine biosynthetic process
+manganese ion binding
+vitamin B6 biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08770
+EQU24_RS18860,0.0384287707610873,,,No COG annotation,445,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18860
+EQU24_RS14155,0.0383609910615648,bioH,pimeloyl-ACP methyl ester esterase BioH,Function unknown,1052,"monocarboxylic acid biosynthetic process
+monocarboxylic acid metabolic process
+amide biosynthetic process
+pimelyl-[acyl-carrier protein] methyl ester esterase activity
+carboxylic acid biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14155
+EQU24_RS00190,0.0383143030993124,,hypothetical protein,No COG annotation,2805,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00190
+EQU24_RS15800,0.0382902387239381,,TonB-dependent receptor,Inorganic ion transport and metabolism,823,membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15800
+EQU24_RS13770,0.038223335794738,,hypothetical protein,No COG annotation,1106,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13770
+EQU24_RS15365,0.0380565354221712,shc,squalene--hopene cyclase,Lipid transport and metabolism,888,"hopanoid biosynthetic process
+lipid droplet
+beta-amyrin synthase activity
+lanosterol synthase activity
+squalene-hopene cyclase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15365
+EQU24_RS07950,0.0379055271759582,csrA,carbon storage regulator CsrA,"Translation, ribosomal structure and biogenesis",1830,"negative regulation of translational initiation
+positive regulation of translational initiation
+negative regulation of cellular macromolecule biosynthetic process
+regulation of glycogen biosynthetic process
+negative regulation of translation",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07950
+EQU24_RS15355,0.0378573606302197,hpnH,adenosyl-hopene transferase HpnH,Function unknown,889,"iron-sulfur cluster binding
+transferase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15355
+EQU24_RS20750,0.0377913479055753,,assimilatory sulfite reductase (NADPH) flavoprotein subunit,Energy production and conversion,192,"cysteine biosynthetic process
+sulfite reductase (NADPH) activity
+riboflavin reductase (NADPH) activity
+FMN binding
+NADP+ binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20750
+EQU24_RS10245,0.0371384302605001,sufD,Fe-S cluster assembly protein SufD,"Post-translational modification, protein turnover, and chaperones",1530,"metallo-sulfur cluster assembly
+cellular component assembly
+iron-sulfur cluster assembly
+cellular component biogenesis
+response to oxidative stress",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10245
+EQU24_RS19100,0.0369506031722764,,hypothetical protein,No COG annotation,414,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19100
+EQU24_RS10240,0.0367315003637603,sufC,Fe-S cluster assembly ATPase SufC,"Post-translational modification, protein turnover, and chaperones",1530,"ATP hydrolysis activity
+ATP binding
+metallo-sulfur cluster assembly
+cellular component assembly
+iron-sulfur cluster assembly",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10240
+EQU24_RS12435,0.0358335128833416,,YgiT-type zinc finger protein,No COG annotation,1269,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12435
+EQU24_RS18830,0.0357486911198497,,hypothetical protein,No COG annotation,449,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18830
+EQU24_RS14140,0.0354922400661173,,bacteriohemerythrin,Inorganic ion transport and metabolism,1053,metal ion binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14140
+EQU24_RS06115,0.0354729329136835,purE,5-(carboxyamino)imidazole ribonucleotide mutase,Nucleotide transport and metabolism,2063,"'de novo' IMP biosynthetic process
+purine ribonucleotide biosynthetic process
+purine ribonucleotide metabolic process
+ribonucleotide biosynthetic process
+purine nucleotide biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06115
+EQU24_RS11625,0.0354169016050267,,peptidoglycan DD-metalloendopeptidase family protein,"Cell cycle control, cell division, chromosome partitioning",1365,"positive regulation of hydrolase activity
+regulation of hydrolase activity
+positive regulation of catalytic activity
+cell outer membrane
+autolysis",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11625
+EQU24_RS16935,0.035158020879261,,hypothetical protein,No COG annotation,688,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16935
+EQU24_RS16225,0.0351063046408601,,circularly permuted type 2 ATP-grasp protein,Function unknown,771,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16225
+EQU24_RS07190,0.0351043934257624,,nitrogen regulation protein NR(II),Signal transduction mechanisms,1919,"protein autophosphorylation
+peptidyl-histidine phosphorylation
+peptidyl-histidine modification
+regulation of transcription, DNA-templated
+peptidyl-amino acid modification",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07190
+EQU24_RS15370,0.0350984412267294,,phosphorylase,Nucleotide transport and metabolism,888,"nucleoside metabolic process
+catalytic activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15370
+EQU24_RS06450,0.0347017687804636,ispG,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,Lipid transport and metabolism,2014,"pyruvate metabolic process
+monocarboxylic acid metabolic process
+iron ion binding
+isopentenyl diphosphate biosynthetic process
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06450
+EQU24_RS13720,0.034428420671806,,metalloregulator ArsR/SmtB family transcription factor,Transcription,1110,"transcription, DNA-templated
+regulation of nucleic acid-templated transcription
+regulation of cellular macromolecule biosynthetic process
+regulation of transcription, DNA-templated
+nucleic acid-templated transcription",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13720
+EQU24_RS12145,0.0343279911431262,,hypothetical protein,No COG annotation,1306,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12145
+EQU24_RS19110,0.034319181156806,,glutamate 5-kinase,Nucleotide transport and metabolism,412,"proline biosynthetic process
+proline metabolic process
+glutamine family amino acid biosynthetic process
+glutamate 5-kinase activity
+carboxylic acid metabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19110
+EQU24_RS08785,0.0341754732337352,,MMPL family transporter,Function unknown,1720,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08785
+EQU24_RS00195,0.033966920671422,,DUF4338 domain-containing protein,"Replication, recombination and repair",2805,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00195
+EQU24_RS05425,0.0339456087013494,,energy transducer TonB,Cell wall/membrane/envelope biogenesis,2154,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05425
+EQU24_RS20555,0.0336525825892021,,pyridoxamine 5'-phosphate oxidase,Inorganic ion transport and metabolism,221,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20555
+EQU24_RS16580,0.0334465223280041,queC,7-cyano-7-deazaguanine synthase QueC,Nucleotide transport and metabolism,723,"queuosine biosynthetic process
+zinc ion binding
+ATP binding
+ligase activity, forming carbon-nitrogen bonds",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16580
+EQU24_RS16285,0.0333693439884909,,hypothetical protein,Lipid transport and metabolism,761,"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor
+",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16285
+EQU24_RS11905,0.0331000669965467,,MbtH family NRPS accessory protein,Function unknown,1331,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11905
+EQU24_RS08810,0.033089787159306,,hypothetical protein,No COG annotation,1716,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08810
+EQU24_RS08775,0.0329610627196018,,copper resistance protein,Inorganic ion transport and metabolism,1720,"copper ion transport
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08775
+EQU24_RS00255,0.0328579067876347,,hypothetical protein,No COG annotation,2795,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00255
+EQU24_RS14015,0.0327958599821652,,"L,D-transpeptidase",Cell wall/membrane/envelope biogenesis,1068,"peptidoglycan L,D-transpeptidase activity
+peptidoglycan-protein cross-linking
+peptidoglycan biosynthetic process
+glycosaminoglycan biosynthetic process
+peptidoglycan metabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14015
+EQU24_RS20755,0.0327660355876475,cysI,assimilatory sulfite reductase (NADPH) hemoprotein subunit,Energy production and conversion,192,"cysteine biosynthetic process
+hydrogen sulfide biosynthetic process
+sulfite reductase (NADPH) activity
+sulfite reductase (ferredoxin) activity
+sulfate reduction",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20755
+EQU24_RS16200,0.0326748194073128,,EAL domain-containing protein,Signal transduction mechanisms,774,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16200
+EQU24_RS17005,0.0325427595133909,,TlpA family protein disulfide reductase,"Post-translational modification, protein turnover, and chaperones",678,"cell redox homeostasis
+oxidoreductase activity
+
+",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17005
+EQU24_RS12450,0.0325421147134847,,lactoylglutathione lyase,Amino acid transport and metabolism,1266,"dioxygenase activity
+lyase activity
+",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12450
+EQU24_RS10960,0.0324138452156292,,hypothetical protein,No COG annotation,1458,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10960
+EQU24_RS21865,0.0323375672022336,,type II toxin-antitoxin system HicB family antitoxin,Function unknown,39,"regulation of transcription, DNA-templated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21865
+EQU24_RS17825,0.0322550816939562,groS,co-chaperone GroES,"Post-translational modification, protein turnover, and chaperones",582,"ATP binding
+metal ion binding
+GroEL-GroES complex
+'de novo' post-translational protein folding
+chaperone cofactor-dependent protein refolding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17825
+EQU24_RS02920,0.032148438526779,,hypothetical protein,Cell wall/membrane/envelope biogenesis,2435,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02920
+EQU24_RS09240,0.0321244885028755,,DNA polymerase III subunit gamma/tau,Coenzyme transport and metabolism,1661,"ATP hydrolysis activity
+nucleoside-triphosphatase activity
+DNA-templated DNA replication
+ATP binding
+pyrophosphatase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09240
+EQU24_RS02610,0.0320360239182552,rsxC,electron transport complex subunit RsxC,Energy production and conversion,2473,"4 iron, 4 sulfur cluster binding
+electron transport chain
+metal ion binding
+oxidoreductase activity, acting on NAD(P)H
+plasma membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02610
+EQU24_RS05885,0.0320218490953705,mmoX,methane monooxygenase,Coenzyme transport and metabolism,2088,"methane monooxygenase activity
+methane metabolic process
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+methane monooxygenase complex
+metal ion binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05885
+EQU24_RS16880,0.0316790557239526,,hypothetical protein,No COG annotation,693,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16880
+EQU24_RS01840,0.0316560496206907,,5'-deoxynucleotidase,Function unknown,2578,"pyrimidine deoxyribonucleoside monophosphate biosynthetic process
+dUMP biosynthetic process
+pyrimidine deoxyribonucleoside monophosphate metabolic process
+dUMP metabolic process
+pyrimidine deoxyribonucleotide biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01840
+EQU24_RS14870,0.0312830999685857,,urease accessory protein UreF,"Post-translational modification, protein turnover, and chaperones",950,"nickel cation binding
+cytoplasm
+nitrogen compound metabolic process
+metabolic process
+biological_process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14870
+EQU24_RS15990,0.0312579672837346,,hypothetical protein,No COG annotation,803,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15990
+EQU24_RS12455,0.0312279872145178,queA,tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA,Nucleotide transport and metabolism,1265,"tRNA wobble guanine modification
+tRNA processing
+tRNA metabolic process
+ncRNA processing
+tRNA wobble base modification",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12455
+EQU24_RS07955,0.0311927172218944,,,No COG annotation,1830,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07955
+EQU24_RS08980,0.0309618812386998,,hypothetical protein,No COG annotation,1693,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08980
+EQU24_RS17500,0.0308539989489618,,catalase,No COG annotation,614,"hydrogen peroxide catabolic process
+heme binding
+metal ion binding
+response to oxidative stress
+cellular oxidant detoxification",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17500
+EQU24_RS17015,0.0308181248366378,,hypothetical protein,No COG annotation,676,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17015
+EQU24_RS15025,0.0305827333439548,,DEAD/DEAH box helicase,"Translation, ribosomal structure and biogenesis",931,"ribosomal large subunit assembly
+ATP hydrolysis activity
+ribosome assembly
+ATP hydrolysis activity
+negative regulation of RNA catabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15025
+EQU24_RS06670,0.0304437257844655,,hypothetical protein,No COG annotation,1982,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06670
+EQU24_RS14875,0.0302852893551943,ureE,urease accessory protein UreE,"Post-translational modification, protein turnover, and chaperones",950,"nickel cation binding
+protein-containing complex assembly
+urea metabolic process
+unfolded protein binding
+cytoplasm",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14875
+EQU24_RS08555,0.0302418429703141,,hypothetical protein,No COG annotation,1749,"integral component of membrane
+protein binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08555
+EQU24_RS18545,0.0301866394262655,,,No COG annotation,489,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18545
+EQU24_RS16035,0.0301523886741932,,Flp family type IVb pilin,"Intracellular trafficking, secretion, and vesicular transport",799,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16035
+EQU24_RS15485,0.0301072886217281,,peptide chain release factor 3,"Translation, ribosomal structure and biogenesis",871,"GTPase activity
+regulation of translational termination
+nucleoside-triphosphatase activity
+translational termination
+translation release factor activity, codon nonspecific",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15485
+EQU24_RS15740,0.029939549486276,,hypothetical protein,No COG annotation,829,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15740
+EQU24_RS18425,0.02976448491177,,transposase,"Replication, recombination and repair",502,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18425
+EQU24_RS08840,-0.0298532483278429,,transposase,No COG annotation,1711,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08840
+EQU24_RS09365,-0.0299057327981622,,diacylglycerol kinase,Cell wall/membrane/envelope biogenesis,1645,"phosphatidic acid biosynthetic process
+diacylglycerol kinase activity
+ATP binding
+phosphorylation
+plasma membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09365
+EQU24_RS13805,-0.030016279715915,,hypothetical protein,No COG annotation,1103,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13805
+EQU24_RS16700,-0.0300503745587619,,M48 family metallopeptidase,"Post-translational modification, protein turnover, and chaperones",712,"CAAX-box protein processing
+metalloendopeptidase activity
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16700
+EQU24_RS14050,-0.0300806957657459,,AbrB/MazE/SpoVT family DNA-binding domain-containing protein,Function unknown,1064,DNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14050
+EQU24_RS03110,-0.0302068728293617,,cytochrome bc complex cytochrome b subunit,Energy production and conversion,2409,"mitochondrial electron transport, ubiquinol to cytochrome c
+ubiquinol-cytochrome-c reductase activity
+metal ion binding
+respiratory chain complex III
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03110
+EQU24_RS04110,-0.030208668282433,,type II toxin-antitoxin system HicB family antitoxin,Function unknown,2314,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04110
+EQU24_RS02660,-0.0302958631851645,secB,protein-export chaperone SecB,"Intracellular trafficking, secretion, and vesicular transport",2466,"protein tetramerization
+peptide transport
+amide transport
+peptide secretion
+protein targeting",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02660
+EQU24_RS17155,-0.0303154721417036,,NifX-associated nitrogen fixation protein,Function unknown,658,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17155
+EQU24_RS11070,-0.0303577991629927,,HupE/UreJ family protein,"Post-translational modification, protein turnover, and chaperones",1443,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11070
+EQU24_RS21665,-0.0303759373648942,trxA,thioredoxin TrxA,"Post-translational modification, protein turnover, and chaperones",61,"protein-disulfide reductase (NAD(P)) activity
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor
+cellular response to oxidative stress
+cellular response to toxic substance
+disulfide oxidoreductase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21665
+EQU24_RS07625,-0.0305445449669363,,hypothetical protein,No COG annotation,1868,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07625
+EQU24_RS13515,-0.0305471961802392,,hypothetical protein,Function unknown,1137,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13515
+EQU24_RS03870,-0.030564139205175,rpsJ,30S ribosomal protein S10,"Translation, ribosomal structure and biogenesis",2330,"regulation of nucleic acid-templated transcription
+transcription antitermination
+regulation of DNA-templated transcription, termination
+regulation of cellular macromolecule biosynthetic process
+cytosolic ribosome",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03870
+EQU24_RS14025,-0.0306325151239061,,type I-F CRISPR-associated endoribonuclease Cas6/Csy4,No COG annotation,1066,"maintenance of CRISPR repeat elements
+endonuclease activity
+nucleic acid phosphodiester bond hydrolysis",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14025
+EQU24_RS03540,-0.0309517145460335,,6-carboxytetrahydropterin synthase,Coenzyme transport and metabolism,2364,6-pyruvoyltetrahydropterin synthase activity,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03540
+EQU24_RS00105,-0.0311304352197065,crp,cAMP-activated global transcriptional regulator CRP,Transcription,2818,"negative regulation of nucleic acid-templated transcription
+positive regulation of nucleic acid-templated transcription
+negative regulation of transcription, DNA-templated
+positive regulation of RNA biosynthetic process
+transcription, DNA-templated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00105
+EQU24_RS11235,-0.0311782497295423,,type VI secretion system tube protein Hcp,Function unknown,1421,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11235
+EQU24_RS05295,-0.0311784645410073,,hypothetical protein,No COG annotation,2167,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05295
+EQU24_RS20935,-0.0312209749285303,,type II toxin-antitoxin system PemK/MazF family toxin,Signal transduction mechanisms,163,DNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20935
+EQU24_RS10865,-0.0312580516894863,cas2,CRISPR-associated endonuclease Cas2,"Replication, recombination and repair",1462,"RNA phosphodiester bond hydrolysis, endonucleolytic
+maintenance of CRISPR repeat elements
+endodeoxyribonuclease activity
+endoribonuclease activity
+magnesium ion binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10865
+EQU24_RS06755,-0.0315717544346087,,phospholipid carrier-dependent glycosyltransferase,No COG annotation,1974,"integral component of membrane
+transferase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06755
+EQU24_RS02170,-0.031702575435713,,LapA family protein,Function unknown,2530,integral component of plasma membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02170
+EQU24_RS03965,-0.0317696342296821,rpmD,50S ribosomal protein L30,"Translation, ribosomal structure and biogenesis",2329,"ribosome assembly
+ribosomal large subunit assembly
+cytosolic ribosome
+ribonucleoprotein complex assembly
+ribosomal large subunit biogenesis",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03965
+EQU24_RS21645,-0.0317830842331955,,hypothetical protein,No COG annotation,65,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21645
+EQU24_RS21455,-0.0319004742049038,,hypothetical protein,Signal transduction mechanisms,90,"transmembrane signaling receptor activity
+chemotaxis
+integral component of membrane
+signal transduction",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21455
+EQU24_RS14800,-0.0321755977957855,,hypothetical protein,Function unknown,960,"ribosome binding
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14800
+EQU24_RS17385,-0.032242864550971,,hypothetical protein,No COG annotation,630,"metalloendopeptidase activity
+proteolysis
+peptidase activity
+integral component of membrane
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17385
+EQU24_RS09730,-0.0325671554161961,,DUF502 domain-containing protein,Function unknown,1593,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09730
+EQU24_RS19510,-0.0328193665973485,,DUF2939 domain-containing protein,No COG annotation,358,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19510
+EQU24_RS21965,-0.0328714073378857,hflB,ATP-dependent zinc metalloprotease FtsH,"Post-translational modification, protein turnover, and chaperones",25,"ATP hydrolysis activity
+CTPase activity
+ATP hydrolysis activity
+manganese ion binding
+nucleoside-triphosphatase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21965
+EQU24_RS12430,-0.0328983355757424,,RES domain-containing protein,Function unknown,1270,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12430
+EQU24_RS13170,-0.032926125251354,,SRPBCC family protein,Function unknown,1176,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13170
+EQU24_RS14055,-0.0329405539044849,,PIN domain-containing protein,Function unknown,1064,"RNA phosphodiester bond hydrolysis
+magnesium ion binding
+endonuclease activity
+ribonuclease activity
+toxin activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14055
+EQU24_RS00595,-0.0331059815065378,,multicopper oxidase,Energy production and conversion,2750,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00595
+EQU24_RS21910,-0.0334005428711111,,MotA/TolQ/ExbB proton channel family protein,"Intracellular trafficking, secretion, and vesicular transport",33,"protein transport
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21910
+EQU24_RS16520,-0.0336512547664007,,hypothetical protein,No COG annotation,733,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16520
+EQU24_RS07240,-0.033724449909344,,DUF2934 domain-containing protein,Lipid transport and metabolism,1914,"iron ion binding
+lipid biosynthetic process
+integral component of membrane
+oxidoreductase activity
+",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07240
+EQU24_RS17160,-0.033917444273735,,nitrogen fixation protein NifX,Function unknown,657,"nitrogen fixation
+metal cluster binding
+",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17160
+EQU24_RS17355,-0.0339907633948689,,hypothetical protein,No COG annotation,635,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17355
+EQU24_RS14845,-0.0341645893100687,clpS,ATP-dependent Clp protease adapter ClpS,Function unknown,954,"proteolysis
+protein catabolic process
+peptidase activity
+chaperone binding
+response to temperature stimulus",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14845
+EQU24_RS14760,-0.0342914751893171,,BON domain-containing protein,Function unknown,965,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14760
+EQU24_RS09780,-0.034298757960127,nqrE,NADH:ubiquinone reductase (Na(+)-transporting) subunit E,Energy production and conversion,1587,"sodium ion transport
+metal ion transport
+inorganic cation transmembrane transport
+NADH dehydrogenase (quinone) activity
+cation transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09780
+EQU24_RS12095,-0.0344762193374976,,cytochrome c,Energy production and conversion,1312,"metal ion binding
+heme binding
+electron transport chain
+electron transfer activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12095
+EQU24_RS09770,-0.0345980739740852,,Na(+)-translocating NADH-quinone reductase subunit C,Energy production and conversion,1587,"sodium ion transport
+metal ion transport
+cation transport
+inorganic cation transmembrane transport
+ion transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09770
+EQU24_RS04650,-0.0349709871377609,,hypothetical protein,"Post-translational modification, protein turnover, and chaperones",2248,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04650
+EQU24_RS08180,-0.0350101963473642,,"addiction module toxin, HicA family",Cell motility,1799,mRNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08180
+EQU24_RS13890,-0.0350748416796739,bfr,bacterioferritin,Inorganic ion transport and metabolism,1089,"iron ion homeostasis
+transition metal ion homeostasis
+cellular iron ion homeostasis
+iron ion transport
+metal ion homeostasis",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13890
+EQU24_RS00145,-0.035153206903889,,hypothetical protein,"Translation, ribosomal structure and biogenesis",2812,"response to osmotic stress
+response to abiotic stimulus
+response to stress
+response to stimulus
+biological_process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00145
+EQU24_RS01155,-0.0362070577721349,,hypothetical protein,No COG annotation,2670,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01155
+EQU24_RS05655,-0.0364689179371931,,"exosortase system-associated protein, TIGR04073 family",No COG annotation,2122,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05655
+EQU24_RS19955,-0.0364770810319794,,RnfABCDGE type electron transport complex subunit A,"Intracellular trafficking, secretion, and vesicular transport",300,"electron transport chain
+plasma membrane
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19955
+EQU24_RS20335,-0.0367695828961211,,hypothetical protein,No COG annotation,249,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20335
+EQU24_RS03625,-0.0368949706298702,,tetratricopeptide repeat protein,Function unknown,2353,"integral component of membrane
+protein binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03625
+EQU24_RS09795,-0.0369302723216025,nqrM,(Na+)-NQR maturation NqrM,Function unknown,1586,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09795
+EQU24_RS10680,-0.0370125472469492,,IS4 family transposase,"Replication, recombination and repair",1488,"DNA binding
+transposase activity
+transposition, DNA-mediated
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10680
+EQU24_RS21760,-0.0373048462540287,,amidohydrolase,Function unknown,48,"hippurate hydrolase activity
+N-acetyldiaminopimelate deacetylase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21760
+EQU24_RS20230,-0.0373847971075506,,ISAzo13 family transposase,"Replication, recombination and repair",262,DNA binding,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20230
+EQU24_RS14035,-0.0374350097745319,,hypothetical protein,No COG annotation,1066,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14035
+EQU24_RS05320,-0.0375529845187211,cobS,adenosylcobinamide-GDP ribazoletransferase,Coenzyme transport and metabolism,2166,"cobalamin biosynthetic process
+cobalamin 5'-phosphate synthase activity
+water-soluble vitamin biosynthetic process
+cobalamin metabolic process
+adenosylcobinamide-GDP ribazoletransferase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05320
+EQU24_RS10300,-0.0378553991479952,,hypothetical protein,No COG annotation,1525,outer membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10300
+EQU24_RS00295,-0.0379925379785017,,hypothetical protein,No COG annotation,2788,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00295
+EQU24_RS15650,-0.0381892594583554,,DUF4168 domain-containing protein,No COG annotation,842,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15650
+EQU24_RS03610,-0.0383911488346062,ectA,diaminobutyrate acetyltransferase,Transcription,2354,"protein acetylation
+protein acylation
+diaminobutyrate acetyltransferase activity
+monocarboxylic acid metabolic process
+monocarboxylic acid biosynthetic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03610
+EQU24_RS07440,-0.0387775136973726,,Bax inhibitor-1/YccA family protein,Function unknown,1890,"regulation of proteolysis
+regulation of protein metabolic process
+proteolysis
+regulation of macromolecule metabolic process
+regulation of nitrogen compound metabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07440
+EQU24_RS19515,-0.0390404204337809,,hypothetical protein,No COG annotation,357,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19515
+EQU24_RS14340,-0.0391996599776222,feoB,Fe(2+) transporter permease subunit FeoB,Inorganic ion transport and metabolism,1027,"iron ion homeostasis
+ferrous iron transmembrane transporter activity
+iron ion transmembrane transport
+inorganic cation transmembrane transport
+GTP binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14340
+EQU24_RS12655,-0.0395471583349854,,barstar family protein,Transcription,1242,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12655
+EQU24_RS19805,-0.0398712083388267,,septal ring lytic transglycosylase RlpA family protein,Cell wall/membrane/envelope biogenesis,322,"peptidoglycan metabolic process
+lytic endotransglycosylase activity
+cell wall organization
+lyase activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19805
+EQU24_RS21740,-0.0403108262963225,,MotA/TolQ/ExbB proton channel family protein,"Intracellular trafficking, secretion, and vesicular transport",50,"protein transport
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21740
+EQU24_RS08285,-0.0409943228863447,,hypothetical protein,No COG annotation,1786,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08285
+EQU24_RS20905,-0.0421870030001147,,ISKra4 family transposase,"Replication, recombination and repair",166,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20905
+EQU24_RS16245,-0.0422485781149155,,hypothetical protein,No COG annotation,768,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16245
+EQU24_RS21445,-0.0423881531162584,,STAS domain-containing protein,Signal transduction mechanisms,91,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21445
+EQU24_RS09895,-0.0428681482542912,,heavy-metal-associated domain-containing protein,Energy production and conversion,1575,"metal ion transport
+metal ion binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09895
+EQU24_RS08065,-0.0429250573056902,,type II toxin-antitoxin system VapC family toxin,Function unknown,1815,"RNA phosphodiester bond hydrolysis
+magnesium ion binding
+endonuclease activity
+ribonuclease activity
+toxin activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08065
+EQU24_RS15690,-0.0430054323768478,,DUF1538 domain-containing protein,Function unknown,835,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15690
+EQU24_RS15685,-0.0430704121883328,,DUF1538 domain-containing protein,Function unknown,835,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15685
+EQU24_RS16250,-0.0446376444103563,,hypothetical protein,No COG annotation,767,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16250
+EQU24_RS21745,-0.0452059436848455,,hypothetical protein,"Intracellular trafficking, secretion, and vesicular transport",50,"protein transport
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21745
+EQU24_RS06225,-0.0457888515103106,,hypothetical protein,No COG annotation,2046,"methyltransferase activity
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06225
+EQU24_RS19155,-0.0469650952290071,,DUF2182 domain-containing protein,Function unknown,407,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19155
+EQU24_RS14040,-0.0471216652170144,,hypothetical protein,No COG annotation,1066,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14040
+EQU24_RS20590,-0.0475690006571695,,hypothetical protein,No COG annotation,216,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20590
+EQU24_RS21735,-0.0476206984600132,,biopolymer transporter ExbD,"Intracellular trafficking, secretion, and vesicular transport",50,"protein transport
+plasma membrane
+integral component of membrane
+transmembrane transport
+transmembrane transporter activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21735
+EQU24_RS18420,-0.0497505542689171,,hypothetical protein,Function unknown,503,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18420
+EQU24_RS19665,-0.054069470808231,,hypothetical protein,No COG annotation,334,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19665
+EQU24_RS21750,-0.0573946454773783,,DUF3450 domain-containing protein,"Cell cycle control, cell division, chromosome partitioning",50,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21750
+EQU24_RS20610,-0.0685480972679082,,ISAs1 family transposase,"Replication, recombination and repair",212,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20610
+EQU24_RS14335,-0.0718913859390337,,hypothetical protein,Function unknown,1027,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14335
+EQU24_RS01215,-0.0791897626854236,,IS66 family transposase,"Replication, recombination and repair",2664,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01215
+EQU24_RS14345,-0.0799730066664864,,ferrous iron transport protein A,Inorganic ion transport and metabolism,1027,"iron ion transport
+iron ion transport
+iron ion transport
+transition metal ion transport
+iron ion transmembrane transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14345
+EQU24_RS14130,-0.0851816822085302,coxB,cytochrome c oxidase subunit II,Energy production and conversion,1055,"purine ribonucleoside monophosphate metabolic process
+purine ribonucleoside triphosphate metabolic process
+purine nucleoside triphosphate metabolic process
+ATP synthesis coupled electron transport
+purine ribonucleotide metabolic process",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14130
+EQU24_RS14125,-0.1060881822880418,ctaD,cytochrome c oxidase subunit I,Energy production and conversion,1055,"electron transport coupled proton transport
+energy coupled proton transmembrane transport, against electrochemical gradient
+proton transmembrane transport
+aerobic respiration
+cation transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125
+EQU24_RS13885,-0.1093103672721377,,(2Fe-2S)-binding protein,Inorganic ion transport and metabolism,1090,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13885

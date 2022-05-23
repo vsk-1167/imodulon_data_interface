@@ -1,3 +1,3 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS16560,0.6170305203255885,,IS66 family transposase,L,727,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16560
-EQU24_RS20950,0.2929188912481687,,ISKra4 family transposase,L,161,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20950
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS16560,0.6170305203255885,,IS66 family transposase,"Replication, recombination and repair",727,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16560
+EQU24_RS20950,0.2929188912481687,,ISKra4 family transposase,"Replication, recombination and repair",161,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20950

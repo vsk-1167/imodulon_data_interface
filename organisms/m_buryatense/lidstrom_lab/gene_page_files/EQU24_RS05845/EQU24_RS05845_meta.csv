@@ -3,6 +3,6 @@ gene_id,EQU24_RS05845
 name,oadA
 operon,2095
 gene_product,oxaloacetate decarboxylase subunit alpha
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05845"">BioCyc</a>"

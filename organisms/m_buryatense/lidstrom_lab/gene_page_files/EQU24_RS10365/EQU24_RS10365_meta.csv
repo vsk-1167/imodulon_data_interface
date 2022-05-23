@@ -3,6 +3,6 @@ gene_id,EQU24_RS10365
 name,fabF
 operon,1520
 gene_product,beta-ketoacyl-ACP synthase II
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10365"">BioCyc</a>"

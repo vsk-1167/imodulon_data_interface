@@ -1,8 +1,8 @@
 ,0
 gene_id,EQU24_RS05910
-name,<i>Not Available</i>
+name,mmoC
 operon,2086
 gene_product,2Fe-2S iron-sulfur cluster binding domain-containing protein
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05910"">BioCyc</a>"

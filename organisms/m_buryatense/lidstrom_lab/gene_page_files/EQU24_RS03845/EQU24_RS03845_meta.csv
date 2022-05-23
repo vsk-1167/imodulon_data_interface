@@ -3,6 +3,6 @@ gene_id,EQU24_RS03845
 name,rpoC
 operon,2331
 gene_product,DNA-directed RNA polymerase subunit beta'
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03845"">BioCyc</a>"

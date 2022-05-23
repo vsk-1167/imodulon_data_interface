@@ -3,6 +3,6 @@ gene_id,EQU24_RS08905
 name,dapC
 operon,1703
 gene_product,succinyldiaminopimelate transaminase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08905"">BioCyc</a>"

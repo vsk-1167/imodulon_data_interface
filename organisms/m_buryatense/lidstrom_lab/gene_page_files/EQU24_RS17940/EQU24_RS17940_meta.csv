@@ -3,6 +3,6 @@ gene_id,EQU24_RS17940
 name,<i>Not Available</i>
 operon,567
 gene_product,homoserine O-succinyltransferase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17940"">BioCyc</a>"

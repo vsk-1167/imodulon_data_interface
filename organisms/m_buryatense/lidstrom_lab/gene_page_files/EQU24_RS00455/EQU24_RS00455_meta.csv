@@ -3,6 +3,6 @@ gene_id,EQU24_RS00455
 name,tatA
 operon,2769
 gene_product,twin-arginine translocase TatA/TatE family subunit
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00455"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS14980
 name,cysC
 operon,939
 gene_product,adenylyl-sulfate kinase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14980"">BioCyc</a>"

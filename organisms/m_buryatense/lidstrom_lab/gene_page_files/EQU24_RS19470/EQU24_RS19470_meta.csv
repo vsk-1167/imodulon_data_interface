@@ -3,6 +3,6 @@ gene_id,EQU24_RS19470
 name,<i>Not Available</i>
 operon,363
 gene_product,S8 family serine peptidase
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19470"">BioCyc</a>"

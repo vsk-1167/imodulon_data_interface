@@ -3,6 +3,6 @@ gene_id,EQU24_RS03680
 name,mltB
 operon,2345
 gene_product,lytic murein transglycosylase B
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03680"">BioCyc</a>"

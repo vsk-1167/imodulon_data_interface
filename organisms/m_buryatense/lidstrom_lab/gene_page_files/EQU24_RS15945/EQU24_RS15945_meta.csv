@@ -3,6 +3,6 @@ gene_id,EQU24_RS15945
 name,fliP
 operon,809
 gene_product,flagellar type III secretion system pore protein FliP
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15945"">BioCyc</a>"

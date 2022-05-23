@@ -1,2 +1,5 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS00175,0.5117966218276235,,hypothetical protein,L,2808,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00175
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS00175,0.5117966218276235,,hypothetical protein,"Replication, recombination and repair",2808,"DNA binding
+transposase activity
+transposition, DNA-mediated
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00175

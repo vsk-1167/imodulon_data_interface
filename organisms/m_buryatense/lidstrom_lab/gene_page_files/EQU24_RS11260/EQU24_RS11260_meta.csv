@@ -3,6 +3,6 @@ gene_id,EQU24_RS11260
 name,tssM
 operon,1418
 gene_product,type VI secretion system membrane subunit TssM
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11260"">BioCyc</a>"

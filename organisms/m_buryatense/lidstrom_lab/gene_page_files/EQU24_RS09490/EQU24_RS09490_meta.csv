@@ -3,6 +3,6 @@ gene_id,EQU24_RS09490
 name,greA
 operon,1629
 gene_product,transcription elongation factor GreA
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09490"">BioCyc</a>"

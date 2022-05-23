@@ -3,6 +3,6 @@ gene_id,EQU24_RS17530
 name,arsC
 operon,609
 gene_product,arsenate reductase (glutaredoxin)
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17530"">BioCyc</a>"

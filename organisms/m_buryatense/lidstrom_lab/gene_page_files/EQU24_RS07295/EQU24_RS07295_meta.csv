@@ -3,6 +3,6 @@ gene_id,EQU24_RS07295
 name,ybeY
 operon,1907
 gene_product,rRNA maturation RNase YbeY
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07295"">BioCyc</a>"

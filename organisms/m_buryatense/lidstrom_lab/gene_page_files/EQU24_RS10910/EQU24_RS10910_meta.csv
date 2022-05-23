@@ -3,6 +3,6 @@ gene_id,EQU24_RS10910
 name,<i>Not Available</i>
 operon,1459
 gene_product,AAA family ATPase
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10910"">BioCyc</a>"

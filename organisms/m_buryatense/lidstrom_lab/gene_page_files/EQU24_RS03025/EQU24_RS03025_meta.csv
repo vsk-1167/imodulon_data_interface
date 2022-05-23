@@ -3,6 +3,6 @@ gene_id,EQU24_RS03025
 name,hcp
 operon,2419
 gene_product,hydroxylamine reductase
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03025"">BioCyc</a>"

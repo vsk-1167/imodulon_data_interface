@@ -3,6 +3,6 @@ gene_id,EQU24_RS03175
 name,lptC
 operon,2407
 gene_product,LPS export ABC transporter periplasmic protein LptC
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03175"">BioCyc</a>"

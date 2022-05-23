@@ -3,6 +3,6 @@ gene_id,EQU24_RS21140
 name,<i>Not Available</i>
 operon,139
 gene_product,acyl-CoA desaturase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21140"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS18880
 name,ubiE
 operon,443
 gene_product,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE"
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18880"">BioCyc</a>"

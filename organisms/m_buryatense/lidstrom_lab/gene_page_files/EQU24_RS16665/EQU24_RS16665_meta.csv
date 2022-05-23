@@ -3,6 +3,6 @@ gene_id,EQU24_RS16665
 name,<i>Not Available</i>
 operon,716
 gene_product,hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16665"">BioCyc</a>"

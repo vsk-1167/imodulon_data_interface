@@ -3,6 +3,6 @@ gene_id,EQU24_RS10070
 name,pap
 operon,1551
 gene_product,polyphosphate:AMP phosphotransferase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10070"">BioCyc</a>"

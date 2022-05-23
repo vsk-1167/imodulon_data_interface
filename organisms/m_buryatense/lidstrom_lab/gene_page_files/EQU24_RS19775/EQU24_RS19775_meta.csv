@@ -3,6 +3,6 @@ gene_id,EQU24_RS19775
 name,<i>Not Available</i>
 operon,326
 gene_product,ABC transporter substrate-binding protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19775"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS02800
 name,pyrF
 operon,2448
 gene_product,orotidine-5'-phosphate decarboxylase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02800"">BioCyc</a>"

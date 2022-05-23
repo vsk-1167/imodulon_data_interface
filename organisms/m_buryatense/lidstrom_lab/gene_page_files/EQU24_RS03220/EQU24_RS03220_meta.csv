@@ -3,6 +3,6 @@ gene_id,EQU24_RS03220
 name,minC
 operon,2404
 gene_product,septum site-determining protein MinC
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03220"">BioCyc</a>"

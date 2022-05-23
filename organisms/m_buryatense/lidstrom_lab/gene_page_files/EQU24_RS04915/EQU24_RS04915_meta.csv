@@ -3,6 +3,6 @@ gene_id,EQU24_RS04915
 name,fliE
 operon,2211
 gene_product,flagellar hook-basal body complex protein FliE
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04915"">BioCyc</a>"

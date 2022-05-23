@@ -3,6 +3,6 @@ gene_id,EQU24_RS20155
 name,<i>Not Available</i>
 operon,275
 gene_product,type I secretion system permease/ATPase
-cog,V
+cog,Defense mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20155"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS01765
 name,<i>Not Available</i>
 operon,2590
 gene_product,DUF504 domain-containing protein
-cog,A
+cog,RNA processing and modification
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01765"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS02620
 name,rsxA
 operon,2472
 gene_product,electron transport complex subunit RsxA
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02620"">BioCyc</a>"

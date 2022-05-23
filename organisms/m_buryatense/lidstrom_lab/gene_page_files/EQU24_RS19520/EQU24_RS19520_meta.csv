@@ -3,6 +3,6 @@ gene_id,EQU24_RS19520
 name,<i>Not Available</i>
 operon,356
 gene_product,type II secretion system protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19520"">BioCyc</a>"

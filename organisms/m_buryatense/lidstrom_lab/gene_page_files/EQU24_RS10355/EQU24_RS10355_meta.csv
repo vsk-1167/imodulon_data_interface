@@ -3,6 +3,6 @@ gene_id,EQU24_RS10355
 name,mltG
 operon,1520
 gene_product,endolytic transglycosylase MltG
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10355"">BioCyc</a>"

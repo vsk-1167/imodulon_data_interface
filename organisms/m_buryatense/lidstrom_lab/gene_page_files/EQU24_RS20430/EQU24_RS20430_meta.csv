@@ -3,6 +3,6 @@ gene_id,EQU24_RS20430
 name,<i>Not Available</i>
 operon,238
 gene_product,F0F1 ATP synthase subunit C
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20430"">BioCyc</a>"

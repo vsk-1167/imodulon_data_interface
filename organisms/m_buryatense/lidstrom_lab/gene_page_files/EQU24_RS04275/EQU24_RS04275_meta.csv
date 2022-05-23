@@ -3,6 +3,6 @@ gene_id,EQU24_RS04275
 name,<i>Not Available</i>
 operon,2294
 gene_product,pilin
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04275"">BioCyc</a>"

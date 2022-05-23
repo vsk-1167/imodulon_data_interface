@@ -3,6 +3,6 @@ gene_id,EQU24_RS10190
 name,<i>Not Available</i>
 operon,1536
 gene_product,type II toxin-antitoxin system RatA family toxin
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10190"">BioCyc</a>"

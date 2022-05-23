@@ -3,6 +3,6 @@ gene_id,EQU24_RS15280
 name,gap
 operon,900
 gene_product,type I glyceraldehyde-3-phosphate dehydrogenase
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15280"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS04830
 name,fabZ
 operon,2222
 gene_product,3-hydroxyacyl-ACP dehydratase FabZ
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04830"">BioCyc</a>"

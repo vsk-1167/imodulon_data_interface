@@ -3,6 +3,6 @@ gene_id,EQU24_RS05130
 name,<i>Not Available</i>
 operon,2183
 gene_product,prepilin-type N-terminal cleavage/methylation domain-containing protein
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05130"">BioCyc</a>"

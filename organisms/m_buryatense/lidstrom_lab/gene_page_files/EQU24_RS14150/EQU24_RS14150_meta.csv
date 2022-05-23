@@ -3,6 +3,6 @@ gene_id,EQU24_RS14150
 name,bioC
 operon,1052
 gene_product,malonyl-ACP O-methyltransferase BioC
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14150"">BioCyc</a>"

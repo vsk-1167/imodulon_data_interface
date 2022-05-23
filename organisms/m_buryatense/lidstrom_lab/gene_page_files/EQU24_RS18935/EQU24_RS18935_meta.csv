@@ -3,6 +3,6 @@ gene_id,EQU24_RS18935
 name,<i>Not Available</i>
 operon,437
 gene_product,class I SAM-dependent methyltransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18935"">BioCyc</a>"

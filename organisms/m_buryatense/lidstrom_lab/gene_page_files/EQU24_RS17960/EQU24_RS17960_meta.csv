@@ -3,6 +3,6 @@ gene_id,EQU24_RS17960
 name,purM
 operon,564
 gene_product,phosphoribosylformylglycinamidine cyclo-ligase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17960"">BioCyc</a>"

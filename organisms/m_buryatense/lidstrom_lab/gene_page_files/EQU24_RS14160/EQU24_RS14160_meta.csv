@@ -3,6 +3,6 @@ gene_id,EQU24_RS14160
 name,bioF
 operon,1052
 gene_product,8-amino-7-oxononanoate synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14160"">BioCyc</a>"

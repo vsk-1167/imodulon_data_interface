@@ -1,10 +1,38 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS05885,0.292492094648297,,methane monooxygenase,H,2088,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05885
-EQU24_RS05895,0.2808010809364716,,methane monooxygenase,C,2087,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05895
-EQU24_RS05890,0.2791187539818474,,methane monooxygenase,H,2087,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05890
-EQU24_RS05900,0.2749992134497268,,hypothetical protein,H,2087,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05900
-EQU24_RS05905,0.254309486255161,mmoD,soluble methane monooxygenase-binding protein MmoD,-,2086,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05905
-EQU24_RS05910,0.2473641417162823,,2Fe-2S iron-sulfur cluster binding domain-containing protein,C,2086,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05910
-EQU24_RS05925,0.238047948373397,,chaperonin GroEL,O,2083,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05925
-EQU24_RS05920,0.2378922672816291,,hypothetical protein,-,2084,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05920
-EQU24_RS05915,0.2211992740187049,,BLUF domain-containing protein,S,2085,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05915
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS05885,0.292492094648297,mmoX,methane monooxygenase,Coenzyme transport and metabolism,2088,"methane monooxygenase activity
+methane metabolic process
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+methane monooxygenase complex
+metal ion binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05885
+EQU24_RS05895,0.2808010809364716,mmoB,methane monooxygenase,Energy production and conversion,2087,"methane monooxygenase activity
+methane monooxygenase complex
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+methane metabolic process
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05895
+EQU24_RS05890,0.2791187539818474,mmoY,methane monooxygenase,Coenzyme transport and metabolism,2087,"methane monooxygenase activity
+methane monooxygenase complex
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+methane metabolic process
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05890
+EQU24_RS05900,0.2749992134497268,mmoZ,hypothetical protein,Coenzyme transport and metabolism,2087,"methane monooxygenase activity
+methane metabolic process
+",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05900
+EQU24_RS05905,0.254309486255161,mmoD,soluble methane monooxygenase-binding protein MmoD,No COG annotation,2086,"methane monooxygenase activity
+methane monooxygenase complex
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+methane metabolic process
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05905
+EQU24_RS05910,0.2473641417162823,mmoC,2Fe-2S iron-sulfur cluster binding domain-containing protein,Energy production and conversion,2086,"methane monooxygenase activity
+chlorosome
+metal ion binding
+electron transport chain
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05910
+EQU24_RS05925,0.238047948373397,mmoG,likely chaperone for smmo,"Post-translational modification, protein turnover, and chaperones",2083,"ATP binding
+GroEL-GroES complex
+chaperone-mediated protein folding
+protein refolding
+chaperonin ATPase complex",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05925
+EQU24_RS05920,0.2378922672816291,,hypothetical protein,No COG annotation,2084,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05920
+EQU24_RS05915,0.2211992740187049,,BLUF domain-containing protein,Function unknown,2085,"FAD binding
+blue light signaling pathway
+blue light photoreceptor activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05915

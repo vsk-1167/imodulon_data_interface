@@ -3,6 +3,6 @@ gene_id,EQU24_RS14925
 name,urtB
 operon,948
 gene_product,urea ABC transporter permease subunit UrtB
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14925"">BioCyc</a>"

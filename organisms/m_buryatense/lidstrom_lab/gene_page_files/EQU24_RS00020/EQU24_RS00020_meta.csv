@@ -3,6 +3,6 @@ gene_id,EQU24_RS00020
 name,gyrB
 operon,2828
 gene_product,DNA topoisomerase (ATP-hydrolyzing) subunit B
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00020"">BioCyc</a>"

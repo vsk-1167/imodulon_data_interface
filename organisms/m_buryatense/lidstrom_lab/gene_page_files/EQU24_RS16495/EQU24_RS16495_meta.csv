@@ -3,6 +3,6 @@ gene_id,EQU24_RS16495
 name,<i>Not Available</i>
 operon,736
 gene_product,restriction endonuclease
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16495"">BioCyc</a>"

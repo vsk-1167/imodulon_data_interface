@@ -3,6 +3,6 @@ gene_id,EQU24_RS15105
 name,<i>Not Available</i>
 operon,923
 gene_product,endopeptidase La
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15105"">BioCyc</a>"

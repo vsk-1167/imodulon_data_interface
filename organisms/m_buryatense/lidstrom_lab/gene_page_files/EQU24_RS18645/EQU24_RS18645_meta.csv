@@ -3,6 +3,6 @@ gene_id,EQU24_RS18645
 name,<i>Not Available</i>
 operon,475
 gene_product,DUF4912 domain-containing protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18645"">BioCyc</a>"

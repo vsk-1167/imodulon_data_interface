@@ -3,6 +3,6 @@ gene_id,EQU24_RS17080
 name,nifT
 operon,664
 gene_product,putative nitrogen fixation protein NifT
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17080"">BioCyc</a>"

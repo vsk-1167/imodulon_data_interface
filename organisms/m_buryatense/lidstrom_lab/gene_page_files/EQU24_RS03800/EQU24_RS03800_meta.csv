@@ -3,6 +3,6 @@ gene_id,EQU24_RS03800
 name,tuf
 operon,2336
 gene_product,elongation factor Tu
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03800"">BioCyc</a>"

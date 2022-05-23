@@ -3,6 +3,6 @@ gene_id,EQU24_RS15585
 name,<i>Not Available</i>
 operon,854
 gene_product,DUF3683 domain-containing protein
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15585"">BioCyc</a>"

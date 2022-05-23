@@ -3,6 +3,6 @@ gene_id,EQU24_RS17640
 name,rpsP
 operon,599
 gene_product,30S ribosomal protein S16
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17640"">BioCyc</a>"

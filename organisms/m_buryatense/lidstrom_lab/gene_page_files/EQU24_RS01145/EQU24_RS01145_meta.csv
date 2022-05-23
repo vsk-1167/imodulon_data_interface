@@ -3,6 +3,6 @@ gene_id,EQU24_RS01145
 name,<i>Not Available</i>
 operon,2672
 gene_product,3'-5' exonuclease
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01145"">BioCyc</a>"

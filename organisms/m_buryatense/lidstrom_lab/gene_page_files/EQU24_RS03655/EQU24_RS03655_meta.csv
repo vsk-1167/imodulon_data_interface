@@ -3,6 +3,6 @@ gene_id,EQU24_RS03655
 name,lipA
 operon,2347
 gene_product,lipoyl synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03655"">BioCyc</a>"

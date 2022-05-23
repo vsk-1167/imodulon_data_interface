@@ -3,6 +3,6 @@ gene_id,EQU24_RS08435
 name,<i>Not Available</i>
 operon,1765
 gene_product,chemotaxis protein CheB
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08435"">BioCyc</a>"

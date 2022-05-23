@@ -3,6 +3,6 @@ gene_id,EQU24_RS17120
 name,grxD
 operon,661
 gene_product,Grx4 family monothiol glutaredoxin
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17120"">BioCyc</a>"

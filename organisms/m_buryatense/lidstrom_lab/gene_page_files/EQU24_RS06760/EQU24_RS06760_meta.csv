@@ -3,6 +3,6 @@ gene_id,EQU24_RS06760
 name,<i>Not Available</i>
 operon,1973
 gene_product,sulfatase-like hydrolase/transferase
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06760"">BioCyc</a>"

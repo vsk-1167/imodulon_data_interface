@@ -3,6 +3,6 @@ gene_id,EQU24_RS10430
 name,folE
 operon,1512
 gene_product,GTP cyclohydrolase I FolE
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10430"">BioCyc</a>"

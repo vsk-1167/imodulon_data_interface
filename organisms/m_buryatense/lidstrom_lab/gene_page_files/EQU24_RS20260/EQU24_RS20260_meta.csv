@@ -3,6 +3,6 @@ gene_id,EQU24_RS20260
 name,cas1e
 operon,257
 gene_product,type I-E CRISPR-associated endonuclease Cas1
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20260"">BioCyc</a>"

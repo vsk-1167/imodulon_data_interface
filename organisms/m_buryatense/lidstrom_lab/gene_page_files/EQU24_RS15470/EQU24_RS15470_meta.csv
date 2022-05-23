@@ -3,6 +3,6 @@ gene_id,EQU24_RS15470
 name,tusC
 operon,872
 gene_product,sulfurtransferase complex subunit TusC
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15470"">BioCyc</a>"

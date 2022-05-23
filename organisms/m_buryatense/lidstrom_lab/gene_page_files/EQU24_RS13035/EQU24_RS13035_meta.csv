@@ -3,6 +3,6 @@ gene_id,EQU24_RS13035
 name,mtgA
 operon,1197
 gene_product,monofunctional biosynthetic peptidoglycan transglycosylase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13035"">BioCyc</a>"

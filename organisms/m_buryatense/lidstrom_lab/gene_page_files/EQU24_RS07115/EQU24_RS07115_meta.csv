@@ -3,6 +3,6 @@ gene_id,EQU24_RS07115
 name,<i>Not Available</i>
 operon,1929
 gene_product,glutamate--cysteine ligase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07115"">BioCyc</a>"

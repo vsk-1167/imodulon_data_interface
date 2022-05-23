@@ -3,6 +3,6 @@ gene_id,EQU24_RS12565
 name,truA
 operon,1253
 gene_product,tRNA pseudouridine(38-40) synthase TruA
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12565"">BioCyc</a>"

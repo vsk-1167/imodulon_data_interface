@@ -3,6 +3,6 @@ gene_id,EQU24_RS01595
 name,<i>Not Available</i>
 operon,2610
 gene_product,putative motility protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01595"">BioCyc</a>"

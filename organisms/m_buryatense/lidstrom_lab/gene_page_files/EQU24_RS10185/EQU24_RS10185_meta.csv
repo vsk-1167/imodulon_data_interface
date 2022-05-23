@@ -3,6 +3,6 @@ gene_id,EQU24_RS10185
 name,<i>Not Available</i>
 operon,1536
 gene_product,sodium-dependent transporter
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10185"">BioCyc</a>"

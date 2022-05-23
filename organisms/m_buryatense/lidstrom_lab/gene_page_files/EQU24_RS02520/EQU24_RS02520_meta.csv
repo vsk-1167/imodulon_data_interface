@@ -3,6 +3,6 @@ gene_id,EQU24_RS02520
 name,<i>Not Available</i>
 operon,2483
 gene_product,RNA-binding protein
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02520"">BioCyc</a>"

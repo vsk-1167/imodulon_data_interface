@@ -1,7 +1,24 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS18140,0.3424578000801345,,"PQQ-dependent dehydrogenase, methanol/ethanol family",G,542,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18140
-EQU24_RS18135,0.3380533294447507,moxJ,methanol oxidation system protein MoxJ,E,543,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18135
-EQU24_RS18130,0.3346951978705718,moxG,"cytochrome c(L), periplasmic",C,543,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18130
-EQU24_RS18125,0.3070846196461891,,methanol dehydrogenase,M,543,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18125
-EQU24_RS18120,0.2536275720016262,,MoxR family ATPase,S,544,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18120
-EQU24_RS18110,0.2514372749585444,,MxaS protein,S,545,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18110
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS18140,0.3424578000801345,moxF,"PQQ-dependent dehydrogenase, methanol/ethanol family",Carbohydrate transport and metabolism,542,"calcium ion binding
+alcohol dehydrogenase (cytochrome c(L)) activity
+alcohol dehydrogenase (cytochrome c(L)) activity
+alcohol dehydrogenase (cytochrome c(L)) activity
+plasma membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18140
+EQU24_RS18135,0.3380533294447507,moxJ,methanol oxidation system protein MoxJ,Amino acid transport and metabolism,543,"methanol catabolic process
+periplasmic space",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18135
+EQU24_RS18130,0.3346951978705718,moxG,"cytochrome c(L), periplasmic",Energy production and conversion,543,"iron ion binding
+heme binding
+electron transport chain
+electron transfer activity
+periplasmic space",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18130
+EQU24_RS18125,0.3070846196461891,moxI,methanol dehydrogenase,Cell wall/membrane/envelope biogenesis,543,"alcohol dehydrogenase (NAD+) activity
+methanol oxidation
+alcohol dehydrogenase (cytochrome c(L)) activity
+alcohol dehydrogenase (cytochrome c(L)) activity
+alcohol dehydrogenase (cytochrome c(L)) activity",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18125
+EQU24_RS18120,0.2536275720016262,moxR,MoxR family ATPase,Function unknown,544,"ATP hydrolysis activity
+ATP binding
+cytoplasm
+intracellular anatomical structure
+cellular_component",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18120
+EQU24_RS18110,0.2514372749585444,mxaS,MxaS protein,Function unknown,545,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18110

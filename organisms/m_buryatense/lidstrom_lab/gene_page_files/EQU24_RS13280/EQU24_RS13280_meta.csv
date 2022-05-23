@@ -3,6 +3,6 @@ gene_id,EQU24_RS13280
 name,surE
 operon,1164
 gene_product,5'/3'-nucleotidase SurE
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13280"">BioCyc</a>"

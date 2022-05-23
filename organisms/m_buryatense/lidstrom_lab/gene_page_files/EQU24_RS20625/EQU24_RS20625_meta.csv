@@ -3,6 +3,6 @@ gene_id,EQU24_RS20625
 name,<i>Not Available</i>
 operon,210
 gene_product,sterol desaturase family protein
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20625"">BioCyc</a>"

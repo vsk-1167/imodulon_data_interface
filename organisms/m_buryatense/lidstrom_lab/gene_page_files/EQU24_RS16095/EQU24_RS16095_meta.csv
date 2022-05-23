@@ -3,6 +3,6 @@ gene_id,EQU24_RS16095
 name,<i>Not Available</i>
 operon,789
 gene_product,segregation/condensation protein A
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS16095"">BioCyc</a>"

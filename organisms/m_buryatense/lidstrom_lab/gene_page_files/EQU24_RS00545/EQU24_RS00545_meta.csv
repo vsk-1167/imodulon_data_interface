@@ -3,6 +3,6 @@ gene_id,EQU24_RS00545
 name,<i>Not Available</i>
 operon,2757
 gene_product,16S rRNA (uracil(1498)-N(3))-methyltransferase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00545"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS18035
 name,<i>Not Available</i>
 operon,554
 gene_product,methionyl-tRNA formyltransferase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18035"">BioCyc</a>"

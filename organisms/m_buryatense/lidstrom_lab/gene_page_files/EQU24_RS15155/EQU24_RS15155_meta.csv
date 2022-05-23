@@ -3,6 +3,6 @@ gene_id,EQU24_RS15155
 name,<i>Not Available</i>
 operon,915
 gene_product,DHA2 family efflux MFS transporter permease subunit
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15155"">BioCyc</a>"

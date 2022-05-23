@@ -3,6 +3,6 @@ gene_id,EQU24_RS20555
 name,<i>Not Available</i>
 operon,221
 gene_product,pyridoxamine 5'-phosphate oxidase
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20555"">BioCyc</a>"

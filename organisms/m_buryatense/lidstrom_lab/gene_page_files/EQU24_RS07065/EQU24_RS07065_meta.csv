@@ -3,6 +3,6 @@ gene_id,EQU24_RS07065
 name,<i>Not Available</i>
 operon,1933
 gene_product,O-acetyl-ADP-ribose deacetylase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07065"">BioCyc</a>"

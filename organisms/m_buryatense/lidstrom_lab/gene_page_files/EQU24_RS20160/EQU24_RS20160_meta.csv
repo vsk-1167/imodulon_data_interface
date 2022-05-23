@@ -3,6 +3,6 @@ gene_id,EQU24_RS20160
 name,<i>Not Available</i>
 operon,275
 gene_product,HlyD family type I secretion periplasmic adaptor subunit
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20160"">BioCyc</a>"

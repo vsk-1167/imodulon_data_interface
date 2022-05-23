@@ -3,6 +3,6 @@ gene_id,EQU24_RS10175
 name,<i>Not Available</i>
 operon,1538
 gene_product,HopJ type III effector protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10175"">BioCyc</a>"

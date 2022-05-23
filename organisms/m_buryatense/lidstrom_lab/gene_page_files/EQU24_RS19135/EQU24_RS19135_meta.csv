@@ -3,6 +3,6 @@ gene_id,EQU24_RS19135
 name,<i>Not Available</i>
 operon,409
 gene_product,sigma-54-dependent Fis family transcriptional regulator
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19135"">BioCyc</a>"

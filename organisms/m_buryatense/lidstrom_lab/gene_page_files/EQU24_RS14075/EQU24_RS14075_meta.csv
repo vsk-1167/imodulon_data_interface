@@ -3,6 +3,6 @@ gene_id,EQU24_RS14075
 name,rpoH
 operon,1060
 gene_product,RNA polymerase sigma factor RpoH
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14075"">BioCyc</a>"

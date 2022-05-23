@@ -3,6 +3,6 @@ gene_id,EQU24_RS02105
 name,rep
 operon,2539
 gene_product,DNA helicase Rep
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02105"">BioCyc</a>"

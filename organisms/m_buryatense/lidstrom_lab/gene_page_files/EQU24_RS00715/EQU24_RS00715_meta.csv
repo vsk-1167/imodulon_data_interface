@@ -3,6 +3,6 @@ gene_id,EQU24_RS00715
 name,djlA
 operon,2732
 gene_product,co-chaperone DjlA
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00715"">BioCyc</a>"

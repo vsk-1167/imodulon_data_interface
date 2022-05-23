@@ -3,6 +3,6 @@ gene_id,EQU24_RS14405
 name,hemN
 operon,1021
 gene_product,oxygen-independent coproporphyrinogen III oxidase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14405"">BioCyc</a>"

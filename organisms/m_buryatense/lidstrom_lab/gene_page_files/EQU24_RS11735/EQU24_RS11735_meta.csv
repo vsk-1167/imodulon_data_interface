@@ -3,6 +3,6 @@ gene_id,EQU24_RS11735
 name,mutL
 operon,1350
 gene_product,DNA mismatch repair endonuclease MutL
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11735"">BioCyc</a>"

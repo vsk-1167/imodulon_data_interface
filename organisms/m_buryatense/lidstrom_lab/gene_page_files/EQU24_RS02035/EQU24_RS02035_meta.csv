@@ -3,6 +3,6 @@ gene_id,EQU24_RS02035
 name,rdgB
 operon,2553
 gene_product,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02035"">BioCyc</a>"

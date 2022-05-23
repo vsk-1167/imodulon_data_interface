@@ -3,6 +3,6 @@ gene_id,EQU24_RS08685
 name,<i>Not Available</i>
 operon,1732
 gene_product,2Fe-2S iron-sulfur cluster binding domain-containing protein
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08685"">BioCyc</a>"

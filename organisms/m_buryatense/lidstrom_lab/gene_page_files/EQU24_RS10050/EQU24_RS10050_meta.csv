@@ -3,6 +3,6 @@ gene_id,EQU24_RS10050
 name,<i>Not Available</i>
 operon,1555
 gene_product,twitching motility protein PilT
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10050"">BioCyc</a>"

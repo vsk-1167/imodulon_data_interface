@@ -3,6 +3,6 @@ gene_id,EQU24_RS20640
 name,<i>Not Available</i>
 operon,209
 gene_product,helicase SNF2
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20640"">BioCyc</a>"

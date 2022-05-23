@@ -3,6 +3,6 @@ gene_id,EQU24_RS19685
 name,ftsA
 operon,331
 gene_product,cell division protein FtsA
-cog,D
+cog,"Cell cycle control, cell division, chromosome partitioning"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19685"">BioCyc</a>"

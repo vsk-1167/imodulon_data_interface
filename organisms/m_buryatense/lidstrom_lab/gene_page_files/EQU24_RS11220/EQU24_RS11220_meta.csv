@@ -3,6 +3,6 @@ gene_id,EQU24_RS11220
 name,tssE
 operon,1423
 gene_product,type VI secretion system baseplate subunit TssE
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11220"">BioCyc</a>"

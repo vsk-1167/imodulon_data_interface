@@ -3,6 +3,6 @@ gene_id,EQU24_RS13080
 name,<i>Not Available</i>
 operon,1188
 gene_product,poly(3-hydroxybutyrate) depolymerase
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13080"">BioCyc</a>"

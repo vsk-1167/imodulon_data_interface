@@ -3,6 +3,6 @@ gene_id,EQU24_RS02670
 name,<i>Not Available</i>
 operon,2464
 gene_product,winged helix-turn-helix transcriptional regulator
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02670"">BioCyc</a>"

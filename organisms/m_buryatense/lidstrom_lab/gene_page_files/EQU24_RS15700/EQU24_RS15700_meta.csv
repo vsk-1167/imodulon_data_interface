@@ -3,6 +3,6 @@ gene_id,EQU24_RS15700
 name,<i>Not Available</i>
 operon,835
 gene_product,CBS domain-containing protein
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15700"">BioCyc</a>"

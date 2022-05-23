@@ -3,6 +3,6 @@ gene_id,EQU24_RS07835
 name,dksA
 operon,1846
 gene_product,RNA polymerase-binding protein DksA
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07835"">BioCyc</a>"

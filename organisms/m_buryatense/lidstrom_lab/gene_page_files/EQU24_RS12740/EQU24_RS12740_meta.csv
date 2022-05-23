@@ -3,6 +3,6 @@ gene_id,EQU24_RS12740
 name,purH
 operon,1234
 gene_product,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12740"">BioCyc</a>"

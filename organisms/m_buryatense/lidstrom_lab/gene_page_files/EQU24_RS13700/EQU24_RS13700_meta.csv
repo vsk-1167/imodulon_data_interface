@@ -3,6 +3,6 @@ gene_id,EQU24_RS13700
 name,arsD
 operon,1112
 gene_product,arsenite efflux transporter metallochaperone ArsD
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13700"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS08020
 name,egtD
 operon,1822
 gene_product,L-histidine N(alpha)-methyltransferase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08020"">BioCyc</a>"

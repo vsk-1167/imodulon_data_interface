@@ -3,6 +3,6 @@ gene_id,EQU24_RS07630
 name,<i>Not Available</i>
 operon,1867
 gene_product,DNA phosphorothioation-associated putative methyltransferase
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07630"">BioCyc</a>"

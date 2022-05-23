@@ -3,6 +3,6 @@ gene_id,EQU24_RS00720
 name,<i>Not Available</i>
 operon,2731
 gene_product,phosphoribosylaminoimidazolesuccinocarboxamide synthase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00720"">BioCyc</a>"

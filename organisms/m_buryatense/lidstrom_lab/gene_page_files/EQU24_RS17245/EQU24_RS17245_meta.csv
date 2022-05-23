@@ -3,6 +3,6 @@ gene_id,EQU24_RS17245
 name,rsxG
 operon,646
 gene_product,electron transport complex subunit RsxG
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17245"">BioCyc</a>"

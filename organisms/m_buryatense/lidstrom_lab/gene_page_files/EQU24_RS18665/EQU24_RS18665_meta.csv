@@ -3,6 +3,6 @@ gene_id,EQU24_RS18665
 name,glgB
 operon,473
 gene_product,"1,4-alpha-glucan branching protein GlgB"
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18665"">BioCyc</a>"

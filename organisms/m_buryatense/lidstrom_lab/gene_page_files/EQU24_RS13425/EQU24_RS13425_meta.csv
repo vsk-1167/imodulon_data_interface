@@ -3,6 +3,6 @@ gene_id,EQU24_RS13425
 name,<i>Not Available</i>
 operon,1149
 gene_product,septal ring lytic transglycosylase RlpA family protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13425"">BioCyc</a>"

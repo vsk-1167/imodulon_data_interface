@@ -3,6 +3,6 @@ gene_id,EQU24_RS14455
 name,ccmA
 operon,1019
 gene_product,cytochrome c biogenesis heme-transporting ATPase CcmA
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14455"">BioCyc</a>"

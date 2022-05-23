@@ -3,6 +3,6 @@ gene_id,EQU24_RS18185
 name,rimK
 operon,535
 gene_product,30S ribosomal protein S6--L-glutamate ligase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18185"">BioCyc</a>"

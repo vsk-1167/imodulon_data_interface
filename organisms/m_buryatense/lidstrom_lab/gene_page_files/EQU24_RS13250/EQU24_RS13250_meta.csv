@@ -3,6 +3,6 @@ gene_id,EQU24_RS13250
 name,<i>Not Available</i>
 operon,1167
 gene_product,DEAD/DEAH box helicase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13250"">BioCyc</a>"

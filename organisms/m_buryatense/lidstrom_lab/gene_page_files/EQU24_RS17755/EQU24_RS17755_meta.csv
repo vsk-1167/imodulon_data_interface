@@ -3,6 +3,6 @@ gene_id,EQU24_RS17755
 name,rfbH
 operon,587
 gene_product,lipopolysaccharide biosynthesis protein RfbH
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17755"">BioCyc</a>"

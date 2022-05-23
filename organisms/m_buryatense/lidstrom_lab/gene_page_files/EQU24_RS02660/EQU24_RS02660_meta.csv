@@ -3,6 +3,6 @@ gene_id,EQU24_RS02660
 name,secB
 operon,2466
 gene_product,protein-export chaperone SecB
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02660"">BioCyc</a>"

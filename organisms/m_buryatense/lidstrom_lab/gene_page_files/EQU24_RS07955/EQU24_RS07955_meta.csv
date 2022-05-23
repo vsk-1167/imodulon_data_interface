@@ -3,6 +3,6 @@ gene_id,EQU24_RS07955
 name,<i>Not Available</i>
 operon,1830
 gene_product,<i>Not Available</i>
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07955"">BioCyc</a>"

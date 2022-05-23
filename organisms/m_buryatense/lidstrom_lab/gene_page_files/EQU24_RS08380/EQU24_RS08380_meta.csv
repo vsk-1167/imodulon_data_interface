@@ -3,6 +3,6 @@ gene_id,EQU24_RS08380
 name,<i>Not Available</i>
 operon,1773
 gene_product,transporter substrate-binding domain-containing protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08380"">BioCyc</a>"

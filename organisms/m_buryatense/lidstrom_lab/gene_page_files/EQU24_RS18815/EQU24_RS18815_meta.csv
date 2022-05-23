@@ -3,6 +3,6 @@ gene_id,EQU24_RS18815
 name,<i>Not Available</i>
 operon,452
 gene_product,peptidylprolyl isomerase
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18815"">BioCyc</a>"

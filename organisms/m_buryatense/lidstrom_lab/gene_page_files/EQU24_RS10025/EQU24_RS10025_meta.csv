@@ -3,6 +3,6 @@ gene_id,EQU24_RS10025
 name,<i>Not Available</i>
 operon,1558
 gene_product,STAS domain-containing protein
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10025"">BioCyc</a>"

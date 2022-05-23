@@ -3,6 +3,6 @@ gene_id,EQU24_RS03420
 name,<i>Not Available</i>
 operon,2382
 gene_product,circularly permuted type 2 ATP-grasp protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03420"">BioCyc</a>"

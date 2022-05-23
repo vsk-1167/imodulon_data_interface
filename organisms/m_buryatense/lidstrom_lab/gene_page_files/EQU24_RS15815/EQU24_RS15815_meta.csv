@@ -3,6 +3,6 @@ gene_id,EQU24_RS15815
 name,rsmD
 operon,820
 gene_product,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15815"">BioCyc</a>"

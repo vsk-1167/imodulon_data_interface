@@ -3,6 +3,6 @@ gene_id,EQU24_RS12045
 name,<i>Not Available</i>
 operon,1318
 gene_product,cobalamin biosynthesis protein CbiG
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12045"">BioCyc</a>"

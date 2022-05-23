@@ -3,6 +3,6 @@ gene_id,EQU24_RS03700
 name,mreC
 operon,2344
 gene_product,rod shape-determining protein MreC
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03700"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS04445
 name,<i>Not Available</i>
 operon,2274
 gene_product,class I SAM-dependent methyltransferase
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04445"">BioCyc</a>"

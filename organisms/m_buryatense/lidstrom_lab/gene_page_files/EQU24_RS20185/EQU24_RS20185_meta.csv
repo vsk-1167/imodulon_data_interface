@@ -3,6 +3,6 @@ gene_id,EQU24_RS20185
 name,<i>Not Available</i>
 operon,271
 gene_product,methyltransferase domain-containing protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20185"">BioCyc</a>"

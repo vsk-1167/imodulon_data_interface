@@ -3,6 +3,6 @@ gene_id,EQU24_RS13570
 name,<i>Not Available</i>
 operon,1132
 gene_product,mechanosensitive ion channel
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13570"">BioCyc</a>"

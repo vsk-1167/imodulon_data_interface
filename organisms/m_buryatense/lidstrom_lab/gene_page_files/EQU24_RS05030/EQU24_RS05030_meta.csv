@@ -3,6 +3,6 @@ gene_id,EQU24_RS05030
 name,<i>Not Available</i>
 operon,2198
 gene_product,protein-glutamate O-methyltransferase CheR
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05030"">BioCyc</a>"

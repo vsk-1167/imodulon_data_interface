@@ -3,6 +3,6 @@ gene_id,EQU24_RS06310
 name,<i>Not Available</i>
 operon,2036
 gene_product,DUF3365 domain-containing protein
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06310"">BioCyc</a>"

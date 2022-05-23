@@ -3,6 +3,6 @@ gene_id,EQU24_RS19970
 name,<i>Not Available</i>
 operon,298
 gene_product,transcription antitermination protein NusG
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19970"">BioCyc</a>"

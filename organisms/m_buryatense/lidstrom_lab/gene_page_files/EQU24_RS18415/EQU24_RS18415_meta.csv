@@ -3,6 +3,6 @@ gene_id,EQU24_RS18415
 name,<i>Not Available</i>
 operon,503
 gene_product,putative addiction module antidote protein
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18415"">BioCyc</a>"

@@ -1,13 +1,22 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS20575,0.2645251660675596,,hypothetical protein,G,218,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20575
-EQU24_RS20555,0.2497158369477371,,pyridoxamine 5'-phosphate oxidase,P,221,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20555
-EQU24_RS20560,0.2483005614264462,,hypothetical protein,P,220,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20560
-EQU24_RS20565,0.2389041202618642,,hypothetical protein,-,220,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20565
-EQU24_RS20585,0.2373396469190844,,TonB-dependent hemoglobin/transferrin/lactoferrin family receptor,P,217,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20585
-EQU24_RS20590,0.2306937591074599,,hypothetical protein,-,216,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20590
-EQU24_RS20550,0.2248460802246774,,hemin ABC transporter substrate-binding protein,P,222,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20550
-EQU24_RS20570,0.1761410628686831,,hypothetical protein,-,219,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20570
-EQU24_RS20545,0.1728076056396665,,iron chelate uptake ABC transporter family permease subunit,P,222,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20545
-EQU24_RS19160,0.1713083351478045,,TonB-dependent receptor,P,406,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19160
-EQU24_RS19155,0.1540384297723905,,DUF2182 domain-containing protein,S,407,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19155
-EQU24_RS20580,0.1469339541102187,,hypothetical protein,-,217,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20580
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS20575,0.2645251660675596,,hypothetical protein,Carbohydrate transport and metabolism,218,"protein binding
+membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20575
+EQU24_RS20555,0.2497158369477371,,pyridoxamine 5'-phosphate oxidase,Inorganic ion transport and metabolism,221,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20555
+EQU24_RS20560,0.2483005614264462,,hypothetical protein,Inorganic ion transport and metabolism,220,iron ion transport,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20560
+EQU24_RS20565,0.2389041202618642,,hypothetical protein,No COG annotation,220,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20565
+EQU24_RS20585,0.2373396469190844,,TonB-dependent hemoglobin/transferrin/lactoferrin family receptor,Inorganic ion transport and metabolism,217,"heme transport
+cell outer membrane
+heme transmembrane transporter activity
+integral component of membrane
+transmembrane transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20585
+EQU24_RS20590,0.2306937591074599,,hypothetical protein,No COG annotation,216,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20590
+EQU24_RS20550,0.2248460802246774,,hemin ABC transporter substrate-binding protein,Inorganic ion transport and metabolism,222,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20550
+EQU24_RS20570,0.1761410628686831,,hypothetical protein,No COG annotation,219,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20570
+EQU24_RS20545,0.1728076056396665,,iron chelate uptake ABC transporter family permease subunit,Inorganic ion transport and metabolism,222,"plasma membrane
+integral component of membrane
+transmembrane transporter activity
+transmembrane transport",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20545
+EQU24_RS19160,0.1713083351478045,,TonB-dependent receptor,Inorganic ion transport and metabolism,406,"cell outer membrane
+integral component of membrane",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19160
+EQU24_RS19155,0.1540384297723905,,DUF2182 domain-containing protein,Function unknown,407,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19155
+EQU24_RS20580,0.1469339541102187,,hypothetical protein,No COG annotation,217,,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20580

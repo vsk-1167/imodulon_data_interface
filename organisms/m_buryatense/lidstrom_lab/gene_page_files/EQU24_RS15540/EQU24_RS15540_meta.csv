@@ -3,6 +3,6 @@ gene_id,EQU24_RS15540
 name,<i>Not Available</i>
 operon,861
 gene_product,SapC family protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15540"">BioCyc</a>"

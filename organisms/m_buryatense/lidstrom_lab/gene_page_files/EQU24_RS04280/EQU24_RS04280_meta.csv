@@ -3,6 +3,6 @@ gene_id,EQU24_RS04280
 name,<i>Not Available</i>
 operon,2293
 gene_product,tetratricopeptide repeat protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04280"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS21685
 name,<i>Not Available</i>
 operon,57
 gene_product,oxidative damage protection protein
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21685"">BioCyc</a>"

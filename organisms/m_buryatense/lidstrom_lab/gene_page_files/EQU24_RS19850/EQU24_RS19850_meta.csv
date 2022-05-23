@@ -3,6 +3,6 @@ gene_id,EQU24_RS19850
 name,amrB
 operon,315
 gene_product,AmmeMemoRadiSam system protein B
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19850"">BioCyc</a>"

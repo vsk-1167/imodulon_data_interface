@@ -3,6 +3,6 @@ gene_id,EQU24_RS05595
 name,<i>Not Available</i>
 operon,2129
 gene_product,bilirubin oxidase
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05595"">BioCyc</a>"

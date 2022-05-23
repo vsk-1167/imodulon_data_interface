@@ -3,6 +3,6 @@ gene_id,EQU24_RS20750
 name,<i>Not Available</i>
 operon,192
 gene_product,assimilatory sulfite reductase (NADPH) flavoprotein subunit
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20750"">BioCyc</a>"

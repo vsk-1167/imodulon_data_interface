@@ -3,6 +3,6 @@ gene_id,EQU24_RS19585
 name,<i>Not Available</i>
 operon,348
 gene_product,PilT/PilU family type 4a pilus ATPase
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19585"">BioCyc</a>"

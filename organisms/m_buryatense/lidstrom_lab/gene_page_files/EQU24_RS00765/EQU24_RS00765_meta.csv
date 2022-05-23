@@ -3,6 +3,6 @@ gene_id,EQU24_RS00765
 name,<i>Not Available</i>
 operon,2726
 gene_product,pyrroline-5-carboxylate reductase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00765"">BioCyc</a>"

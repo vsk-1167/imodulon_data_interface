@@ -3,6 +3,6 @@ gene_id,EQU24_RS10115
 name,hypB
 operon,1548
 gene_product,hydrogenase nickel incorporation protein HypB
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10115"">BioCyc</a>"

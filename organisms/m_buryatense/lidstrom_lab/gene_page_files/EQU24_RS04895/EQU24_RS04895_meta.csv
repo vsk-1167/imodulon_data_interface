@@ -3,6 +3,6 @@ gene_id,EQU24_RS04895
 name,<i>Not Available</i>
 operon,2214
 gene_product,HlyC/CorC family transporter
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04895"">BioCyc</a>"

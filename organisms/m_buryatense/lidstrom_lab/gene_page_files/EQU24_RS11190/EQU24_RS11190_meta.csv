@@ -3,6 +3,6 @@ gene_id,EQU24_RS11190
 name,tssI
 operon,1427
 gene_product,type VI secretion system tip protein VgrG
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11190"">BioCyc</a>"

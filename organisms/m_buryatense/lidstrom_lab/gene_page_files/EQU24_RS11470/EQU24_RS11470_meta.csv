@@ -3,6 +3,6 @@ gene_id,EQU24_RS11470
 name,mobA
 operon,1388
 gene_product,molybdenum cofactor guanylyltransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11470"">BioCyc</a>"

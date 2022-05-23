@@ -3,6 +3,6 @@ gene_id,EQU24_RS10865
 name,cas2
 operon,1462
 gene_product,CRISPR-associated endonuclease Cas2
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10865"">BioCyc</a>"

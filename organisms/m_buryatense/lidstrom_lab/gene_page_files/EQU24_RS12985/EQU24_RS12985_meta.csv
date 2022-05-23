@@ -3,6 +3,6 @@ gene_id,EQU24_RS12985
 name,pgeF
 operon,1206
 gene_product,peptidoglycan editing factor PgeF
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12985"">BioCyc</a>"

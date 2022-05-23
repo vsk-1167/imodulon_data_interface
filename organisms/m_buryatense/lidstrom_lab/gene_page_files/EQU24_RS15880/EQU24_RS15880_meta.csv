@@ -3,6 +3,6 @@ gene_id,EQU24_RS15880
 name,motD
 operon,812
 gene_product,flagellar motor protein MotD
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15880"">BioCyc</a>"

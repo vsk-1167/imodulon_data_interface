@@ -3,6 +3,6 @@ gene_id,EQU24_RS03740
 name,prmC
 operon,2339
 gene_product,peptide chain release factor N(5)-glutamine methyltransferase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03740"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS13695
 name,arsA
 operon,1112
 gene_product,arsenical pump-driving ATPase
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13695"">BioCyc</a>"

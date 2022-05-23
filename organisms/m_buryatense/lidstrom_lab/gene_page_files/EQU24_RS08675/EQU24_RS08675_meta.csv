@@ -3,6 +3,6 @@ gene_id,EQU24_RS08675
 name,<i>Not Available</i>
 operon,1733
 gene_product,Ni/Fe hydrogenase subunit alpha
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08675"">BioCyc</a>"

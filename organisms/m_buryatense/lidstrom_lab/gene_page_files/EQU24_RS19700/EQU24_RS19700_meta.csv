@@ -3,6 +3,6 @@ gene_id,EQU24_RS19700
 name,murB
 operon,331
 gene_product,UDP-N-acetylmuramate dehydrogenase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19700"">BioCyc</a>"

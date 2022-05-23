@@ -3,6 +3,6 @@ gene_id,EQU24_RS06970
 name,sdhD
 operon,1945
 gene_product,"succinate dehydrogenase, hydrophobic membrane anchor protein"
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06970"">BioCyc</a>"

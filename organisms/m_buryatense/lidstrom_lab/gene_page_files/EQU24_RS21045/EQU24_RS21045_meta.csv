@@ -3,6 +3,6 @@ gene_id,EQU24_RS21045
 name,gshB
 operon,144
 gene_product,glutathione synthase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21045"">BioCyc</a>"

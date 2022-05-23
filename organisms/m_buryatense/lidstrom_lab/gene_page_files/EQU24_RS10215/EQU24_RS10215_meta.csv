@@ -3,6 +3,6 @@ gene_id,EQU24_RS10215
 name,lolD
 operon,1534
 gene_product,lipoprotein-releasing ABC transporter ATP-binding protein LolD
-cog,V
+cog,Defense mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10215"">BioCyc</a>"

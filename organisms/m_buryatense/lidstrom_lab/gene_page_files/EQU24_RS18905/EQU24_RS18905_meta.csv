@@ -3,6 +3,6 @@ gene_id,EQU24_RS18905
 name,<i>Not Available</i>
 operon,440
 gene_product,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase"
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18905"">BioCyc</a>"

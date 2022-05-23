@@ -1,4 +1,6 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS20510,0.5094926108156117,,hypothetical protein,-,227,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20510
-EQU24_RS20765,0.3114587191401324,,phosphatase PAP2 family protein,I,191,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20765
-EQU24_RS18585,0.289296252794241,,hypothetical protein,L,484,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18585
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS20510,0.5094926108156117,,hypothetical protein,No COG annotation,227,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20510
+EQU24_RS20765,0.3114587191401324,,phosphatase PAP2 family protein,Lipid transport and metabolism,191,integral component of membrane,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20765
+EQU24_RS18585,0.289296252794241,,hypothetical protein,"Replication, recombination and repair",484,"DNA binding
+transposase activity
+transposition, DNA-mediated",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18585

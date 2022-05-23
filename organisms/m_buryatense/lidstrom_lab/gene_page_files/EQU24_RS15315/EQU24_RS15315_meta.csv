@@ -3,6 +3,6 @@ gene_id,EQU24_RS15315
 name,<i>Not Available</i>
 operon,895
 gene_product,polyketide cyclase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15315"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS15360
 name,<i>Not Available</i>
 operon,888
 gene_product,phytoene/squalene synthase family protein
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15360"">BioCyc</a>"

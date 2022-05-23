@@ -3,6 +3,6 @@ gene_id,EQU24_RS22090
 name,<i>Not Available</i>
 operon,8
 gene_product,POT family MFS transporter
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS22090"">BioCyc</a>"

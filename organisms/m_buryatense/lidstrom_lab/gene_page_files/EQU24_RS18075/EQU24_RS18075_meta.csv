@@ -3,6 +3,6 @@ gene_id,EQU24_RS18075
 name,ilvA
 operon,551
 gene_product,"threonine ammonia-lyase, biosynthetic"
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18075"">BioCyc</a>"

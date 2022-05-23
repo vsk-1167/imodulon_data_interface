@@ -3,6 +3,6 @@ gene_id,EQU24_RS02355
 name,<i>Not Available</i>
 operon,2509
 gene_product,guanylate kinase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02355"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS18040
 name,rsmB
 operon,554
 gene_product,16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18040"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS05020
 name,<i>Not Available</i>
 operon,2199
 gene_product,chemotaxis response regulator protein-glutamate methylesterase
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05020"">BioCyc</a>"

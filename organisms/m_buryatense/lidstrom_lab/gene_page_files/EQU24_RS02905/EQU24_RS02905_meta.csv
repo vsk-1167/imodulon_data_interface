@@ -3,6 +3,6 @@ gene_id,EQU24_RS02905
 name,dmeF
 operon,2437
 gene_product,CDF family Co(II)/Ni(II) efflux transporter DmeF
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02905"">BioCyc</a>"

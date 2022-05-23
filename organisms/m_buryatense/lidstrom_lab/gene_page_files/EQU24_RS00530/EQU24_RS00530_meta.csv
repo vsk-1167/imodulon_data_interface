@@ -3,6 +3,6 @@ gene_id,EQU24_RS00530
 name,<i>Not Available</i>
 operon,2759
 gene_product,methionine adenosyltransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00530"">BioCyc</a>"

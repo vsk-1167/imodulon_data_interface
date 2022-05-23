@@ -3,6 +3,6 @@ gene_id,EQU24_RS05650
 name,bfr
 operon,1089
 gene_product,bacterioferritin
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05650"">BioCyc</a>"

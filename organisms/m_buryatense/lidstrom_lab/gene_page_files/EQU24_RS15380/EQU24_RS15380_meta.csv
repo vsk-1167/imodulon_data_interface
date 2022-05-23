@@ -3,6 +3,6 @@ gene_id,EQU24_RS15380
 name,<i>Not Available</i>
 operon,888
 gene_product,aspartate aminotransferase family protein
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15380"">BioCyc</a>"

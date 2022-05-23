@@ -3,6 +3,6 @@ gene_id,EQU24_RS21705
 name,<i>Not Available</i>
 operon,54
 gene_product,AsmA family protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21705"">BioCyc</a>"

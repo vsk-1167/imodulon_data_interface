@@ -3,6 +3,6 @@ gene_id,EQU24_RS04855
 name,rluC
 operon,2219
 gene_product,23S rRNA pseudouridine(955/2504/2580) synthase RluC
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04855"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS05630
 name,gltX
 operon,2124
 gene_product,glutamate--tRNA ligase
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05630"">BioCyc</a>"

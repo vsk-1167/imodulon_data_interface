@@ -3,6 +3,6 @@ gene_id,EQU24_RS18765
 name,<i>Not Available</i>
 operon,459
 gene_product,FimV family protein
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18765"">BioCyc</a>"

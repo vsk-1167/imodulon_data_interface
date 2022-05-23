@@ -3,6 +3,6 @@ gene_id,EQU24_RS15365
 name,shc
 operon,888
 gene_product,squalene--hopene cyclase
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15365"">BioCyc</a>"

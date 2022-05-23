@@ -3,6 +3,6 @@ gene_id,EQU24_RS18010
 name,topA
 operon,557
 gene_product,type I DNA topoisomerase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18010"">BioCyc</a>"

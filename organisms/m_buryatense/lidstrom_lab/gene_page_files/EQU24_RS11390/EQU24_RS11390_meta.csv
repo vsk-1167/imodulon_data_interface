@@ -3,6 +3,6 @@ gene_id,EQU24_RS11390
 name,<i>Not Available</i>
 operon,1399
 gene_product,YihY family inner membrane protein
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11390"">BioCyc</a>"

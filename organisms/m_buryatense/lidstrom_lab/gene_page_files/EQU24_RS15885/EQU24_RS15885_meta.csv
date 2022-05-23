@@ -3,6 +3,6 @@ gene_id,EQU24_RS15885
 name,<i>Not Available</i>
 operon,812
 gene_product,flagellar motor protein
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15885"">BioCyc</a>"

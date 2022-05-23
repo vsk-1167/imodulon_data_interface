@@ -3,6 +3,6 @@ gene_id,EQU24_RS03030
 name,<i>Not Available</i>
 operon,2418
 gene_product,Crp/Fnr family transcriptional regulator
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03030"">BioCyc</a>"

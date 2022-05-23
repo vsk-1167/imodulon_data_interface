@@ -3,6 +3,6 @@ gene_id,EQU24_RS17540
 name,hda
 operon,608
 gene_product,DnaA regulatory inactivator Hda
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17540"">BioCyc</a>"

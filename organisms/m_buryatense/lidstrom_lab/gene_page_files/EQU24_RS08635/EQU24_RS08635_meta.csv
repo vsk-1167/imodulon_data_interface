@@ -3,6 +3,6 @@ gene_id,EQU24_RS08635
 name,alr
 operon,1740
 gene_product,alanine racemase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08635"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS01455
 name,<i>Not Available</i>
 operon,2630
 gene_product,formate dehydrogenase subunit delta
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS01455"">BioCyc</a>"

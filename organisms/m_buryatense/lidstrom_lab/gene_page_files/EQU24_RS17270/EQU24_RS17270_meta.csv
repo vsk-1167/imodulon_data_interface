@@ -3,6 +3,6 @@ gene_id,EQU24_RS17270
 name,nifL
 operon,643
 gene_product,nitrogen fixation negative regulator NifL
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17270"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS03690
 name,mrdA
 operon,2344
 gene_product,penicillin-binding protein 2
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03690"">BioCyc</a>"

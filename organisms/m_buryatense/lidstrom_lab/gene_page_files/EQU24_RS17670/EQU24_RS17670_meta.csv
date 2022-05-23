@@ -3,6 +3,6 @@ gene_id,EQU24_RS17670
 name,<i>Not Available</i>
 operon,594
 gene_product,ISAzo13 family transposase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17670"">BioCyc</a>"

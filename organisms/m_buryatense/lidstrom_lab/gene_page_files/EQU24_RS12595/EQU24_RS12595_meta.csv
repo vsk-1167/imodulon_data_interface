@@ -3,6 +3,6 @@ gene_id,EQU24_RS12595
 name,cysM
 operon,1250
 gene_product,cysteine synthase CysM
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12595"">BioCyc</a>"

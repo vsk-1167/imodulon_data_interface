@@ -3,6 +3,6 @@ gene_id,EQU24_RS13360
 name,soxC
 operon,1154
 gene_product,sulfite dehydrogenase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13360"">BioCyc</a>"

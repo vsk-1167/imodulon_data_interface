@@ -3,6 +3,6 @@ gene_id,EQU24_RS02440
 name,polA
 operon,2495
 gene_product,DNA polymerase I
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS02440"">BioCyc</a>"

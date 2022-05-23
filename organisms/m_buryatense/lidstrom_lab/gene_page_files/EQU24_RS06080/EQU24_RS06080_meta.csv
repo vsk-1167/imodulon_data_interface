@@ -3,6 +3,6 @@ gene_id,EQU24_RS06080
 name,<i>Not Available</i>
 operon,2067
 gene_product,phosphoribosylglycinamide formyltransferase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06080"">BioCyc</a>"

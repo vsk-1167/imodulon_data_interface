@@ -3,6 +3,6 @@ gene_id,EQU24_RS19570
 name,<i>Not Available</i>
 operon,349
 gene_product,sulfurtransferase TusA family protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS19570"">BioCyc</a>"

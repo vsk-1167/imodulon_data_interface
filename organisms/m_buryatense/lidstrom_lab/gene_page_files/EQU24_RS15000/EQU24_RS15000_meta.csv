@@ -3,6 +3,6 @@ gene_id,EQU24_RS15000
 name,<i>Not Available</i>
 operon,935
 gene_product,exosortase/archaeosortase family protein
-cog,-
+cog,No COG annotation
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15000"">BioCyc</a>"

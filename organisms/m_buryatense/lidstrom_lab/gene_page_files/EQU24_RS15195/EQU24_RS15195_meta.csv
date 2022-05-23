@@ -3,6 +3,6 @@ gene_id,EQU24_RS15195
 name,hfq
 operon,912
 gene_product,RNA chaperone Hfq
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15195"">BioCyc</a>"

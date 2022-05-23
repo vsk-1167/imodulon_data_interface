@@ -3,6 +3,6 @@ gene_id,EQU24_RS18930
 name,hemL
 operon,438
 gene_product,"glutamate-1-semialdehyde-2,1-aminomutase"
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18930"">BioCyc</a>"

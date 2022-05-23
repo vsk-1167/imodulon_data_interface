@@ -3,6 +3,6 @@ gene_id,EQU24_RS09125
 name,<i>Not Available</i>
 operon,1677
 gene_product,methenyltetrahydromethanopterin cyclohydrolase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS09125"">BioCyc</a>"

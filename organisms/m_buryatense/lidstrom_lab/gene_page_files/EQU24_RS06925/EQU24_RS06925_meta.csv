@@ -3,6 +3,6 @@ gene_id,EQU24_RS06925
 name,rfbA
 operon,1950
 gene_product,glucose-1-phosphate thymidylyltransferase RfbA
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06925"">BioCyc</a>"

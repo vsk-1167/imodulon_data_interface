@@ -3,6 +3,6 @@ gene_id,EQU24_RS13210
 name,trpB
 operon,1173
 gene_product,tryptophan synthase subunit beta
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13210"">BioCyc</a>"

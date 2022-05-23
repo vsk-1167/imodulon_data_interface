@@ -3,6 +3,6 @@ gene_id,EQU24_RS06840
 name,<i>Not Available</i>
 operon,1964
 gene_product,terpene cyclase/mutase family protein
-cog,I
+cog,Lipid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06840"">BioCyc</a>"

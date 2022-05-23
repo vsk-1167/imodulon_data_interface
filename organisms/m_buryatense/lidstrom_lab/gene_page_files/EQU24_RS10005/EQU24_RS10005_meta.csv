@@ -3,6 +3,6 @@ gene_id,EQU24_RS10005
 name,rplI
 operon,1562
 gene_product,50S ribosomal protein L9
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10005"">BioCyc</a>"

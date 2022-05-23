@@ -3,6 +3,6 @@ gene_id,EQU24_RS11720
 name,ylqF
 operon,1352
 gene_product,ribosome biogenesis GTPase YlqF
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11720"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS22135
 name,mnmE
 operon,1
 gene_product,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS22135"">BioCyc</a>"

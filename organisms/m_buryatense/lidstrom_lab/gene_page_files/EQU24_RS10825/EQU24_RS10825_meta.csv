@@ -3,6 +3,6 @@ gene_id,EQU24_RS10825
 name,<i>Not Available</i>
 operon,1466
 gene_product,multidrug efflux RND transporter permease subunit
-cog,V
+cog,Defense mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS10825"">BioCyc</a>"

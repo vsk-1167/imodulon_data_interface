@@ -3,6 +3,6 @@ gene_id,EQU24_RS12300
 name,<i>Not Available</i>
 operon,1284
 gene_product,SOS response-associated peptidase
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12300"">BioCyc</a>"

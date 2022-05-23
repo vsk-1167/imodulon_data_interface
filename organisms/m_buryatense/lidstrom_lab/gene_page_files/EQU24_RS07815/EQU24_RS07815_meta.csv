@@ -3,6 +3,6 @@ gene_id,EQU24_RS07815
 name,cysD
 operon,1849
 gene_product,sulfate adenylyltransferase subunit CysD
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07815"">BioCyc</a>"

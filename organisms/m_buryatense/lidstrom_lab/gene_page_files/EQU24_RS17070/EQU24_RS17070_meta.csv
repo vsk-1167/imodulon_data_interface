@@ -3,6 +3,6 @@ gene_id,EQU24_RS17070
 name,nifD
 operon,666
 gene_product,nitrogenase molybdenum-iron protein alpha chain
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17070"">BioCyc</a>"

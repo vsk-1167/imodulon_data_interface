@@ -3,6 +3,6 @@ gene_id,EQU24_RS13615
 name,<i>Not Available</i>
 operon,1125
 gene_product,BLUF domain-containing protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13615"">BioCyc</a>"

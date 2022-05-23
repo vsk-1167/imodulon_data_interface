@@ -1,2 +1,6 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,link
-EQU24_RS12140,0.7129141605712639,cas2,CRISPR-associated endonuclease Cas2,L,1307,https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12140
+locus,gene_weight,gene_name,gene_product,cog,operon,specific_gos_n,link
+EQU24_RS12140,0.7129141605712639,cas2,CRISPR-associated endonuclease Cas2,"Replication, recombination and repair",1307,"RNA phosphodiester bond hydrolysis, endonucleolytic
+maintenance of CRISPR repeat elements
+endoribonuclease activity
+defense response to virus
+metal ion binding",https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12140

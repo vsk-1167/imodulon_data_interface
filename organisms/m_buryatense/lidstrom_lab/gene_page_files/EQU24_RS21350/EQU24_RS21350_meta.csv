@@ -3,6 +3,6 @@ gene_id,EQU24_RS21350
 name,apaG
 operon,104
 gene_product,Co2+/Mg2+ efflux protein ApaG
-cog,P
+cog,Inorganic ion transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS21350"">BioCyc</a>"

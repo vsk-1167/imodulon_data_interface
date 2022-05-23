@@ -3,6 +3,6 @@ gene_id,EQU24_RS18215
 name,aroE
 operon,529
 gene_product,shikimate dehydrogenase
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18215"">BioCyc</a>"

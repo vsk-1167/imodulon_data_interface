@@ -3,6 +3,6 @@ gene_id,EQU24_RS06050
 name,ggt
 operon,2069
 gene_product,gamma-glutamyltransferase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS06050"">BioCyc</a>"

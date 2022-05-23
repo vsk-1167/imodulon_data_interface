@@ -3,6 +3,6 @@ gene_id,EQU24_RS03325
 name,lptF
 operon,2390
 gene_product,LPS export ABC transporter permease LptF
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03325"">BioCyc</a>"

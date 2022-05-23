@@ -3,6 +3,6 @@ gene_id,EQU24_RS11870
 name,<i>Not Available</i>
 operon,1336
 gene_product,PepSY domain-containing protein
-cog,S
+cog,Function unknown
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11870"">BioCyc</a>"

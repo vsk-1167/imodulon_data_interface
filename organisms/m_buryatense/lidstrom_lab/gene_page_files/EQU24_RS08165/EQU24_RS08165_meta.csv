@@ -3,6 +3,6 @@ gene_id,EQU24_RS08165
 name,<i>Not Available</i>
 operon,1801
 gene_product,transposase
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS08165"">BioCyc</a>"

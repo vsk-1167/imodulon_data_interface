@@ -3,6 +3,6 @@ gene_id,EQU24_RS05490
 name,genX
 operon,2143
 gene_product,EF-P lysine aminoacylase GenX
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05490"">BioCyc</a>"

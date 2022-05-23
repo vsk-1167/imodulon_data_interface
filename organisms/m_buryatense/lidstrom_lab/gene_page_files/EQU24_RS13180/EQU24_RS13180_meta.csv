@@ -3,6 +3,6 @@ gene_id,EQU24_RS13180
 name,purF
 operon,1174
 gene_product,amidophosphoribosyltransferase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13180"">BioCyc</a>"

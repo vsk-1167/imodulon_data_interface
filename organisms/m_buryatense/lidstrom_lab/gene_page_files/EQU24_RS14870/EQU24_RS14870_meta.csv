@@ -3,6 +3,6 @@ gene_id,EQU24_RS14870
 name,<i>Not Available</i>
 operon,950
 gene_product,urease accessory protein UreF
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14870"">BioCyc</a>"

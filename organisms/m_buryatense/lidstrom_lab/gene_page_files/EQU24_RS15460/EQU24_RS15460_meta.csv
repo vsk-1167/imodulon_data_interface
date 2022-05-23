@@ -3,6 +3,6 @@ gene_id,EQU24_RS15460
 name,<i>Not Available</i>
 operon,874
 gene_product,outer membrane lipoprotein-sorting protein
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS15460"">BioCyc</a>"

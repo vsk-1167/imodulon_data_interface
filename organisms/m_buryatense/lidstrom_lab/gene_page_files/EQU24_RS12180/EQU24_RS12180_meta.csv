@@ -3,6 +3,6 @@ gene_id,EQU24_RS12180
 name,csm2
 operon,1302
 gene_product,type III-A CRISPR-associated protein Csm2
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12180"">BioCyc</a>"

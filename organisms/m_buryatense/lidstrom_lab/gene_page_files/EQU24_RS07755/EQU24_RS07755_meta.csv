@@ -3,6 +3,6 @@ gene_id,EQU24_RS07755
 name,cheD
 operon,1854
 gene_product,chemoreceptor glutamine deamidase CheD
-cog,N
+cog,Cell motility
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS07755"">BioCyc</a>"

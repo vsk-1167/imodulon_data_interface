@@ -3,6 +3,6 @@ gene_id,EQU24_RS12015
 name,cobM
 operon,1318
 gene_product,precorrin-4 C(11)-methyltransferase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12015"">BioCyc</a>"

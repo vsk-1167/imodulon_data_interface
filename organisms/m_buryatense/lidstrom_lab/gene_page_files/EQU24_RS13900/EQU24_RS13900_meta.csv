@@ -3,6 +3,6 @@ gene_id,EQU24_RS13900
 name,grxC
 operon,1088
 gene_product,glutaredoxin 3
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13900"">BioCyc</a>"

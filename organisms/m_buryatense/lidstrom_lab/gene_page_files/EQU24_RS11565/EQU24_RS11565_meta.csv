@@ -3,6 +3,6 @@ gene_id,EQU24_RS11565
 name,recN
 operon,1373
 gene_product,DNA repair protein RecN
-cog,L
+cog,"Replication, recombination and repair"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11565"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS00835
 name,trpD
 operon,2718
 gene_product,anthranilate phosphoribosyltransferase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00835"">BioCyc</a>"

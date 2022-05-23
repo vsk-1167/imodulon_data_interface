@@ -3,6 +3,6 @@ gene_id,EQU24_RS18310
 name,rlmH
 operon,517
 gene_product,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
-cog,J
+cog,"Translation, ribosomal structure and biogenesis"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS18310"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS00420
 name,typA
 operon,2771
 gene_product,translational GTPase TypA
-cog,T
+cog,Signal transduction mechanisms
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS00420"">BioCyc</a>"

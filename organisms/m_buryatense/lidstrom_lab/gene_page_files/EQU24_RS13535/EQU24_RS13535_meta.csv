@@ -3,6 +3,6 @@ gene_id,EQU24_RS13535
 name,<i>Not Available</i>
 operon,1136
 gene_product,alpha-amylase
-cog,G
+cog,Carbohydrate transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS13535"">BioCyc</a>"

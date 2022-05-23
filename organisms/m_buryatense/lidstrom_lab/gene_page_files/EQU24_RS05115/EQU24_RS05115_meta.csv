@@ -3,6 +3,6 @@ gene_id,EQU24_RS05115
 name,gspG
 operon,2186
 gene_product,type II secretion system protein GspG
-cog,U
+cog,"Intracellular trafficking, secretion, and vesicular transport"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05115"">BioCyc</a>"

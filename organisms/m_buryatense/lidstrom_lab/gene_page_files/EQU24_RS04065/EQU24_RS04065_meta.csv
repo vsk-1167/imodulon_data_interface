@@ -3,6 +3,6 @@ gene_id,EQU24_RS04065
 name,ilvN
 operon,2319
 gene_product,acetolactate synthase small subunit
-cog,E
+cog,Amino acid transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS04065"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS20190
 name,<i>Not Available</i>
 operon,270
 gene_product,tetratricopeptide repeat protein
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20190"">BioCyc</a>"

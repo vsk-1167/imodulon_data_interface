@@ -3,6 +3,6 @@ gene_id,EQU24_RS03145
 name,mlaD
 operon,2408
 gene_product,outer membrane lipid asymmetry maintenance protein MlaD
-cog,Q
+cog,"Secondary metabolites biosynthesis, transport, and catabolism"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS03145"">BioCyc</a>"

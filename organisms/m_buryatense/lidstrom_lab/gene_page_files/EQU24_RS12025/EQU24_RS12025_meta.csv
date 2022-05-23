@@ -3,6 +3,6 @@ gene_id,EQU24_RS12025
 name,<i>Not Available</i>
 operon,1318
 gene_product,precorrin-8X methylmutase
-cog,H
+cog,Coenzyme transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS12025"">BioCyc</a>"

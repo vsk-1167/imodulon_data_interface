@@ -3,6 +3,6 @@ gene_id,EQU24_RS14125
 name,ctaD
 operon,1055
 gene_product,cytochrome c oxidase subunit I
-cog,C
+cog,Energy production and conversion
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS14125"">BioCyc</a>"

@@ -3,6 +3,6 @@ gene_id,EQU24_RS20440
 name,<i>Not Available</i>
 operon,238
 gene_product,"alternate F1F0 ATPase, F1 subunit alpha"
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS20440"">BioCyc</a>"

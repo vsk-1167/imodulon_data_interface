@@ -3,6 +3,6 @@ gene_id,EQU24_RS11795
 name,<i>Not Available</i>
 operon,1343
 gene_product,tetraacyldisaccharide 4'-kinase
-cog,F
+cog,Nucleotide transport and metabolism
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11795"">BioCyc</a>"

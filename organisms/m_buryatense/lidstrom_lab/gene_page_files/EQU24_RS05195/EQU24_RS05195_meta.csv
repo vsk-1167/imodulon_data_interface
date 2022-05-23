@@ -3,6 +3,6 @@ gene_id,EQU24_RS05195
 name,nusB
 operon,2179
 gene_product,transcription antitermination factor NusB
-cog,K
+cog,Transcription
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS05195"">BioCyc</a>"

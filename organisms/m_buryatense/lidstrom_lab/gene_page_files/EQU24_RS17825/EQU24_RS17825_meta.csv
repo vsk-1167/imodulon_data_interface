@@ -1,8 +1,8 @@
 ,0
 gene_id,EQU24_RS17825
-name,<i>Not Available</i>
+name,groS
 operon,582
 gene_product,co-chaperone GroES
-cog,O
+cog,"Post-translational modification, protein turnover, and chaperones"
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS17825"">BioCyc</a>"

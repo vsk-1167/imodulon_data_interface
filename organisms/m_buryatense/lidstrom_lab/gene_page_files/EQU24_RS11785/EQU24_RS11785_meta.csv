@@ -3,6 +3,6 @@ gene_id,EQU24_RS11785
 name,kdsB
 operon,1343
 gene_product,3-deoxy-manno-octulosonate cytidylyltransferase
-cog,M
+cog,Cell wall/membrane/envelope biogenesis
 regulator,<i>Not Available</i>
 link,"<a href=""https://biocyc.org/gene?orgid=GCF_005931095&id=EQU24_RS11785"">BioCyc</a>"
