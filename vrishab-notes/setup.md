@@ -1,4 +1,4 @@
-<b>Setuo</b>
+<b>Set Up</b>
 
 <i>Connecting to the internet requires two steps: </i>
 
