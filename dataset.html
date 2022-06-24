@@ -160,7 +160,7 @@
 
         <!-- Main body -->
         <div class="col-md-9 p-3">
-            <h5 class="text-center">iModulons</h5>
+            <h5 class="text-center">Gene Clusters</h5>
 
             <!-- iModulon Table -->
             <div id="iM_table" style="width: 100%"></div>
@@ -208,6 +208,10 @@
 <script>
     // get the URL search params to know which dataset to generate
     var params = new URLSearchParams(window.location.search);
+
+    var organism = params.get('organism')
+    var dataset = params.get('dataset')
+
     var prefix = 'organisms/' + params.get('organism') + '/' + params.get('dataset') + '/';
     var link_suffix = "?organism=" + params.get('organism') + "&dataset=" + params.get('dataset');
 
@@ -239,7 +243,15 @@
 
 
     // populate the table
-    $.get(prefix + 'data_files/iM_table.csv', function (table_data) {
+
+    // --> for new kmeans and birch datasets: 
+    if (organism === "m_buryatense" && (dataset === "k_means" || dataset === "birch")){
+
+        
+
+    } else {
+
+        $.get(prefix + 'data_files/iM_table.csv', function (table_data) {
 
         // get the data, convert to objects
         var data = Papa.parse(table_data, {dynamicTyping: true}).data;
@@ -324,6 +336,9 @@
         });
         table.redraw();
     });
+        
+    }
+    
 </script>
 </body>
 </html>
