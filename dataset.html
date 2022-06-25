@@ -232,6 +232,8 @@
         if (title.slice(-8) != ' Dataset') {
             title = title + ' Dataset';
         }
+
+        console.log(title)
         $('#title').append(title);
 
         // header text
@@ -246,7 +248,7 @@
 
     // --> for new kmeans and birch datasets: 
     if (organism === "m_buryatense" && (dataset === "k_means" || dataset === "birch")){
-        console.log(prefix)
+       
         var data_set_filename = prefix + "data_files/df_" + dataset + "_summary_visualization.csv"
 
         $.get(data_set_filename, function (table_data) {
