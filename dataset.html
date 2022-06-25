@@ -240,13 +240,67 @@
             $('#header').append('<p class="im_head_meta_val">' + metadata[i][1] + '</p>');
         }
     });
-
+    
 
     // populate the table
 
     // --> for new kmeans and birch datasets: 
     if (organism === "m_buryatense" && (dataset === "k_means" || dataset === "birch")){
+        console.log(prefix)
+        var data_set_filename = prefix + "data_files/df_" + dataset + "_summary_visualization.csv"
 
+        $.get(data_set_filename, function (table_data) {
+            // get the data, convert to objects
+            var data = Papa.parse(table_data, {dynamicTyping: true}).data;
+            var tabledata = []
+            for (i = 1; i < data.length - 1; i++) { //rows, excluding header
+                var obj = {};
+                for (j = 1; j < data[0].length; j++) { //cols
+                    obj[data[0][j]] = data[i][j];
+
+                }
+                tabledata.push(obj);
+            }
+            console.log(tabledata)
+
+            
+
+            // columns object
+        var columns = [
+            {title: "Cluster ID", field: "cluster_id", frozen: true, formatter: "textarea", widthGrow: 2},
+            {title: "Number of Genes", field: "num_genes", formatter: "textarea", widthGrow: 3},
+            {title: "Enriched GO Terms", field: "enriched_go_terms", formatter: "textarea", widthGrow: 5
+            }
+        ]
+
+         // generate the table
+         var table = new Tabulator('#iM_table', {
+
+            layout: "fitColumns",
+            data: tabledata,
+            columns: columns,
+            initialSort: [
+                {column: "cluster_id", dir: "asc"},
+                // {column: "num_genes", dir: "asc"},
+                // {column: "enriched_go_terms", dir: "desc"}
+            ],
+            /*[ //old version
+                {column: "Regulator", dir: "asc"},
+                {column: "Category", dir: "asc"},
+            ],*/
+            rowClick: function (e, row) { //link to the page in a database
+                var link = 'iModulon.html?';
+                link += 'organism=' + params.get('organism') + '&';
+                link += 'dataset=' + params.get('dataset') + '&';
+                link += 'k=' + row.getData().k;
+                window.location.href = link;
+            },
+            tooltips: function (cell) {
+                return "Click to view iModulon dashboard";
+            }
+            });
+            table.redraw();
+            });
         
 
     } else {
