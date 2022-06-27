@@ -255,10 +255,22 @@
             // get the data, convert to objects
             var data = Papa.parse(table_data, {dynamicTyping: true}).data;
             var tabledata = []
-            for (i = 1; i < data.length - 1; i++) { //rows, excluding header
+            for (row = 1; row < data.length - 1; row++) { //rows, excluding header
                 var obj = {};
-                for (j = 1; j < data[0].length; j++) { //cols
-                    obj[data[0][j]] = data[i][j];
+                for (col = 1; col < data[0].length; col++) { //cols
+
+                    // col != 3 --> allows else to handle the go terms
+                    if (col != 4){
+                        obj[data[0][col]] = data[row][col];
+                    }
+                    // represents the column for go terms
+                    else {
+                        // for readability, adding \n tags between each go term
+                        
+                        var go_terms = data[row][col]
+                        console.log(go_terms.substr(1,  go_terms.length - 1).split(','))
+                    }
+                    
 
                 }
                 tabledata.push(obj);
