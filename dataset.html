@@ -302,15 +302,18 @@
                 {column: "Regulator", dir: "asc"},
                 {column: "Category", dir: "asc"},
             ],*/
-            rowClick: function (e, row) { //link to the page in a database
-                var link = 'iModulon.html?';
+            rowClick: function (e, row) { 
+                //link to the page in a database: 
+                // --> Cluster.html for kmeans + Birch
+                // --> iModulon.html for Modulome data
+                var link = 'cluster.html?';
                 link += 'organism=' + params.get('organism') + '&';
                 link += 'dataset=' + params.get('dataset') + '&';
                 link += 'k=' + row.getData().k;
                 window.location.href = link;
             },
             tooltips: function (cell) {
-                return "Click to view iModulon dashboard";
+                return "Click to view Cluster dashboard";
             }
             });
             table.redraw();

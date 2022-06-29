@@ -20,7 +20,7 @@
       gtag('config', 'UA-176090948-2');
     </script>
     
-    <title> iModulonDB </title>
+    <title> Cluster </title>
     <!-- Metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -168,7 +168,7 @@
         <!-- Main body -->
         <div class="col-md-9 p-3">
 
-            <!-- iModulon header & gene table -->
+            <!-- Cluster header & gene table -->
             <div class="row">
                 <div class="col-md-12">
                     <div class="row mx-auto justify-content-center">
@@ -325,7 +325,7 @@
     document.getElementById('gene_download').setAttribute('href', 'organisms/' + params.get('organism') + '/annotation/gene_files.zip');
     document.getElementById('meta_download').setAttribute('href', org_folder + 'data_files/sample_table.csv');
 
-    // read in the iModulon metadata
+    // read in the Cluster metadata
     $.get(data_prefix + "meta.csv", function (im_metaCSV) {
         var im_meta = Papa.parse(im_metaCSV, {dynamicTyping: true}).data;
         
@@ -333,18 +333,18 @@
         $.get(org_folder + 'dataset_meta.csv', function (meta) {
             var metadata = Papa.parse(meta).data;
             
-            // iModulon name
+            // Cluster name
             var im_name = im_meta[1][1];
             if (typeof(im_name) == 'number') {
-                im_name = 'iModulon ' + im_name.toString()
+                im_name = 'Cluster ' + im_name.toString()
             } else {
-                if ((im_name.slice(0, 8) != 'iModulon') & (im_name.slice(-8) != 'iModulon')) {
-                    im_name = im_name + ' iModulon';
+                if ((im_name.slice(0, 8) != 'Cluster') & (im_name.slice(-8) != 'Cluster')) {
+                    im_name = im_name + ' Cluster';
                 }
             }
             $('#im_name').append(im_name);
             
-            // iModulon details
+            // Cluster details
             $('#im_head_text').append('<p class="im_head_meta_cat">DATASET</p>');
             $('#im_head_text').append('<p class="im_head_meta_val">'+metadata[1][1]+'</p>');
             
@@ -378,7 +378,7 @@
             
             
             // change page title
-            document.title = 'iModulonDB: ' + im_meta[1][1] + ' iModulon';
+            document.title = 'Cluster #: ' + im_meta[1][1] ;
         });
         // add download links specific to this imodulon
         document.getElementById("gene_table_download").setAttribute('href', data_prefix + 'gene_table.csv');
@@ -452,15 +452,15 @@
     var k = params.get('k');
     $.get(org_folder + 'num_ims.txt', function (num_ims) {
         if (k == num_ims-1) {
-            document.getElementById('next_iM').setAttribute('href', 'iModulon.html' + link_suffix + '&k=0')
+            document.getElementById('next_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=0')
         } else {
-            document.getElementById('next_iM').setAttribute('href', 'iModulon.html' + link_suffix + '&k=' + (parseInt(k) + 1))
+            document.getElementById('next_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + (parseInt(k) + 1))
         }
 
         if (k == 0) {
-            document.getElementById('prev_iM').setAttribute('href', 'iModulon.html' + link_suffix + '&k=' + num_ims)
+            document.getElementById('prev_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + num_ims)
         } else {
-            document.getElementById('prev_iM').setAttribute('href', 'iModulon.html' + link_suffix + '&k=' + (parseInt(k) - 1))
+            document.getElementById('prev_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + (parseInt(k) - 1))
         }
     });
 
