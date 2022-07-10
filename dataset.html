@@ -309,7 +309,8 @@
                 var link = 'cluster.html?';
                 link += 'organism=' + params.get('organism') + '&';
                 link += 'dataset=' + params.get('dataset') + '&';
-                link += 'k=' + row.getData().k;
+                link += 'k=' + String(row.getData().cluster_id);
+
                 window.location.href = link;
             },
             tooltips: function (cell) {

@@ -12,7 +12,7 @@ function qs(key) {
 }
 
 // Write table to container 
-function generateGeneTable(csvContent, container, organism, dataset = "modulome") {
+function generateClusterGeneTable(csvContent, container, organism, dataset = "modulome") {
     // get the data
     var data = Papa.parse(csvContent, {dynamicTyping: true}).data;
 
