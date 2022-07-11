@@ -303,6 +303,7 @@
 <!-- Custom scripts -->
 <script src="js/gene_histogram.js"></script>
 <script src="js/gene_table.js"></script>
+<script src="js/cluster_gene_table.js"></script>
 <script src="js/gene_scatter.js"></script>
 <script src="js/activity_bar.js"></script>
 <script src="js/regulon_venn.js"></script>
@@ -408,13 +409,7 @@
     console.log(data_prefix)
     $.get(data_prefix + 'gene_table.csv', function (gene_table_data) {
 
-        if (params.get('organism') != "m_buryatense"){
-            generateClusterGeneTable(gene_table_data, "gene_table", params.get('organism'));
-
-        } else{
-            generateGeneTable(gene_table_data, "gene_table", params.get('organism'));
-
-        }
+        generateClusterGeneTable(gene_table_data, "gene_table", params.get('organism'));
     });
 
 
@@ -434,19 +429,19 @@
 
     // add navbar links
     var k = params.get('k');
-    $.get(org_folder + 'num_ims.txt', function (num_ims) {
-        if (k == num_ims-1) {
-            document.getElementById('next_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=0')
-        } else {
-            document.getElementById('next_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + (parseInt(k) + 1))
-        }
+    // $.get(org_folder + 'num_ims.txt', function (num_ims) {
+    //     if (k == num_ims-1) {
+    //         document.getElementById('next_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=0')
+    //     } else {
+    //         document.getElementById('next_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + (parseInt(k) + 1))
+    //     }
 
-        if (k == 0) {
-            document.getElementById('prev_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + num_ims)
-        } else {
-            document.getElementById('prev_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + (parseInt(k) - 1))
-        }
-    });
+    //     if (k == 0) {
+    //         document.getElementById('prev_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + num_ims)
+    //     } else {
+    //         document.getElementById('prev_iM').setAttribute('href', 'Cluster.html' + link_suffix + '&k=' + (parseInt(k) - 1))
+    //     }
+    // });
 
 </script>
 </body>
