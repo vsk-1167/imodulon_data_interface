@@ -43,7 +43,51 @@ function generateGeneTable(csvContent, container, organism, dataset = "modulome"
         }
     ]
 
-    // columns object: basic info
+    if (organism == "m_buryatense" && (dataset == "k_means" || dataset == "birch")){
+         // columns object: basic info
+    var columns = [
+        {
+            title: "Locus Tag", 
+            field: "locus_tag", 
+            headerContextMenu: headerMenu
+        },
+        {
+            title: "Gene", 
+            field: "gene",
+            //formatter: "money", formatterParams: {precision: 4},
+            headerContextMenu: headerMenu
+        },
+        {
+            title: "Gene Product", 
+            field: "product", 
+            headerContextMenu: headerMenu
+        },
+        {
+            title: "Start Coordinate", 
+            field: "start_coord", 
+            headerContextMenu: headerMenu
+        },
+        {
+            title: "End Coordinate", 
+            field: "end_coord", 
+            headerContextMenu: headerMenu
+        },
+        {
+            title: "Length", 
+            field: "length", 
+            headerContextMenu: headerMenu
+        },
+        {
+            title: "Known Grouping", // ask about true terminology for this
+            field: "group", 
+            headerContextMenu: headerMenu
+        }
+    ]
+    }
+
+    else {
+
+        // columns object: basic info
     var columns = [
         {title: "", field: "locus", width: 50},
         {
@@ -83,6 +127,7 @@ function generateGeneTable(csvContent, container, organism, dataset = "modulome"
         {title: "GO terms", field: "specific_gos_n",formatter:'textarea', headerContextMenu: headerMenu}, // Erin addition
         {field: "end", visible: false} // facilitates moving to end
     ]);
+    }
 
     // generate the table
     var table = new Tabulator('#' + container, {
@@ -98,7 +143,7 @@ function generateGeneTable(csvContent, container, organism, dataset = "modulome"
             var link = 'gene.html?';
             link += 'organism=' + qs('organism') + '&';
             link += 'dataset=' + qs('dataset') + '&';
-            link += 'gene_id=' + row.getData().locus;
+            link += 'gene_id=' + row.getData().locus_tag
             window.open(link);
         },
         tooltips: function (cell) {

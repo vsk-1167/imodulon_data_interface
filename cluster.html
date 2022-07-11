@@ -309,6 +309,8 @@
 <script src="js/regulon_venn.js"></script>
 <script src="js/regulon_scatter.js"></script>
 
+<!-- Scripts for d3 visualizations -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
 
 <!-- Populate the HTML page -->
 <script>
@@ -409,7 +411,7 @@
     console.log(data_prefix)
     $.get(data_prefix + 'gene_table.csv', function (gene_table_data) {
 
-        generateClusterGeneTable(gene_table_data, "gene_table", params.get('organism'));
+        generateGeneTable(gene_table_data, "gene_table", params.get('organism'), params.get('dataset'));
     });
 
 
