@@ -1,0 +1,209 @@
+        
+//     if(chart_type == "highchart"){
+       
+//       var data = Papa.parse(csvContent, {dynamicTyping: true}).data;
+//     // convert rows into objects
+//     var tabledata = []
+//     for (i = 1; i < data.length - 1; i++) { //rows, excluding header
+//         var obj = {id: i};
+//         for (j = 0; j < data[0].length - 1; j++) { //cols, excluding link
+//             obj[data[0][j]] = data[i][j];
+//         }
+//         tabledata.push(obj)
+//     }
+
+//       var chart_options = {chart: {
+//             type: 'spline',
+//             parallelCoordinates: true,
+//             parallelAxes: {
+//                   lineWidth: 2
+//             }
+//             },
+//             title: {
+//             text: 'Differential Gene Expression'
+//             },
+//             lang: {
+//             accessibility: {
+//                   axis: {
+//                         yAxisDescriptionPlural: 'This chart shows the differential gene expression for loci of the specified cluster over 19 growth conditions'
+//                   }
+//             }
+//             },
+//             plotOptions: {
+//             series: {
+//                   accessibility: {
+//                         enabled: false
+//                   },
+//                   animation: false,
+//                   marker: {
+//                         enabled: false,
+//                         states: {
+//                         hover: {
+//                               enabled: false
+//                         }
+//                         }
+//                   },
+//                   states: {
+//                         hover: {
+//                         halo: {
+//                               size: 0
+//                         }
+//                         }
+//                   },
+//                   events: {
+//                         mouseOver: function () {
+//                         this.group.toFront();
+//                         }
+//                   }
+//             }
+//             },
+//             tooltip: {
+//             pointFormat: '<span style="color:{point.color}">\u25CF</span>' +
+//                   '{series.name}: <b>{point.formattedValue}</b><br/>'
+//             },
+//             xAxis: {
+//             categories: [
+//                   "LanzaTech"
+//                   ,"MeOH"
+//                   ,"NO3_lowO2_slow_growth"
+//                   ,"NoCu"
+//                   ,"NoLanthanum"
+//                   ,"WT_control"
+//                   ,"WithLanthanum"
+//                   ,"aa3_KO"
+//                   ,"crotonic_acid"
+//                   ,"highCu"
+//                   ,"highO2_slow_growth"
+//                   ,"lowCH4"
+//                   ,"lowCu"
+//                   ,"lowO2_fast_growth"
+//                   ,"lowO2_low_iron_fast_growth"
+//                   ,"lowO2_slow_growth"
+//                   ,"medCu"
+//                   ,"slow_growth"
+//                   ,"uMax"
+//             ],
+//             offset: 10
+//             },
+//             yAxis: [{
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }, {
+//             min: 0
+//             }],
+//             colors: ['rgba(11, 200, 200, 0.1)']    ,
+//             series: data.map(function (set, i) {
+//             return {
+//                   name: 'Runner ' + i,
+//                   data: set,
+//                   shadow: false
+//             };
+//             })
+//       }
+
+//     }
+//     var chart = Highcharts.chart(container, chartOptions);
+//     return
+
+
+
+
+
+
+
+
+//     // get the data
+//     var data = Papa.parse(csvContent, {dynamicTyping: true}).data;
+
+//     // convert rows into objects
+//     var tabledata = []
+//     for (i = 1; i < data.length - 1; i++) { //rows, excluding header
+//         var obj = {id: i};
+//         for (j = 0; j < data[0].length - 1; j++) { //cols, excluding link
+//             obj[data[0][j]] = data[i][j];
+//         }
+//         tabledata.push(obj)
+//     }
+
+//     keys = Object.keys(tabledata[0])
+
+
+//     var height = keys.length * 120
+
+         
+//     var width = 500
+    
+//     var graph = d3.select("#parallel_coords")
+//        .append("svg")
+//        .attr("width", width)
+//        .attr("height", height);
+    
+//     var bar = svgSelection.selectAll('g')
+//       .append("g")
+//       .attr("fill", "green")
+//       .attr("stroke-width", 1.5)
+//       .attr("stroke-opacity", 0.4)
+//       .selectAll("path")
+//       .attr("d", d => line(d3.cross(keys, [d], (key, d) => [key, d[key]])))
+//       .append("title")
+//       .text(d => d.name);
+    
+//     var x_test = svgSelection.append("g")
+//     .selectAll("g")
+//     .data(keys)
+//     .join("g")
+//       .attr("transform", d => `translate(${x(d)} )`)
+//       .each(function(d) { d3.select(this).call(d3.axisRight(y.get(d))); })
+//       .call(g => g.append("text")
+//         .attr("x", -10)
+//         .attr("y", margin.top - 20)
+//         .attr("text-anchor", "start")
+//         .attr("fill", "currentColor")
+//         .text(d => d))
+//       .call(g => g.selectAll("text")
+//         .clone(true).lower()
+//         .attr("fill", "none")
+//         .attr("stroke-width", 5)
+//         .attr("stroke-linejoin", "round")
+//         .attr("stroke", "green"));
+
+
+    //console.log(tabledata)
+    //console.log(data)
+    //console.log(y)
+    //console.log(keys)
+
+
